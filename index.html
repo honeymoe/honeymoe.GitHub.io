@@ -1,394 +1,306 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
-    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
-    <link rel="stylesheet" href="http://honeymoe.github.io/media/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/css/live2d.css">
-    <link rel="stylesheet" href="http://honeymoe.github.io/styles/main.css">
-    <meta name="description" content="丢掉幻想，准备斗争！" />
-    <title>小透明书屋</title>
-</head>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>小透明书屋</title>
+<meta name="description" content="丢掉幻想，准备斗争！">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" href="http://honeymoe.github.io/favicon.ico?v=1604912098867">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" href="https://unpkg.com/papercss@1.6.1/dist/paper.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+<link rel="stylesheet" href="http://honeymoe.github.io/styles/main.css">
 
 
-<body>
-    <!-- 响应式布局，针对PC端内容显示 -->
-    <div id="content">
-        <div class="nav-large">
-            <div class="row">
-                
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+
+  </head>
+  <body>
+    <nav class="navbar border fixed split-nav">
+  <div class="nav-brand">
+    <h3><a href="http://honeymoe.github.io">小透明书屋</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+      <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
         
-    </div>
-    
-    
-    </div>
-    <div id="bg">
-    </div>
-    <div id="bgchoice" style="display: none">
-    </div>
+          <li>
             
-            <div id="bgurl" style="display:none"></div>
-             
+              <a href="/" class="menu">
+                首页
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/archives" class="menu">
+                归档
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/tags" class="menu">
+                标签
+              </a>
+            
+          </li>
+        
+          <li>
+            
+              <a href="/post/about" class="menu">
+                关于
+              </a>
+            
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
 
-    <!-- 响应式布局，针对手机端内容显示 -->
-    <div class="nav-small">
-            <head>
-  <!-- 引入Bootstrap核心样式文件 -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/css/bootstrap.min.css">
-</head>
-<style>
-  @media screen and (max-width:1200px) and (min-width: 768px) {
-    @media (min-width: 768px) {
-      .navbar-nav {
-        float: right;
-        margin: 0;
-      }
-    }
-  }
-  @media screen and (max-width:768px){
-    .mbapspan{
-      padding: 0;
-    }
-  }
-</style>
 
-<body>
-  <nav class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container-fluid">
-      <!-- Brand and toggle get grouped for better mobile display -->
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#barmenu"
-          aria-expanded="false" id="barbutton">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
+    <div id="top" class="row site">
+      <div class="sm-12 md-8 col">
+        <div class="paper">
+          
+  <article class="article">
+    <h2 class="article-title">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/">【不是汉化组】【数据制胜：三人麻将】6　先制愚形听牌</a>
+    </h2>
+    <p class="article-meta">
+      2020-11-09
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/" class="readmore-link">
+        <button>
+          Read More
         </button>
-        <a class="navbar-brand" href="http://honeymoe.github.io">小透明书屋&nbsp;&nbsp;|</a>
-        <span class="navbar-brand mbapspan"><i id="mbaplayer" class="fa fa-play-circle-o" aria-hidden="true"
-            style="font-size: 28px;top: 12px;position: absolute;" onclick="aplayerPlay();"></i></span>
+      </a>
+    </div>
+  </article>
+
+  <article class="article">
+    <h2 class="article-title">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/">【不是汉化组】【数据制胜：三人麻将】5　先制两面听牌</a>
+    </h2>
+    <p class="article-meta">
+      2020-11-09
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/" class="readmore-link">
+        <button>
+          Read More
+        </button>
+      </a>
+    </div>
+  </article>
+
+  <article class="article">
+    <h2 class="article-title">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/">【不是汉化组】【数据制胜：三人麻将】4　关于局收支理论</a>
+    </h2>
+    <p class="article-meta">
+      2020-11-09
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/" class="readmore-link">
+        <button>
+          Read More
+        </button>
+      </a>
+    </div>
+  </article>
+
+  <article class="article">
+    <h2 class="article-title">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/">【不是汉化组】【数据制胜：三人麻将】3　把握三麻的偶然性</a>
+    </h2>
+    <p class="article-meta">
+      2020-11-09
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/" class="readmore-link">
+        <button>
+          Read More
+        </button>
+      </a>
+    </div>
+  </article>
+
+  <article class="article">
+    <h2 class="article-title">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/">【不是汉化组】【数据制胜：三人麻将】2　由数据分析胜者的倾向</a>
+    </h2>
+    <p class="article-meta">
+      2020-11-09
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/" class="readmore-link">
+        <button>
+          Read More
+        </button>
+      </a>
+    </div>
+  </article>
+
+  <article class="article">
+    <h2 class="article-title">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/">【不是汉化组】【数据制胜：三人麻将】1　由数据分析解读三麻和四麻的区别</a>
+    </h2>
+    <p class="article-meta">
+      2020-11-09
+      
+    </p>
+    <p class="text-lead">
+      
+    </p>
+    <div class="row">
+      <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/" class="readmore-link">
+        <button>
+          Read More
+        </button>
+      </a>
+    </div>
+  </article>
+
+
+        </div>
+        
+        <div class="row flex-edges">
+  
+  
+</div>
+
       </div>
-
-      <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="barmenu">
-        <ul class="nav navbar-nav">
-          
-          
-          <li>
-            <a href="/">
-              首页
-            </a>
-          </li>
-          
-          
-          
-          <li>
-            <a href="/archives">
-              归档
-            </a>
-          </li>
-          
-          
-          
-          <li>
-            <a href="/tags">
-              标签
-            </a>
-          </li>
-          
-          
-          
-          <li>
-            <a href="/post/about">
-              关于
-            </a>
-          </li>
-          
-          
-          
-          
-        </ul>
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
-  </nav>
-
-
-  <!-- 引入jQuery核心js文件 -->
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
-  <script>
-  var btstate = false;
-  var bt = $("#barbutton");
-  var bm = $("#barmenu");
-  bt.click(function(){
-    dropdown();
-  })
-  function dropdown(){
-    console.log(btstate);
-    //下拉
-    if(btstate==false){
-      bt.removeClass("collapsed");
-      bt.attr("aria-expanded","true");
-      bm.attr("aria-expanded","true")
-      bm.fadeIn(700);
-      btstate = true;
-    }
-    else{
-      bt.addClass("collapsed");
-      bt.attr("aria-expanded","false");
-      bm.removeClass("in");
-      bm.hide();
-      bm.attr("aria-expanded","false");
-      btstate = false;
-    }
-  }
-  </script> 
-</body>
-            <!-- 移动端欢迎页 -->
-<div class="welcome">
-    <div class="avatar-border">
-        <img src="http://honeymoe.github.io/images/avatar.png?v=1604912000804" class="avatar">
+      
+      <div class="sm-12 md-4 col sidebar">
+  <div class="paper info-container">
+    <img src="http://honeymoe.github.io/images/avatar.png?v=1604912098867" class="no-responsive avatar">
+    <div class="text-muted">丢掉幻想，准备斗争！</div>
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     </div>
-    <span class="mobiledescribtion"></span>
+  </div>
+  <div class="paper">
+    <div class="sidebar-title">
+      最新文章
+    </div>
+    <div class="row">
+      <ul>
+        
+          
+            <li>
+              <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/">【不是汉化组】【数据制胜：三人麻将】6　先制愚形听牌</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/">【不是汉化组】【数据制胜：三人麻将】5　先制两面听牌</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/">【不是汉化组】【数据制胜：三人麻将】4　关于局收支理论</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/">【不是汉化组】【数据制胜：三人麻将】3　把握三麻的偶然性</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/">【不是汉化组】【数据制胜：三人麻将】2　由数据分析胜者的倾向</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/">【不是汉化组】【数据制胜：三人麻将】1　由数据分析解读三麻和四麻的区别</a>
+            </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+  <div class="paper">
+    <div class="sidebar-title">
+      标签列表
+    </div>
+    <div class="row">
+      
+    </div>
+  </div>
+  <div class="paper">
+    Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="http://honeymoe.github.io/atom.xml" target="_blank">RSS</a>
+  </div>
 </div>
 
-    <div id="mobilebgurl" style="display:none"></div>
+    </div>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
-<script>
-    var welcome = $('.welcome');
-    var bgurl = document.getElementById("mobilebgurl").innerHTML;
-    for (var i = 0; i < 3; i++)
-        bgurl = bgurl.replace("\\", "/");
-    welcome.css("background", "url('" + bgurl + "')");
-    var mobiledes = document.querySelector(".mobiledescribtion");
-    var text = "丢掉幻想，准备斗争！";
-    // 当前显示第几个字
-    var mobilecharIndex = 1;
-    // 每个字显示间隔默认是500毫秒
-    var mobiledelta = 500;
+<script type="application/javascript">
 
-    // 记录动画执行开始时间
-    var mobilestart = null;
-    // 是否为删除动画
-    var mobileisDeleting = false;
+AOS.init();
 
-    // 动画回调函数
-    function mobileLoadDes(time) {
-        window.requestAnimationFrame(mobileLoadDes);
-        // 初始化开始时间
-        if (!mobilestart) start = time;
-        // 获取时间间隔
-        var mobileprogress = time - mobilestart;
-        // 每隔一定的时间，打印出一个新的字符
-        if (mobileprogress > mobiledelta) {
-            // 如果是打字效果
-            if (!mobileisDeleting) {
-                // 给展示文字的span新增一个字符，使用innerHTML来替换，charIndex自增1，然后返回新的字符串子串
-                mobiledes.innerHTML = "&nbsp;" + text.slice(
-                    0,
-                    ++mobilecharIndex
-                );
-                mobiledelta = 500 - Math.random() * 400;
-            } else {
-                // 如果是删除效果，则把文字一个一个减掉
-                mobiledes.innerHTML = "&nbsp;" + text.slice(
-                    0,
-                    mobilecharIndex--
-                );
-            }
-            // 把star更新为当前时间，进行下一个周期
-            mobilestart = time;
+hljs.initHighlightingOnLoad()
 
-            // 如果文字已经全部打印完毕
-            if (mobilecharIndex === text.length) {
-                // 下次开始删除文字
-                mobileisDeleting = true;
-                // 删除文字的间隔为200毫秒
-                mobiledelta = 100;
-                // 额外等待1.2秒后再删除
-                mobilestart = time + 1000;
-            }
-
-            // 如果文字删除完毕
-            if (mobilecharIndex < 0) {
-                mobileisDeleting = false;
-                // 额外增加200毫秒延迟
-                mobilestart = time + 200;
-            }
-        }
-    }
-
-    window.requestAnimationFrame(mobileLoadDes);
 </script>
-            <link rel="stylesheet" href="http://honeymoe.github.io/media/css/font-awesome.css">
-<div id="post-container">
-    
-    <div class="postshow postlist">
-        
-        <div id="post" style="width:100%">
-            
-            <img src="" class="postimage"
-                onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/';return false">  
-            
-            <div class="posttitlebox">
-                <div class="posttitlewithoutimg" onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/';return false">
-                    【不是汉化组】【数据制胜：三人麻将】6　先制愚形听牌
-                </div>
-            </div>
-        </div>
-        <div class="postinfo">
-            <div class="postdate"><i class="fa fa-calendar"></i>2020-11-09</div>
-            <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 7 min read</div>
-            <div class="posttag">
-                
-            </div>
-        </div>
-        
-    </div>
-    
-    <div class="postshow postlist">
-        
-        <div id="post" style="width:100%">
-            
-            <img src="" class="postimage"
-                onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/';return false">  
-            
-            <div class="posttitlebox">
-                <div class="posttitlewithoutimg" onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/';return false">
-                    【不是汉化组】【数据制胜：三人麻将】5　先制两面听牌
-                </div>
-            </div>
-        </div>
-        <div class="postinfo">
-            <div class="postdate"><i class="fa fa-calendar"></i>2020-11-09</div>
-            <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 6 min read</div>
-            <div class="posttag">
-                
-            </div>
-        </div>
-        
-    </div>
-    
-    <div class="postshow postlist">
-        
-        <div id="post" style="width:100%">
-            
-            <img src="" class="postimage"
-                onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/';return false">  
-            
-            <div class="posttitlebox">
-                <div class="posttitlewithoutimg" onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/';return false">
-                    【不是汉化组】【数据制胜：三人麻将】4　关于局收支理论
-                </div>
-            </div>
-        </div>
-        <div class="postinfo">
-            <div class="postdate"><i class="fa fa-calendar"></i>2020-11-09</div>
-            <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 5 min read</div>
-            <div class="posttag">
-                
-            </div>
-        </div>
-        
-    </div>
-    
-    <div class="postshow postlist">
-        
-        <div id="post" style="width:100%">
-            
-            <img src="" class="postimage"
-                onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/';return false">  
-            
-            <div class="posttitlebox">
-                <div class="posttitlewithoutimg" onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/';return false">
-                    【不是汉化组】【数据制胜：三人麻将】3　把握三麻的偶然性
-                </div>
-            </div>
-        </div>
-        <div class="postinfo">
-            <div class="postdate"><i class="fa fa-calendar"></i>2020-11-09</div>
-            <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 3 min read</div>
-            <div class="posttag">
-                
-            </div>
-        </div>
-        
-    </div>
-    
-    <div class="postshow postlist">
-        
-        <div id="post" style="width:100%">
-            
-            <img src="" class="postimage"
-                onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/';return false">  
-            
-            <div class="posttitlebox">
-                <div class="posttitlewithoutimg" onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/';return false">
-                    【不是汉化组】【数据制胜：三人麻将】2　由数据分析胜者的倾向
-                </div>
-            </div>
-        </div>
-        <div class="postinfo">
-            <div class="postdate"><i class="fa fa-calendar"></i>2020-11-09</div>
-            <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 7 min read</div>
-            <div class="posttag">
-                
-            </div>
-        </div>
-        
-    </div>
-    
-    <div class="postshow postlist">
-        
-        <div id="post" style="width:100%">
-            
-            <img src="" class="postimage"
-                onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/';return false">  
-            
-            <div class="posttitlebox">
-                <div class="posttitlewithoutimg" onclick="window.location.href= 'http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/';return false">
-                    【不是汉化组】【数据制胜：三人麻将】1　由数据分析解读三麻和四麻的区别
-                </div>
-            </div>
-        </div>
-        <div class="postinfo">
-            <div class="postdate"><i class="fa fa-calendar"></i>2020-11-09</div>
-            <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 7 min read</div>
-            <div class="posttag">
-                
-            </div>
-        </div>
-        
-    </div>
-    
-</div>
-            <div class="pagination-container">
-                  
-                
-            </div>
-        </div>
 
-        <div id="landlord">
-            <div class="message" style="opacity:0"></div>
-            <canvas id="live2d" width="240" height="250" class="live2d"></canvas>
-        </div>
-    </div>
-    <div id="domainname" style="display:none">http://honeymoe.github.io</div>
-</body>
 
+
+
+  </body>
 </html>
-
-
-<script>
-        var bgchoice=$('#bgchoice').html();
-        var bg = $('#bg');
-        var bgurl = document.getElementById("bgurl").innerHTML;
-        if(bgchoice=='default')
-            for (var i = 0; i < 3; i++)
-                bgurl = bgurl.replace("\\", "/");
-        bg.css("background", "url('" + bgurl + "')");
-
-        window.onload = function(){
-            aplayerbtnInit();
-        }
-</script>
