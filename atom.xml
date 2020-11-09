@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://honeymoe.github.io</id>
     <title>小透明书屋</title>
-    <updated>2020-11-09T08:36:09.475Z</updated>
+    <updated>2020-11-09T08:36:55.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://honeymoe.github.io"/>
     <link rel="self" href="http://honeymoe.github.io/atom.xml"/>
@@ -10,6 +10,59 @@
     <logo>http://honeymoe.github.io/images/avatar.png</logo>
     <icon>http://honeymoe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小透明书屋</rights>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】5　先制两面听牌]]></title>
+        <id>http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/</id>
+        <link href="http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/">
+        </link>
+        <updated>2020-11-09T08:36:42.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="不是汉化组数据制胜三人麻将5-先制两面听牌">【不是汉化组】【数据制胜：三人麻将】5　先制两面听牌</h2>
+<h3 id="两面几乎都应立直">两面几乎都应立直</h3>
+<p>本章讨论他家还没立直时，也就是先制听牌时的战术。首先来讨论先制且门清扣牌时的立直判断。</p>
+<p>就结论而言，原则上<strong>先制两面听牌立直是正解</strong>。无役时若不立直甚至不能荣和，可能比较容易理解，有役的时候也基本都应该立直。这一法则不论是否有自摸损、是否有拔北宝牌都不会改变。</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/04/01/S5D8x9hXFf4G3iK.jpg" alt="0002.jpg" loading="lazy"></figure>
+<p>以下来看天凤规则下的立直判断。首先，①平和nomi、②平和dora1、③平和dora2，各自听牌时，比较其立直、默听是的局收支何者更有利。接下来都以自己是闲家，第8巡听牌为条件，请看（表5-1）。</p>
+<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13121460/picture_pc_75c3d046b9473cfa06b8dadc638d0b4b.jpg" alt="img" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13121767/picture_pc_51fcc1644f425385c071f98f7f8e7477.jpg" alt="img" loading="lazy"></figure>
+<p>上述情况都是立直的局收支更高，理应立直。局收支相差越大，这一选择就更是有利，平和dora1或平和dora2默听就是吃亏。破牌默听遭人耻笑。</p>
+<figure data-type="image" tabindex="4"><img src="https://i.loli.net/2020/04/01/Cl6PLcdrMKESugv.jpg" alt="0501.jpg" loading="lazy"></figure>
+<p>平和nomi的局收支将近是0，但总比是负数的默听要好些。</p>
+<h3 id="何以至于立直更有利">何以至于立直更有利？</h3>
+<p>在此，我们将从数据考虑立直有利的原因。其理由是：**①就算有自摸损，立直也会带来巨大的打点提高，②即使立直了，和牌率也不会降低太多。**让我们从（图5-2）看立直和默听的和牌率、放铳率，分别讨论理由①和理由②。</p>
+<figure data-type="image" tabindex="5"><img src="https://i.loli.net/2020/04/01/xPamq5hWkpoRv9F.jpg" alt="0502.jpg" loading="lazy"></figure>
+<p>首先，即使在自摸损规则下，立直的打点上升效果也还是有的。且看（表5-3），立直平和的和牌净得点为3400点，是选择默听1000点的3.4倍。另外，立直平和dora1的和牌净得点为5600点，是选择默听2000点的2.8倍。形如此类的打点强化效果，是立直有利的理由之一。</p>
+<figure data-type="image" tabindex="6"><img src="https://i.loli.net/2020/04/01/hYXm5EHltAZ4i32.jpg" alt="0503.jpg" loading="lazy"></figure>
+<p>同时，即使宣告立直，也不会让和牌率急剧下降。且看（表5-4），第8巡立直的和牌率为61%，是默听和牌率76%的8成左右。另外，第12巡的和率，立直的和牌率为47%，依旧保持了默听和牌率61%的约8成。</p>
+<figure data-type="image" tabindex="7"><img src="https://i.loli.net/2020/04/01/gQGbZHCEUo2KFxy.jpg" alt="0504.jpg" loading="lazy"></figure>
+<p>宣告立直后荣和的牌就不会被切出了，立直以后就更难和牌了，诸如此类的印象实际并不正确，即使立直了，和牌率也只会降低2成左右才是正确的。这也是立直有利的理由之一。</p>
+<h3 id="不应当立直的情况">不应当立直的情况</h3>
+<p>也有不应该立直的情况。具体而言，<strong>默听打点足够，打点上升的效果不明显的时候，推荐默听</strong>。下面是具体例子。</p>
+<p>首先，<strong>默听跳满时</strong>，具体：</p>
+<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13121564/picture_pc_8771062521015eec91c3e385a193f97a.jpg" alt="img" loading="lazy"></figure>
+<p>像这样的断平一杯口dora1两面听牌，闲家第8巡立直的局收支为6100点，默听的局收支为6900点，应当选择默听。</p>
+<p>还有，<strong>默听6400点的情况</strong>，例如，</p>
+<figure data-type="image" tabindex="9"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13121573/picture_pc_d06357ee97f1051a8ac55b48413cff74.jpg" alt="img" loading="lazy"></figure>
+<p>像这样的50符3番（役牌dora2+暗刻4or8符）两面听牌，立直的局收支为3000点，默听的局收支为3500点，应当默听。</p>
+<p>那么，默听7700点的两面，默听5200点的两面又该如何呢？前者，立直和默听的局收支都是4100点，后者都是3000点，立直默听没有太大区别。因此，默听7700点和默听5200点时，抱定「并无孰优孰劣」的前提**，重视和牌率则默听，需要点棒则立直**，因势利导。然而，考虑到收集的默听的数据可能存在比现实情况更乐观的偏误，更倾向于立直。</p>
+<figure data-type="image" tabindex="10"><img src="https://i.loli.net/2020/04/01/k8pCdihmL1aIbu3.jpg" alt="0003.jpg" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13121599/picture_pc_1ba1f01d4ea64c6b02f3a53f2e1de724.jpg" alt="img" loading="lazy"></figure>
+<h3 id="良形5200点应立直">良形5200点应立直</h3>
+<p>立直和默听的分歧点被认为是5200点，然而我基本上即使在天凤上打，好形5200点也会立直。满贯也常常立直，当然跳满还是会默听的。</p>
+<p>也有想趁早赚够点数在ALL LAST轻松一点的意思，和个5200点感觉对平均顺位的影响也不大。默听捡个5200点对战局影响些微，那即使面对和牌率略降、放铳率增加的风险，也应该一搏满贯跳满的大和，争取一个好的平均顺位，总体应该会更有优势。此后的局面也会更好打，立直也会更轻松。</p>
+<p>细节判断来说，如果自己有2枚以上的拔北宝牌则很容易被戒备弃和，如果自己舍牌太弱很容易被针对防守，或是有人在染饼子而我们听索子，这些情况就会根据具体场况而选择默听。同时，无自摸损的规则下，甚至跳满都可以立直。</p>
+<h3 id="小牌好形全部立直">小牌好形全部立直</h3>
+<p>如果手牌很小，1~3番全部（*先制）立直就好了。平和nomi也好，平和dora1都应该立直。</p>
+<p>例如，如果自己听牌非常早，他家拔北超过2枚，此时不管怎么说拔北2枚的人都会攻过来的，所以应该立直。进入中盘，感觉有人手牌进展不错而又拔北2枚以上时，平和nomi还是默听好了。</p>
+<h3 id="这些数字有向默听有利的偏误">这些数字有向默听有利的偏误</h3>
+<blockquote>
+<p>みーにん　调查方法上有所局限，数据对默听的估计可能偏向乐观。</p>
+</blockquote>
+<p>果然如此。要真这样那默听实在太有利，让人感觉是不是搞错了。不知是弄错了，还是统计数据的采样方法有些问题。</p>
+<blockquote>
+<p>みーにん　默听之后手牌可能发生变化，至今没能找到收集数据的妥当方法。如果把所有的数据都算进去，那等到变化在立直的情况也应该归入立直，想要取得最正确的数据很辛苦。所以，在有这样的偏误时仍然是立直有利的话，就充满自信地立直吧，这就是用法用量。所以，アバンテス说5200点也应该立直，或许局收支相近的时候就大胆立直吧。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】4　关于局收支理论]]></title>
         <id>http://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/</id>
