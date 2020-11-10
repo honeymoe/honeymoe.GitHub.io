@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://honeymoe.github.io</id>
     <title>小透明书屋</title>
-    <updated>2020-11-10T03:19:46.183Z</updated>
+    <updated>2020-11-10T03:26:48.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://honeymoe.github.io"/>
     <link rel="self" href="https://honeymoe.github.io/atom.xml"/>
@@ -10,6 +10,61 @@
     <logo>https://honeymoe.github.io/images/avatar.png</logo>
     <icon>https://honeymoe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小透明书屋</rights>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】7　枚数导致的和牌率不同]]></title>
+        <id>https://honeymoe.github.io/wAc1qSi6Y/</id>
+        <link href="https://honeymoe.github.io/wAc1qSi6Y/">
+        </link>
+        <updated>2020-11-10T03:25:50.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="愚形听牌的剩余枚数很重要">愚形听牌的剩余枚数很重要</h3>
+<p>上一专题我们讨论了先制愚形听牌的立直判断。然而即使是愚形听牌，也容易料想到和牌率会随听牌种类、可见枚数而变化。因此，我们在此讨论不同牌的种类、未现枚数下的数据。</p>
+<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13166537/picture_pc_b350ae2d6c77937e20447f1c8488feb5.jpg" alt="img" loading="lazy"></figure>
+<p>（表7-1）整理了5~12巡先制听1种时的和牌率、和牌时自摸占比。先制听1种，是指嵌张、边张、单骑。此表按听牌种类、未现枚数整理。</p>
+<p>由表可知，先制听1种会随所听牌种类而导致和牌率的巨大不同。例如，场上可见0枚的先制无筋听456立直的和牌率为42%，而听筋28的立直为55%。差异显著。</p>
+<p>由于听数牌愚形的全体和牌率为45%，那么和牌率与此接近（40~50%）的听牌时平均水平的先制愚形立直。高于此水平，和牌率超过50%的听牌更加优秀，而低于此水平不足40%的立直应该避免。接下来，我们来看具体内容。</p>
+<h3 id="听正中间无筋1种很辛苦">听正中间无筋1种很辛苦</h3>
+<p>愚形听无筋456，可见0枚勉勉强强，可见1枚便过于糟糕不能立直。</p>
+<p>愚形听半筋456，可见0枚勉勉强强，可见1枚便过于糟糕不能立直。</p>
+<p>愚形听无筋37，可见0枚不尴不尬，可见1枚以上就很难过了。</p>
+<p>愚形听无筋28，可见0枚也很优秀，到可见1枚为止都能立直。</p>
+<p>愚形听无筋19，由于只剩单骑听牌，枚数会少自己手上的一枚，然而看和牌率维持在40%以上，虽枚数不力但十分犀利。那么，愚形听牌之中，无筋19单骑听牌可说是达到了及格分。当缺少合适的改良时，可视同普通的嵌张听牌，果断立直。</p>
+<h3 id="骗筋有效">骗筋有效</h3>
+<p>愚形听筋牌37，有骗筋加成，可见0枚优秀，可见1枚也勉强可一战。</p>
+<p>愚形听筋牌28，可见0枚优秀，可见1枚则不尴不尬，可见2枚也勉勉强强可行。</p>
+<p>愚形听筋牌19，可见1枚、可见2枚都优秀。</p>
+<p>愚形听两筋456、可见0枚优秀，可见1枚也勉强OK，可见2枚则出局。</p>
+<h3 id="听字牌的强度">听字牌的强度</h3>
+<p>听字牌，不论可见1枚，还是可见2枚都很优秀。一个有趣的现象是，听字牌时，比起生牌，可见1枚时的和牌率更高。选择字牌单骑时，比起完全生牌，可见1枚的字牌更有利。</p>
+<p>另外，字牌地狱听的和牌率为40%（和牌时自摸占比34%）。至第9巡为止是生牌有利，其后地狱听更有利。地狱听有着不随巡目进展而导致和牌率下降的优势，越近终盘则越有利。</p>
+<h3 id="总结">总结</h3>
+<p>让我们再次确认总体结论。首先，从自己的视角可见2枚以上时立直也能获得高于平均水准胜率的是听19、听筋28、字牌单骑。以上听牌即使已见2枚，也可视作与普通愚形听牌一样，一鼓作气立直。</p>
+<p>相反，若非这几类听牌，则很辛苦。若可见0枚，则尚可一战，若已见2枚，则不堪一击。</p>
+<p>提取关键点如下：</p>
+<ul>
+<li><strong>无筋456，可见0枚勉强，其下困难。</strong></li>
+<li><strong>无筋37，到可见0枚为止。</strong></li>
+<li><strong>无筋28，到可见1枚为止。</strong></li>
+<li><strong>筋牌37，到可见1枚为止。</strong></li>
+<li><strong>筋牌28，到可见2枚为止。</strong></li>
+<li><strong>听字牌很优秀，可见1枚强于生牌。第9巡以后，地狱听比生牌容易和。</strong></li>
+</ul>
+<h3 id="各种两面的区别">各种两面的区别</h3>
+<p>最后，我们将先制两面听牌按种类、枚数不同的和牌率整理为（表7-2）。靠近两端的听牌比靠近正中的听牌，其和牌率最大高了5%~6%，然而更重要的还是剩余枚数。</p>
+<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13166544/picture_pc_c7b3ce19fbb12975e3bc7d8d2e66801e.jpg" alt="img" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13143236/picture_pc_5e30482385663493a1c700bdbfe2a1a3.jpg" alt="img" loading="lazy"></figure>
+<h3 id="字牌强于骗筋">字牌强于骗筋</h3>
+<p>筋37的和牌率比我想的要高啊，和可见1枚的字牌没啥差距，我有点吓到了。筋28也比字牌还高。四麻也这样吗？</p>
+<blockquote>
+<p><strong>みーにん</strong>　嗯四麻的话，筋28见0枚55%，筋37见0枚50%，可以说差不多吧。</p>
+</blockquote>
+<p>是这样啊。当决定进攻时，往往宁可切字都不切筋，所以略有些和自己的感觉不一致。比如在选择听牌的时候，例如：</p>
+<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13166577/picture_pc_166ccee6a1107cb2ebe4f6c07958e8cc.jpg" alt="img" loading="lazy"></figure>
+<p>这样的牌型，比起听筋牌2p，我想还是字牌双碰比较强。不过可见0枚的筋牌和可见1枚的字牌之间在做比较又是如何呢……毕竟自摸占比很高，可能我就是靠这个在赚分吧。</p>
+<h3 id="听端牌的有效性">听端牌的有效性</h3>
+<p>然后就是先制两面听牌的不同种类和牌率数据很有用。我常常都留心把牌做成听端牌。当然，打点和场况也很重要，若差别不那么大的话。</p>
+<p>我一直觉得听端牌就算是立直也特别强，同时默听时差距也相当可观。但是，看这数据给出的差距并没有我想象那么大嘛。三麻自摸的比例很高，所以才没那么大区别吗？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】6　先制愚形听牌]]></title>
         <id>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/</id>
