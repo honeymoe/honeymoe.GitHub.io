@@ -1,0 +1,878 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <meta name="description" content="本专题讨论先制愚形听牌的立直判断。这里所说的愚形听牌，是指数牌的双碰、单骑、嵌张、边张，不包括字牌。
+四麻中，とつげき東北先生证明了先制愚形立直的有效性，福地诚先生推广了「嵌张即立打法」，让我们来看看三麻是如何。
+嵌张即立打法成立吗？
+首先..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://honeymoe.github.io/media/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://honeymoe.github.io/styles/main.css">
+    
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.1/build/styles/dracula.min.css">
+    
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.1/build/highlight.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/js/clipboard.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/css/live2d.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.13.1/css/all.min.css" rel="stylesheet">
+    <!-- 数学公式 -->
+    
+    <title>小透明书屋</title>
+    
+    <style>
+        .markdownIt-TOC {
+            margin-left: 28%;
+            padding-left: 2px;
+            width: 80%;
+        }
+
+        .markdownIt-TOC li {
+            padding-left: 8%;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="landlord">
+        <div class="message" style="opacity:0"></div>
+        <canvas id="live2d" width="240" height="250" class="live2d"></canvas>
+    </div>
+    <div id="codeCopyText" style="display: none">代码复制成功了哦</div>
+    <div id="domainname" style="display:none">https://honeymoe.github.io</div>
+    <!-- 响应式布局，针对PC端内容显示 -->
+    <div id="content">
+        <div>
+            <div id="bar">
+                <head>
+  <!-- 引入Bootstrap核心样式文件 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/css/bootstrap.min.css">
+</head>
+<style>
+  @media screen and (max-width:1200px) and (min-width: 768px) {
+    @media (min-width: 768px) {
+      .navbar-nav {
+        float: right;
+        margin: 0;
+      }
+    }
+  }
+  @media screen and (max-width:768px){
+    .mbapspan{
+      padding: 0;
+    }
+  }
+</style>
+
+<body>
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#barmenu"
+          aria-expanded="false" id="barbutton">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="https://honeymoe.github.io">小透明书屋&nbsp;&nbsp;|</a>
+        <span class="navbar-brand mbapspan"><i id="mbaplayer" class="fa fa-play-circle-o" aria-hidden="true"
+            style="font-size: 28px;top: 12px;position: absolute;" onclick="aplayerPlay();"></i></span>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="barmenu">
+        <ul class="nav navbar-nav">
+          
+          
+          <li>
+            <a href="/">
+              首页
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/archives">
+              归档
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/tags">
+              标签
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/post/about">
+              关于
+            </a>
+          </li>
+          
+          
+          
+          
+          <li><a href="https://honeymoe.github.io/friends">友链</a></li>
+
+          
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+  </nav>
+
+
+  <!-- 引入jQuery核心js文件 -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+  <script>
+  var btstate = false;
+  var bt = $("#barbutton");
+  var bm = $("#barmenu");
+  bt.click(function(){
+    dropdown();
+  })
+  function dropdown(){
+    console.log(btstate);
+    //下拉
+    if(btstate==false){
+      bt.removeClass("collapsed");
+      bt.attr("aria-expanded","true");
+      bm.attr("aria-expanded","true")
+      bm.fadeIn(700);
+      btstate = true;
+    }
+    else{
+      bt.addClass("collapsed");
+      bt.attr("aria-expanded","false");
+      bm.removeClass("in");
+      bm.hide();
+      bm.attr("aria-expanded","false");
+      btstate = false;
+    }
+  }
+  </script> 
+</body>
+            </div>
+            <div class="row">
+                <div class="side"><body>
+    
+    <div id=side>
+        <div class="avatar-border">
+            <img src="https://honeymoe.github.io/images/avatar.png?v=1604978203635" class="avatar">
+        </div>
+        <div class="sitename">小透明书屋</div>
+        <span class="describtion" data-text='["丢掉幻想，准备斗争！"]'>&nbsp;</span>
+        
+        <div class="search">
+            <!-- <input type="text" class="search-input" placeholder="标题搜索(●'◡'●)" /> -->
+            <input type="text" class="search-input" placeholder="标题搜索 ⚆_⚆ つ♡">
+            <div class="search-results"></div>
+        </div>
+        
+    <div class="share-button">
+        <span>社交按钮</span>
+        
+        
+        
+        
+        
+        
+    </div>
+    <div id="qq" style="display:none"></div>
+    
+    
+    <div class="mchocie describtion">
+        <a href="/" class="menubutton">
+            首页
+        </a>
+    </div>
+    
+    
+    
+    <div class="mchocie describtion">
+        <a href="/archives" class="menubutton">
+            归档
+        </a>
+    </div>
+    
+    
+    
+    <div class="mchocie describtion">
+        <a href="/tags" class="menubutton">
+            标签
+        </a>
+    </div>
+    
+    
+    
+    <div class="mchocie describtion">
+        <a href="/post/about" class="menubutton">
+            关于
+        </a>
+    </div>
+    
+    
+    
+    
+    <div class="mchocie describtion">
+        <a href="https://honeymoe.github.io/friends" class="menubutton">友人帐</a>
+    </div>
+    
+    <hr>
+    <div id="footinfo">Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | Theme: <a
+        href="https://github.com/850552586/gridea-theme-fog">Fog</a></div>
+    
+    <div class="sitetime"><div id="sitegotimeDate">载入天数...</div>
+    <div id="sitegotimes">载入时分秒...</div></div>
+    <div id="cussitetime" style="display:none">11/11/2020</div>
+    
+    
+    </div>
+
+
+<script src="https://honeymoe.github.io/media/js/wordshow.js"></script>
+    
+    <script>
+        //----------------------站点运行时间
+        var now = new Date();
+
+        function createtime() {
+            var sitegotime = document.getElementById("cussitetime").innerHTML + " 00:00:00";
+            var grt = new Date(sitegotime); //此处修改你的建站时间或者网站上线时间
+            now.setTime(now.getTime() + 250);
+            days = (now - grt) / 1000 / 60 / 60 / 24;
+            dnum = Math.floor(days);
+            hours = (now - grt) / 1000 / 60 / 60 - (24 * dnum);
+            hnum = Math.floor(hours);
+            if (String(hnum).length == 1) {
+                hnum = "0" + hnum;
+            }
+            minutes = (now - grt) / 1000 / 60 - (24 * 60 * dnum) - (60 * hnum);
+            mnum = Math.floor(minutes);
+            if (String(mnum).length == 1) {
+                mnum = "0" + mnum;
+            }
+            seconds = (now - grt) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+            snum = Math.round(seconds);
+            if (String(snum).length == 1) {
+                snum = "0" + snum;
+            }
+            document.getElementById("sitegotimeDate").innerHTML = "本站已安全运行 " + dnum + " 天 ";
+            document.getElementById("sitegotimes").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";
+        }
+        setInterval("createtime()", 250);
+    </script>
+    
+
+
+
+
+    
+</body>
+<script>
+    //-------------------------------------------------搜索
+    // 获取搜索框、搜索按钮、清空搜索、结果输出对应的元素
+    var searchInput = document.querySelector('.search-input');
+    var searchResults = document.querySelector('.search-results');
+
+    // 申明保存文章的标题、链接、内容的数组变量
+    var searchValue = '',
+        arrItems = [],
+        arrLinks = [],
+        arrTitles = [],
+        arrResults = [],
+        indexItem = [],
+        itemLength = 0;
+    var tmpDiv = document.createElement('div');
+    tmpDiv.className = 'result-item';
+
+    // ajax 的兼容写法
+    var xhr = new XMLHttpRequest() || new ActiveXObject('Microsoft.XMLHTTP');
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+            xml = xhr.responseXML;
+            arrItems = xml.getElementsByTagName('entry');
+            itemLength = arrItems.length;
+            // 遍历并保存所有文章对应的标题、链接、内容到对应的数组中
+            // 同时过滤掉 HTML 标签
+            for (i = 0; i < itemLength; i++) {
+                var link = arrItems[i].getElementsByTagName('link')[0];
+                arrLinks[i] = link.getAttribute("href");
+                arrTitles[i] = arrItems[i].getElementsByTagName('title')[0].
+                childNodes[0].nodeValue.replace(/<.*?>/g, '');
+            }
+        }
+    }
+
+    // 开始获取根目录下 feed.xml 文件内的数据
+    xhr.open('get', '/atom.xml', true);
+    xhr.send();
+
+
+
+    // 输入框内容变化后就开始匹配，可以不用点按钮
+    // 经测试，onkeydown, onchange 等方法效果不太理想，
+    // 存在输入延迟等问题，最后发现触发 input 事件最理想，
+    // 并且可以处理中文输入法拼写的变化
+    searchInput.oninput = function () {
+        setTimeout(searchConfirm, 0);
+    }
+    searchInput.onfocus = function () {
+        searchResults.style.display = 'block';
+    }
+
+    function searchConfirm() {
+        if (searchInput.value == '') {
+            searchResults.style.display = 'none';
+        } else if (searchInput.value.search(/^\s+$/) >= 0) {
+            // 检测输入值全是空白的情况
+            searchInit();
+            var itemDiv = tmpDiv.cloneNode(true);
+            itemDiv.innerText = '请输入有效内容...';
+            searchResults.appendChild(itemDiv);
+        } else {
+            // 合法输入值的情况
+            searchInit();
+            searchValue = searchInput.value;
+            // 在标题、内容中查找
+            searchMatching(arrTitles, searchValue);
+        }
+    }
+
+    // 每次搜索完成后的初始化
+    function searchInit() {
+        arrResults = [];
+        indexItem = [];
+        searchResults.innerHTML = '';
+        searchResults.style.display = 'block';
+    }
+
+    function searchMatching(arr1, input) {
+        // 忽略输入大小写
+        input = new RegExp(input, 'i');
+        // 在所有文章标题、内容中匹配查询值
+        for (i = 0; i < itemLength; i++) {
+            if (arr1[i].search(input) !== -1) {
+                var arr = arr1;
+                indexItem.push(i); // 保存匹配值的索引
+                var indexContent = arr[i].search(input);
+                // 此时 input 为 RegExp 格式 /input/i，转换为原 input 字符串长度
+                var l = input.toString().length - 3;
+                var step = 10;
+
+                // 将匹配到内容的地方进行黄色标记，并包括周围一定数量的文本
+                arrResults.push(arr[i].slice(indexContent - step, indexContent));
+            }
+        }
+
+        // 输出总共匹配到的数目
+        var totalDiv = tmpDiv.cloneNode(true);
+        totalDiv.innerHTML = '<b>总匹配：' + indexItem.length + ' 项<hr></b>';
+        searchResults.appendChild(totalDiv);
+
+        // 未匹配到内容的情况
+        if (indexItem.length == 0) {
+            var itemDiv = tmpDiv.cloneNode(true);
+            itemDiv.innerText = '未匹配到内容...';
+            searchResults.appendChild(itemDiv);
+        }
+
+        // 将所有匹配内容进行组合
+        for (i = 0; i < arrResults.length; i++) {
+            var itemDiv = tmpDiv.cloneNode(true);
+            itemDiv.innerHTML = '<b>[' + arrTitles[indexItem[i]] +
+                ']</b><p>' + arrResults[i] + "</p><hr />";
+            itemDiv.setAttribute('onclick', 'changeHref(arrLinks[indexItem[' + i + ']])');
+            searchResults.appendChild(itemDiv);
+        }
+    }
+
+    function changeHref(href) {
+        location.href = href;
+    }
+
+    function showqq() {
+        var qq = document.getElementById("qq").innerHTML;
+        if (qq != '')
+            window.location.href = "tencent://message/?uin=" + qq + "&Site=&Menu=yes";
+        else
+            alert("博主暂未设置QQ联系方式");
+    }
+</script>
+</div>
+                
+                <div id="tab1" class="tab">
+                    <div class="bars">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                <div class="col-md-1 col-lg-3"></div>
+                <div id="main" class="col-xs-12 col-sm-12 col-md-10 col-lg-7">
+                    <link rel="stylesheet" href="https://honeymoe.github.io/media/css/font-awesome.css">
+
+<body>
+    <div class="allcontent" id="postdetail">
+        <div class="postshow" style="padding-bottom: 0;">
+            
+            <div class="postdetailimg" style="width:100%;overflow: hidden;">
+                
+                <img src="" class="postimage">
+                
+            </div>
+            <div class="postinfo-detail">
+                <div class="postdate"><i class="fa fa-calendar"></i>2020-11-09</div>
+            <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 7 min read</div>
+            <div class="posttag">
+                
+            </div>
+        </div>
+        
+        <div id="articlecontent">
+            <div id="texttitle" style="text-align: center">
+                <h2>【不是汉化组】【数据制胜：三人麻将】6　先制愚形听牌</h2>
+                <!-- id 将作为查询条件 -->
+                <div id="pl" style="display:none">https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/</div>
+                <div id="rootaddr" style="display:none">https://honeymoe.github.io</div>
+                <span id="hotnum">
+                    <h4><i class="fa fa-eye" aria-hidden="true" style="color: #FF8C00;"></i>&nbsp;&nbsp;热度</i>: <i
+                            class="hotnum">loading...</i></h4>
+                </span>
+            </div>
+            <div class="text ">
+                <p>本专题讨论先制愚形听牌的立直判断。这里所说的愚形听牌，是指数牌的双碰、单骑、嵌张、边张，不包括字牌。</p>
+<p>四麻中，とつげき東北先生证明了先制愚形立直的有效性，福地诚先生推广了「嵌张即立打法」，让我们来看看三麻是如何。</p>
+<h3 id="嵌张即立打法成立吗">嵌张即立打法成立吗？</h3>
+<p>首先，当我们面临立直或默听二择时，默听5200点则立直（或拒听），高于此线则默听。这一基准不论规则都在某种程度上成立。</p>
+<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13136849/picture_pc_407fcd1ec4722c7815c76caca0ef717f.jpg" alt="img" loading="lazy"></figure>
+<p>脑袋过一遍以上内容，然后我们来比较天凤规则下闲家8巡听牌的立直和默听局收支。选取的对象为：①断幺nomi	②断幺dora1	③断幺dora2	，这三者。</p>
+<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13136864/picture_pc_7fde1ab8a57fd0c001744d0de6c8fc7b.jpg" alt="img" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13136875/picture_pc_0e5b4d4f494bc0d670176bcde4159b42.jpg" alt="img" loading="lazy"></figure>
+<p>其中，①、②是立直有利，③是默听有利。然而各自都只有500点左右的差距，并不能说绝对有利，也可能会根据场况不同而颠覆。</p>
+<figure data-type="image" tabindex="4"><a href="https://imgchr.com/i/BHKbpd"><img src="https://s1.ax1x.com/2020/11/09/BHKbpd.jpg" alt="BHKbpd.jpg" loading="lazy"></a></figure>
+<p>由于三麻的牌种类更少、自摸较多，手牌常常变动，因此也常有「不要立直固定愚形」的说法。然而，如此实际着眼于数字，则意外地让人感觉也并非如此。</p>
+<h3 id="小牌不上战场">小牌不上战场</h3>
+<p>除局收支以外，让我们也确认一下和牌率。基本信息如（图6-2）、（表6-3），（表6-3）可知8巡和牌率为立直46%，默听61%。此外，12巡的和牌率为立直34%，默听46%，立直的和牌率维持在默听和牌率的75%左右。也就是说，宣告立直并不会让和牌率降低太多。</p>
+<figure data-type="image" tabindex="5"><a href="https://imgchr.com/i/BHK7fH"><img src="https://s1.ax1x.com/2020/11/09/BHK7fH.jpg" alt="BHK7fH.jpg" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="6"><a href="https://imgchr.com/i/BHK5TO"><img src="https://s1.ax1x.com/2020/11/09/BHK5TO.jpg" alt="BHK5TO.jpg" loading="lazy"></a></figure>
+<p>然而，立直后2番的手牌局收支为负，这是为何呢？</p>
+<p><strong>愚形立直的局收支很低的理由之一，是未能和牌时会失去相当高的点数。</strong></p>
+<p>例如，天凤规则下，放铳净失点为-9900点，被自摸净失点为-3500点。放铳净失点为约-1万点，也就代表「要铳就铳满贯，其中一半是庄满贯」。背负着如此巨大的风险，却如（表5-3）所示的那样立直2600点的手牌和牌净得点为4400点，和牌得点仅为放铳失点1万900点的四成。收益与风险不成比例。</p>
+<figure data-type="image" tabindex="7"><img src="https://i.loli.net/2020/04/01/hYXm5EHltAZ4i32.jpg" alt="0503.jpg" loading="lazy"></figure>
+<p>与此同时，第8巡和牌率为46%，放铳率为17%，和牌率仅为放铳率的2.7倍，因此立直也不会更有利。立直2600点则局收支仅负一点就了事，而立直nomi的局收支为-1400点，负得相当可观。立直了也只有2番以下时，不如拒听，考虑能否做出更好的手牌。</p>
+<p>有自摸损、拔北宝牌的规则下的战场，并非立直nomi愚形听牌这种破烂装备就可以挑战的。喜铳一发则满贯、庄满贯，导弹满天飞，以立直nomi愚形听牌的火力难以抗衡。</p>
+<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13136944/picture_pc_ca534071b270df5fab6f7542df569ada.jpg" alt="img" loading="lazy"></figure>
+<p>また、ツモ損あり・抜きドラなしの場合の局収支を（表６－４）に示しました。基本は天鳳ルールに準じて考えますが、抜きドラがないことによって失点リスクが低くなるので、<strong>2ハンあれば積極的にリーチできます</strong>。</p>
+<figure data-type="image" tabindex="9"><a href="https://imgchr.com/i/BHKTte"><img src="https://s1.ax1x.com/2020/11/09/BHKTte.jpg" alt="BHKTte.jpg" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="10"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13136958/picture_pc_35793e5c827653af2a0ebefb63ac64c1.jpg" alt="img" loading="lazy"></figure>
+<p>次にＭＪルールのリーチ判断を、（表６－５）における8巡目の局収支を見ながら考えましょう。</p>
+<figure data-type="image" tabindex="11"><a href="https://imgchr.com/i/BHKokD"><img src="https://s1.ax1x.com/2020/11/09/BHKokD.jpg" alt="BHKokD.jpg" loading="lazy"></a></figure>
+<p>まず、①リーチタンヤオ愚形テンパイの場合、リーチの局収支は300点、ダマの局収支は－700点となります。局収支の差が1000点あるのでこの場合は積極的にリーチすべきです。</p>
+<p>また、②リーチタンヤオドラ１愚形テンパイの場合、リーチの局収支は1400点、ダマの局収支は300点となり、これもリーチすべきです。</p>
+<p>その一方で、③タンヤオドラ2愚形テンパイの場合、リーチ・ダマの局収支はともに2200点です。リーチとダマどちらでもよく、状況に応じて使いわけるのがベストです。</p>
+<p>最後に④タンヤオドラ3愚形テンパイの場合、具体的には、</p>
+<figure data-type="image" tabindex="12"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="img" loading="lazy"></figure>
+<p>という手を考えてみます。この場合の局収支はリーチが3100点、ダマの局収支は3300点となります。差は小さいですが、どちらかと言えばダマ優位です。この手がダマ優位なのは当たり前とも言えますし、それでも局収支の数字が近くなるほどＭＪルールはリーチ優位とも言えます。</p>
+<p>ＭＪルールの場合、<strong>リーチの打点上昇効果がツモ損ルールよりあり、また抜きドラがないので失点リスクが小さくなり、リーチ優位な場面が増えます</strong>。</p>
+<p>また、抜きドラがないため、（抜きドラ0枚の牌譜解析結果と抜きドラ問わずの牌譜解析結果の比較より）子の放銃失点は－7600点、被ツモ素点が－4100点となることが予測され、すると放銃素点が天鳳ルールの7割半程度まで下がり、リーチして2ハンある場合の局収支はプラスになります。とすれば**ＭＪルールにおいては「カンチャン即リーが基本」**と言えそうです。</p>
+<figure data-type="image" tabindex="13"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="img" loading="lazy"></figure>
+<p>また、ツモ損なし・抜きドラありの場合の局収支を（表６－６）に示しました。基本的な考え方はＭＪルールを基準とします。抜きドラがあるため失点リスクが大きくなり、リーチして2ハン以下の手では強気に押せなくなるため、愚形テンパイはテンパイ外しできないかを検討した方がよくなります。</p>
+<figure data-type="image" tabindex="14"><a href="https://imgchr.com/i/BHKq1A"><img src="https://s1.ax1x.com/2020/11/09/BHKq1A.jpg" alt="BHKq1A.jpg" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="15"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13136995/picture_pc_9e53860a6b51f0e67ccc2c4a4ee237e9.jpg" alt="img" loading="lazy"></figure>
+<h3 id="若有役则考虑默听并期待变化">若有役，则考虑默听并期待变化</h3>
+<p>这里给的结论是默听1300点、默听2600点则立直呢。然而实战中也要考虑变化，所以这里的数据或许并不十分妥当。</p>
+<blockquote>
+<p><strong>みーにん</strong>	由于此后手牌还有改良，关于愚形默听的数据妥当性确实是个深刻的问题。然而合适的数据收集方法依然不存在。也没办法编写模拟器进行计算的替代方案，可能要花费数年的时间吧。</p>
+</blockquote>
+<p>原来如此，有役愚形小牌则默听以待好形改良再立直。比如断幺nomi之类的。</p>
+<p>并且，愚形立直nomi也经常默听。由于并不是可以一决胜负的手牌，若等来了改良则立直，若被先制立直则弃和，可以灵活应对。</p>
+<p>愚形毕竟导致铳率提升，不想螳臂当车，一旦放铳只有自己遥遥落后，所以会期待改良。比起四麻会更注重改良。然而作为结论而言，默听1300点・2600点则立直，默听5200点则默听，亦无不可。</p>
+<h3 id="愚形立直和默听的判断和应用是">愚形立直和默听的判断和应用是？</h3>
+<blockquote>
+<p><strong>みーにん</strong>　刚才您说1300点、2600点立直，同时又说等待改良。我不是太明白这两者是何关系。</p>
+</blockquote>
+<p>例如，这种手牌就比较倾向于默听：</p>
+<figure data-type="image" tabindex="16"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13166516/picture_pc_b6b09cd4895dc1ed7338e7f1e3b671a0.jpg" alt="img" loading="lazy"></figure>
+<p>这里若是摸进4p或8p形成两面，则立直。若摸进3p5p7p9p也立直。这是因为比起之前的情况，所听牌改善了，同时改良牌的种类减少到了1种。</p>
+<p>同时考虑到所听牌是不是端牌，若听456则不立直，但若听123789则会立直。双碰之一若是听字，则绝对会立直。</p>
+<p>另外，也会随拔北宝牌的枚数而变化。拔北0枚则默听，拔北1枚则立直，拔北2枚则默听。这是我个人的平衡感。</p>
+<p>不过你要说是倾向于默听还是倾向于立直，1300点和2600点是倾向于立直，5200点则倾向于默听。如此，即便拔北0枚，立直亦无不可。可能表达得不太好，但这根据场况和点棒情况而定。如果别家看起来不大，或者进展缓慢则立直，自己落后则立直。我想上面这一手牌拔北0枚立直的人还是比较多的。</p>
+<h3 id="本にはない福地の感想">本にはない福地の感想</h3>
+<blockquote>
+<p>これもけっこう驚きの内容でした。<br>
+リーチして2600点程度のカンチャン待ちでもリーチするもんなんですね。三麻では役ありの愚形待ちはリーチしないものかと思ってました。<br>
+現代戦術を知らないと、打ち筋がヌルくなりますね(;・∀・)</p>
+</blockquote>
+
+            </div>
+            <hr style="width: 80%;">
+            
+            <div class="sharebtnContainer">
+                <button type="button" class="sharebtn">转载分享</button>
+            </div>
+            <div class="shareContainer">
+                <div class="share" style="height:30px;background: white;">
+                    <a class="qq" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/QQ.png" alt=""></i></a>
+                    <a class="wechat" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/wechat.png" alt=""></i></a>
+                    <a class="weibo" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/weibo.png" alt=""></i></a>
+                    <a class="qzone" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/qzone.png" alt=""></i></a>
+                    <a class="douban" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/douban.png" alt=""></i></a>
+                    <a class="facebook" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/facebook.png" alt=""></i></a>
+                    <a class="twitter" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/twitter.png" alt=""></i></a>
+                </div>
+            </div>
+            
+            
+            <div class="donateContainer">
+                <img src="https://honeymoe.github.io/media/images/donate.png" alt="" class="donateImg">
+            </div>
+            <div class="donateContainer">
+                <img src="" alt="" class="donate">
+            </div>
+            
+            <div class="postfooter">
+                <ul class="post-copyright">
+                    <li><strong>文章作者：</strong></li>
+            <li><strong>原文链接：</strong>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/</li>
+            <li><strong>版权声明：</strong>本博客所有文章除特别声明外，均采用<i class="fa fa-fw fa-creative-commons"></i>BY-NC-SA
+                许可协议。转载请注明出处！</li>
+            </ul>
+        </div>
+        <div id="otherpost">
+            
+            
+            <div class="next-post-pc">
+                <div id="npcontainer" onclick="window.location.href= 'https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/';return false">
+                    
+                    
+                    <img src="" style="width: 100%;" class="opimg">
+                    
+                        
+                    <h4 class="optitle">【不是汉化组】【数据制胜：三人麻将】5　先制两面听牌</h4>
+                </div>
+            </div>
+            <div class="next-post">
+                下一篇 <a href="https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/">【不是汉化组】【数据制胜：三人麻将】5　先制两面听牌</a>
+            </div>
+            
+        </div>
+    </div>
+    </div>
+    </div>
+
+</body>
+<script>
+    //文章阅读热度
+    var pl = $("#pl").html();
+    var rootaddr = $("#rootaddr").html();
+    pl = pl.replace(rootaddr, "");
+    $("#hotnum").attr('id', pl);
+</script>
+                <div id="comment"  class="comment" style="background: white">
+                    <div class="commentcontainer">
+                        
+                        <p>请到客户端“主题--自定义配置--valine”中填入ID和KEY</p>
+                        
+                    </div>
+                </div>
+                </div>
+                <div class="col-md-1 col-lg-2"></div>
+                <div id="bg">
+                </div>
+            </div>
+            
+        
+        <div class="toc-container">
+            <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#%E5%B5%8C%E5%BC%A0%E5%8D%B3%E7%AB%8B%E6%89%93%E6%B3%95%E6%88%90%E7%AB%8B%E5%90%97">嵌张即立打法成立吗？</a></li>
+<li><a href="#%E5%B0%8F%E7%89%8C%E4%B8%8D%E4%B8%8A%E6%88%98%E5%9C%BA">小牌不上战场</a></li>
+<li><a href="#%E8%8B%A5%E6%9C%89%E5%BD%B9%E5%88%99%E8%80%83%E8%99%91%E9%BB%98%E5%90%AC%E5%B9%B6%E6%9C%9F%E5%BE%85%E5%8F%98%E5%8C%96">若有役，则考虑默听并期待变化</a></li>
+<li><a href="#%E6%84%9A%E5%BD%A2%E7%AB%8B%E7%9B%B4%E5%92%8C%E9%BB%98%E5%90%AC%E7%9A%84%E5%88%A4%E6%96%AD%E5%92%8C%E5%BA%94%E7%94%A8%E6%98%AF">愚形立直和默听的判断和应用是？</a></li>
+<li><a href="#%E6%9C%AC%E3%81%AB%E3%81%AF%E3%81%AA%E3%81%84%E7%A6%8F%E5%9C%B0%E3%81%AE%E6%84%9F%E6%83%B3">本にはない福地の感想</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+    </div>
+    </div>
+    <div class="tog">
+        <div class="toggleContainer">
+            <div class="toggle">
+                <i class="fas fa-angle-double-up"></i>
+            </div>
+        </div>
+    </div>
+    <div id="bgchoice" style="display: none"></div>
+    
+    <div id="bgurl" style="display:none"></div>
+    
+    </div>
+</body>
+<script>
+    var img = $("img");
+    for (var i = 0; i < img.length; i++) {
+        if (img.eq(i).attr("class") == undefined) {
+            img.eq(i).attr("class", "lazyload");
+            var imgsrc = img.eq(i).attr("src");
+            img.eq(i).attr("data-original", imgsrc);
+            img.eq(i).attr("src", "");
+            img.eq(i).hide();
+        }
+    }
+</script>
+<script>
+    hljs.initHighlightingOnLoad();
+</script>
+<script>
+    //寻找所有code标签，加复制按钮鸭！(行内代码除外)
+    var codes = document.getElementsByTagName('code');
+    if (codes.length) {
+        for (var i = 0; i < codes.length; i++) {
+            //高度/行高=文本行数
+            // var rowNum=Math.round(codes[i].height()/parseFloat(codes[i].css('line-height')));
+            // console.log("当前有"+rowNum+"行");
+            var code_id = "code_id_" + i;
+            codes[i].setAttribute("id", code_id);
+            var ci = "#" + code_id;
+            var codedot = $(ci);
+            var rowNum = Math.round(codedot.height() / parseFloat(codedot.css('line-height')));
+            if (rowNum <= 1) continue;
+            var btn = document.createElement("button");
+            btn.setAttribute("class", "copybt");
+            btn.setAttribute("data-clipboard-target", "#" + code_id);
+            btn.innerHTML = '复制代码';
+            codes[i].parentNode.insertBefore(btn, codes[i]);
+        }
+    };
+    var cop = new ClipboardJS('.copybt');
+    var codeCopyText = $("#codeCopyText").html();
+    cop.on('success', function (e) {
+        alert(codeCopyText);
+        e.clearSelection();
+    });
+    cop.on('error', function (e) {
+        alert("矮油，复制失败了...手动复制吧勇士！");
+        e.clearSelection();
+    });
+</script>
+
+<script type="text/javascript">
+    var message_Path = '/live2d/'
+    var home_Path = document.getElementById("domainname").innerHTML + "/"; //此处修改为你的域名，必须带斜杠
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/js/live2d.js"></script>
+<script type="text/javascript" src="https://honeymoe.github.io/media/live2d/js/message.js"></script>
+<script type="text/javascript">
+    loadlive2d("live2d", "https://honeymoe.github.io/media/live2d/assets/tororo.model.json");
+</script>
+
+<script>
+    $(function () {
+        $('.toggleContainer').click(function () {
+            $('html,body').animate({
+                scrollTop: '0px'
+            }, 800);
+        });
+        $(window).scroll(function () {
+            var st = $(window).scrollTop();
+            if (st > 30) {
+                $(".toggleContainer").fadeIn(400);
+            } else {
+                $(".toggleContainer").fadeOut(100);
+            }
+        });
+    });
+</script>
+
+<script>
+    var bgchoice = $('#bgchoice').html();
+    var bg = $('#bg');
+    var bgurl = document.getElementById("bgurl").innerHTML;
+    if (bgchoice == 'default')
+        for (var i = 0; i < 3; i++)
+            bgurl = bgurl.replace("\\", "/");
+    bg.css("background", "url('" + bgurl + "')");
+</script>
+
+
+<script src="https://honeymoe.github.io/media/js/index.js"></script>
+
+
+
+<!-- 动态更改上(下)一篇博客图片框长宽 -->
+<script>
+    npcontainer = document.querySelector('#npcontainer');
+    npstyle = window.getComputedStyle(npcontainer, null);
+    npwidth = npstyle.width;
+    npheight = 0.6 * Number(npwidth.replace("px", ""));
+    npheight = npheight.toString() + "px";
+    var op = $(".opimg");
+    op.css("height", npheight);
+</script>
+
+<script src="https://honeymoe.github.io/media/share/dist/Share.js"></script>
+
+<script>
+    var avatarSrc = $(".avatar").attr("src");
+    var dp = document.getElementsByClassName("describtion")[0].innerHTML;
+</script>
+
+
+<script>
+    var title = document.getElementById("texttitle").getElementsByTagName("h2");
+    
+    var share = new Share('.share', {
+        title: title[0].innerHTML,
+        initialized: true,
+        //默认获取网站描述
+        description: dp,
+        //网站图片默认获取的是设置的用户头像
+        image: avatarSrc,
+        //激活的分享网站
+        sites: ["weibo", "qq", "wechat", "douban", "qzone", "facebook", "twitter", "google"],
+        //微信分享PC端会生成二维码分享,移动端如果可以唤起微信最好
+        wechatQrcodeTitle: "微信扫一扫：分享", // 微信二维码提示文字
+        wechatQrcodeHelper: '<p>微信里扫一下二维码</p><p>便可将本文分享至朋友圈。</p>',
+        //关闭的网站分享
+        disabled: ['google', 'linkedin'],
+        wechatQrcodePosition: 'bottom'
+    });
+
+    //点击分享按钮展现出分享icons
+    var sharebtnTag = false;
+    $(".sharebtn").click(function () {
+        if(!sharebtnTag)
+        {
+            $(".share").show();
+            sharebtnTag = true;
+        }
+        else
+        {
+            $(".share").hide();
+            sharebtnTag = false;
+        }
+    })
+
+    var donatebtnTag = false;
+    $(".donateImg").click(function () {
+        if(!donatebtnTag)
+        {
+            $(".donate").show();
+            donatebtnTag = true;
+        }
+        else{
+            $(".donate").hide();
+            donatebtnTag = false;
+        }
+    })
+
+    //加载后的事件同步（阅读量、移动端评论等
+    window.onload=function(){
+        getHotnum();
+        var sharepc = $(".share").eq(0).html();
+        $(".share").eq(1).html(sharepc);
+        document.getElementById("veditor").setAttribute("placeholder", jrsc);
+        aplayerbtnInit();
+    }
+</script>
+
+
+<script>
+    jQuery(document).ready(function ($) {
+        function lazyload() {
+            var oLazyload = $("img.lazyload"),
+                fLazyload = function (hLazyload) {
+                    var nLazyload = $(window).height() + $(document).scrollTop();
+                    oLazyload.each(function () {
+                        $(this).offset().top < nLazyload && ($(this).trigger("appear"), oLazyload =
+                            oLazyload.not(this));
+                    }), 0 == oLazyload.length && $(window).unbind("scroll", fLazyload);
+                };
+            oLazyload.each(function () {
+                $(this).one("appear", function () {
+                    $(this).attr("src", $(this).attr("data-original"));
+                    $(this).fadeIn(500);
+                });
+            }), $(window).bind("scroll", fLazyload), fLazyload();
+        }
+        lazyload();
+    });
+</script>
+
+<!-- <script src="https://honeymoe.github.io/media/js/av-min.js"></script> -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/leancloud-storage@3.13.0/dist/av-min.js"></script> -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/leancloud-storage@4.6.1/dist/av-live-query-min.js"></script> -->
+
+<script>
+    function getHotnum() {
+        //文章阅读热度（重构，利用leancloud原生api）
+        var pl = $("#pl").html();
+        var rootaddr = $("#rootaddr").html();
+        pl = pl.replace(rootaddr, "");
+
+        var appid = '';
+        var appkey = '';
+        console.log(appid, appkey)
+        if(AV==undefined)
+            AV.init({
+                appId: appid,
+                appKey: appkey
+            });
+        const query = new AV.Query('Counter');
+        query.equalTo('url', pl);
+        var time = 'Loading...';
+        query.find().then(function (results) {
+            console.log(results)
+            if (results.length == 0) {
+                console.log("0")
+                var NewCounter = AV.Object.extend('Counter');
+                var nc = new NewCounter();
+                nc.save({
+                    time: 1,
+                    title: "【不是汉化组】【数据制胜：三人麻将】6　先制愚形听牌",
+                    url: pl,
+                    xid: pl,
+                }).then(function (object) {
+                    $(".hotnum").eq(0).html(1);
+                    $(".hotnum").eq(1).html(1);
+                });
+            } else {
+                id = results[0].id;
+                var todo = AV.Object.createWithoutData('Counter', id);
+                time = results[0].attributes.time + 1;
+                todo.set("time", time);
+                todo.save();
+                console.log(todo);
+                $(".hotnum").eq(0).html(time);
+                $(".hotnum").eq(1).html(time);
+            }
+
+        }, function (error) {
+            console.log(error)
+        });
+    }
+</script>

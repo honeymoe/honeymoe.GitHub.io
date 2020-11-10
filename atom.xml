@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://honeymoe.github.io</id>
     <title>小透明书屋</title>
-    <updated>2020-11-10T03:13:12.445Z</updated>
+    <updated>2020-11-10T03:16:54.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://honeymoe.github.io"/>
     <link rel="self" href="https://honeymoe.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 小透明书屋</rights>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】6　先制愚形听牌]]></title>
-        <id>https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/</id>
-        <link href="https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/">
+        <id>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/</id>
+        <link href="https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-6-xian-zhi-yu-xing-ting-pai/">
         </link>
         <updated>2020-11-09T08:42:15.000Z</updated>
         <content type="html"><![CDATA[<p>本专题讨论先制愚形听牌的立直判断。这里所说的愚形听牌，是指数牌的双碰、单骑、嵌张、边张，不包括字牌。</p>
@@ -83,8 +83,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】5　先制两面听牌]]></title>
-        <id>https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/</id>
-        <link href="https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/">
+        <id>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/</id>
+        <link href="https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-5-xian-zhi-liang-mian-ting-pai/">
         </link>
         <updated>2020-11-09T08:36:42.000Z</updated>
         <content type="html"><![CDATA[<h3 id="两面几乎都应立直">两面几乎都应立直</h3>
@@ -135,8 +135,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】4　关于局收支理论]]></title>
-        <id>https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/</id>
-        <link href="https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/">
+        <id>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/</id>
+        <link href="https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-4-guan-yu-ju-shou-zhi-li-lun/">
         </link>
         <updated>2020-11-09T08:35:50.000Z</updated>
         <content type="html"><![CDATA[<h3 id="局收支的作用和局限是">局收支的作用和局限是？</h3>
@@ -174,8 +174,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】3　把握三麻的偶然性]]></title>
-        <id>https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/</id>
-        <link href="https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/">
+        <id>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/</id>
+        <link href="https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-3-ba-wo-san-ma-de-ou-ran-xing/">
         </link>
         <updated>2020-11-09T08:35:16.000Z</updated>
         <content type="html"><![CDATA[<h3 id="平均顺位会在何种程度上波动">平均顺位会在何种程度上波动？</h3>
@@ -194,8 +194,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】2　由数据分析胜者的倾向]]></title>
-        <id>https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/</id>
-        <link href="https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/">
+        <id>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/</id>
+        <link href="https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/">
         </link>
         <updated>2020-11-09T08:34:28.000Z</updated>
         <content type="html"><![CDATA[<p>天凤四段和七段的差距何在？</p>
@@ -239,8 +239,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】1　由数据分析解读三麻和四麻的区别]]></title>
-        <id>https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/</id>
-        <link href="https://honeymoe.github.io/post/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/">
+        <id>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/</id>
+        <link href="https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/">
         </link>
         <updated>2020-11-09T08:31:00.000Z</updated>
         <content type="html"><![CDATA[<h3 id="进展最慢的第四人不存在的世界">进展最慢的第四人不存在的世界</h3>

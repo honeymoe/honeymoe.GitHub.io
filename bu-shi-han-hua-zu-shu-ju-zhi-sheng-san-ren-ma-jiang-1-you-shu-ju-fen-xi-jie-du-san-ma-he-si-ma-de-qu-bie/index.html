@@ -1,0 +1,852 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0">
+    <meta name="description" content="进展最慢的第四人不存在的世界
+首先，让我们通过三麻的基本数据，考虑三麻和四麻的不同。
+请看（表1-1）。此表由天凤凤凰桌的三麻、四麻的牌谱解析结果中选取重要的数值而作成。虽说这是「有自摸损、有拔北宝牌」规则下的数据，可以想见其他规则下的三麻..." />
+    <meta name="keywords" content="" />
+    <link rel="stylesheet" href="https://honeymoe.github.io/media/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://honeymoe.github.io/styles/main.css">
+    
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.1/build/styles/dracula.min.css">
+    
+    <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.1/build/highlight.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/js/clipboard.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/css/live2d.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+    <!-- 最新版本的 Bootstrap 核心 CSS 文件 -->
+    <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.13.1/css/all.min.css" rel="stylesheet">
+    <!-- 数学公式 -->
+    
+    <title>小透明书屋</title>
+    
+    <style>
+        .markdownIt-TOC {
+            margin-left: 28%;
+            padding-left: 2px;
+            width: 80%;
+        }
+
+        .markdownIt-TOC li {
+            padding-left: 8%;
+        }
+    </style>
+    
+</head>
+
+<body>
+    <div id="landlord">
+        <div class="message" style="opacity:0"></div>
+        <canvas id="live2d" width="240" height="250" class="live2d"></canvas>
+    </div>
+    <div id="codeCopyText" style="display: none">代码复制成功了哦</div>
+    <div id="domainname" style="display:none">https://honeymoe.github.io</div>
+    <!-- 响应式布局，针对PC端内容显示 -->
+    <div id="content">
+        <div>
+            <div id="bar">
+                <head>
+  <!-- 引入Bootstrap核心样式文件 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/css/bootstrap.min.css">
+</head>
+<style>
+  @media screen and (max-width:1200px) and (min-width: 768px) {
+    @media (min-width: 768px) {
+      .navbar-nav {
+        float: right;
+        margin: 0;
+      }
+    }
+  }
+  @media screen and (max-width:768px){
+    .mbapspan{
+      padding: 0;
+    }
+  }
+</style>
+
+<body>
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#barmenu"
+          aria-expanded="false" id="barbutton">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="https://honeymoe.github.io">小透明书屋&nbsp;&nbsp;|</a>
+        <span class="navbar-brand mbapspan"><i id="mbaplayer" class="fa fa-play-circle-o" aria-hidden="true"
+            style="font-size: 28px;top: 12px;position: absolute;" onclick="aplayerPlay();"></i></span>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="barmenu">
+        <ul class="nav navbar-nav">
+          
+          
+          <li>
+            <a href="/">
+              首页
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/archives">
+              归档
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/tags">
+              标签
+            </a>
+          </li>
+          
+          
+          
+          <li>
+            <a href="/post/about">
+              关于
+            </a>
+          </li>
+          
+          
+          
+          
+          <li><a href="https://honeymoe.github.io/friends">友链</a></li>
+
+          
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+  </nav>
+
+
+  <!-- 引入jQuery核心js文件 -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+  <script>
+  var btstate = false;
+  var bt = $("#barbutton");
+  var bm = $("#barmenu");
+  bt.click(function(){
+    dropdown();
+  })
+  function dropdown(){
+    console.log(btstate);
+    //下拉
+    if(btstate==false){
+      bt.removeClass("collapsed");
+      bt.attr("aria-expanded","true");
+      bm.attr("aria-expanded","true")
+      bm.fadeIn(700);
+      btstate = true;
+    }
+    else{
+      bt.addClass("collapsed");
+      bt.attr("aria-expanded","false");
+      bm.removeClass("in");
+      bm.hide();
+      bm.attr("aria-expanded","false");
+      btstate = false;
+    }
+  }
+  </script> 
+</body>
+            </div>
+            <div class="row">
+                <div class="side"><body>
+    
+    <div id=side>
+        <div class="avatar-border">
+            <img src="https://honeymoe.github.io/images/avatar.png?v=1604978203635" class="avatar">
+        </div>
+        <div class="sitename">小透明书屋</div>
+        <span class="describtion" data-text='["丢掉幻想，准备斗争！"]'>&nbsp;</span>
+        
+        <div class="search">
+            <!-- <input type="text" class="search-input" placeholder="标题搜索(●'◡'●)" /> -->
+            <input type="text" class="search-input" placeholder="标题搜索 ⚆_⚆ つ♡">
+            <div class="search-results"></div>
+        </div>
+        
+    <div class="share-button">
+        <span>社交按钮</span>
+        
+        
+        
+        
+        
+        
+    </div>
+    <div id="qq" style="display:none"></div>
+    
+    
+    <div class="mchocie describtion">
+        <a href="/" class="menubutton">
+            首页
+        </a>
+    </div>
+    
+    
+    
+    <div class="mchocie describtion">
+        <a href="/archives" class="menubutton">
+            归档
+        </a>
+    </div>
+    
+    
+    
+    <div class="mchocie describtion">
+        <a href="/tags" class="menubutton">
+            标签
+        </a>
+    </div>
+    
+    
+    
+    <div class="mchocie describtion">
+        <a href="/post/about" class="menubutton">
+            关于
+        </a>
+    </div>
+    
+    
+    
+    
+    <div class="mchocie describtion">
+        <a href="https://honeymoe.github.io/friends" class="menubutton">友人帐</a>
+    </div>
+    
+    <hr>
+    <div id="footinfo">Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | Theme: <a
+        href="https://github.com/850552586/gridea-theme-fog">Fog</a></div>
+    
+    <div class="sitetime"><div id="sitegotimeDate">载入天数...</div>
+    <div id="sitegotimes">载入时分秒...</div></div>
+    <div id="cussitetime" style="display:none">11/11/2020</div>
+    
+    
+    </div>
+
+
+<script src="https://honeymoe.github.io/media/js/wordshow.js"></script>
+    
+    <script>
+        //----------------------站点运行时间
+        var now = new Date();
+
+        function createtime() {
+            var sitegotime = document.getElementById("cussitetime").innerHTML + " 00:00:00";
+            var grt = new Date(sitegotime); //此处修改你的建站时间或者网站上线时间
+            now.setTime(now.getTime() + 250);
+            days = (now - grt) / 1000 / 60 / 60 / 24;
+            dnum = Math.floor(days);
+            hours = (now - grt) / 1000 / 60 / 60 - (24 * dnum);
+            hnum = Math.floor(hours);
+            if (String(hnum).length == 1) {
+                hnum = "0" + hnum;
+            }
+            minutes = (now - grt) / 1000 / 60 - (24 * 60 * dnum) - (60 * hnum);
+            mnum = Math.floor(minutes);
+            if (String(mnum).length == 1) {
+                mnum = "0" + mnum;
+            }
+            seconds = (now - grt) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+            snum = Math.round(seconds);
+            if (String(snum).length == 1) {
+                snum = "0" + snum;
+            }
+            document.getElementById("sitegotimeDate").innerHTML = "本站已安全运行 " + dnum + " 天 ";
+            document.getElementById("sitegotimes").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";
+        }
+        setInterval("createtime()", 250);
+    </script>
+    
+
+
+
+
+    
+</body>
+<script>
+    //-------------------------------------------------搜索
+    // 获取搜索框、搜索按钮、清空搜索、结果输出对应的元素
+    var searchInput = document.querySelector('.search-input');
+    var searchResults = document.querySelector('.search-results');
+
+    // 申明保存文章的标题、链接、内容的数组变量
+    var searchValue = '',
+        arrItems = [],
+        arrLinks = [],
+        arrTitles = [],
+        arrResults = [],
+        indexItem = [],
+        itemLength = 0;
+    var tmpDiv = document.createElement('div');
+    tmpDiv.className = 'result-item';
+
+    // ajax 的兼容写法
+    var xhr = new XMLHttpRequest() || new ActiveXObject('Microsoft.XMLHTTP');
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState == 4 && xhr.status == 200) {
+            xml = xhr.responseXML;
+            arrItems = xml.getElementsByTagName('entry');
+            itemLength = arrItems.length;
+            // 遍历并保存所有文章对应的标题、链接、内容到对应的数组中
+            // 同时过滤掉 HTML 标签
+            for (i = 0; i < itemLength; i++) {
+                var link = arrItems[i].getElementsByTagName('link')[0];
+                arrLinks[i] = link.getAttribute("href");
+                arrTitles[i] = arrItems[i].getElementsByTagName('title')[0].
+                childNodes[0].nodeValue.replace(/<.*?>/g, '');
+            }
+        }
+    }
+
+    // 开始获取根目录下 feed.xml 文件内的数据
+    xhr.open('get', '/atom.xml', true);
+    xhr.send();
+
+
+
+    // 输入框内容变化后就开始匹配，可以不用点按钮
+    // 经测试，onkeydown, onchange 等方法效果不太理想，
+    // 存在输入延迟等问题，最后发现触发 input 事件最理想，
+    // 并且可以处理中文输入法拼写的变化
+    searchInput.oninput = function () {
+        setTimeout(searchConfirm, 0);
+    }
+    searchInput.onfocus = function () {
+        searchResults.style.display = 'block';
+    }
+
+    function searchConfirm() {
+        if (searchInput.value == '') {
+            searchResults.style.display = 'none';
+        } else if (searchInput.value.search(/^\s+$/) >= 0) {
+            // 检测输入值全是空白的情况
+            searchInit();
+            var itemDiv = tmpDiv.cloneNode(true);
+            itemDiv.innerText = '请输入有效内容...';
+            searchResults.appendChild(itemDiv);
+        } else {
+            // 合法输入值的情况
+            searchInit();
+            searchValue = searchInput.value;
+            // 在标题、内容中查找
+            searchMatching(arrTitles, searchValue);
+        }
+    }
+
+    // 每次搜索完成后的初始化
+    function searchInit() {
+        arrResults = [];
+        indexItem = [];
+        searchResults.innerHTML = '';
+        searchResults.style.display = 'block';
+    }
+
+    function searchMatching(arr1, input) {
+        // 忽略输入大小写
+        input = new RegExp(input, 'i');
+        // 在所有文章标题、内容中匹配查询值
+        for (i = 0; i < itemLength; i++) {
+            if (arr1[i].search(input) !== -1) {
+                var arr = arr1;
+                indexItem.push(i); // 保存匹配值的索引
+                var indexContent = arr[i].search(input);
+                // 此时 input 为 RegExp 格式 /input/i，转换为原 input 字符串长度
+                var l = input.toString().length - 3;
+                var step = 10;
+
+                // 将匹配到内容的地方进行黄色标记，并包括周围一定数量的文本
+                arrResults.push(arr[i].slice(indexContent - step, indexContent));
+            }
+        }
+
+        // 输出总共匹配到的数目
+        var totalDiv = tmpDiv.cloneNode(true);
+        totalDiv.innerHTML = '<b>总匹配：' + indexItem.length + ' 项<hr></b>';
+        searchResults.appendChild(totalDiv);
+
+        // 未匹配到内容的情况
+        if (indexItem.length == 0) {
+            var itemDiv = tmpDiv.cloneNode(true);
+            itemDiv.innerText = '未匹配到内容...';
+            searchResults.appendChild(itemDiv);
+        }
+
+        // 将所有匹配内容进行组合
+        for (i = 0; i < arrResults.length; i++) {
+            var itemDiv = tmpDiv.cloneNode(true);
+            itemDiv.innerHTML = '<b>[' + arrTitles[indexItem[i]] +
+                ']</b><p>' + arrResults[i] + "</p><hr />";
+            itemDiv.setAttribute('onclick', 'changeHref(arrLinks[indexItem[' + i + ']])');
+            searchResults.appendChild(itemDiv);
+        }
+    }
+
+    function changeHref(href) {
+        location.href = href;
+    }
+
+    function showqq() {
+        var qq = document.getElementById("qq").innerHTML;
+        if (qq != '')
+            window.location.href = "tencent://message/?uin=" + qq + "&Site=&Menu=yes";
+        else
+            alert("博主暂未设置QQ联系方式");
+    }
+</script>
+</div>
+                
+                <div id="tab1" class="tab">
+                    <div class="bars">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <div class="close"></div>
+                </div>
+                <div class="col-md-1 col-lg-3"></div>
+                <div id="main" class="col-xs-12 col-sm-12 col-md-10 col-lg-7">
+                    <link rel="stylesheet" href="https://honeymoe.github.io/media/css/font-awesome.css">
+
+<body>
+    <div class="allcontent" id="postdetail">
+        <div class="postshow" style="padding-bottom: 0;">
+            
+            <div class="postdetailimg" style="width:100%;overflow: hidden;">
+                
+                <img src="" class="postimage">
+                
+            </div>
+            <div class="postinfo-detail">
+                <div class="postdate"><i class="fa fa-calendar"></i>2020-11-09</div>
+            <div class="poststatus postdate"><i class="fa fa-clock-o"></i> 7 min read</div>
+            <div class="posttag">
+                
+            </div>
+        </div>
+        
+        <div id="articlecontent">
+            <div id="texttitle" style="text-align: center">
+                <h2>【不是汉化组】【数据制胜：三人麻将】1　由数据分析解读三麻和四麻的区别</h2>
+                <!-- id 将作为查询条件 -->
+                <div id="pl" style="display:none">https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/</div>
+                <div id="rootaddr" style="display:none">https://honeymoe.github.io</div>
+                <span id="hotnum">
+                    <h4><i class="fa fa-eye" aria-hidden="true" style="color: #FF8C00;"></i>&nbsp;&nbsp;热度</i>: <i
+                            class="hotnum">loading...</i></h4>
+                </span>
+            </div>
+            <div class="text ">
+                <h3 id="进展最慢的第四人不存在的世界">进展最慢的第四人不存在的世界</h3>
+<p>首先，让我们通过三麻的基本数据，考虑三麻和四麻的不同。</p>
+<p>请看（表1-1）。此表由天凤凤凰桌的三麻、四麻的牌谱解析结果中选取重要的数值而作成。虽说这是「有自摸损、有拔北宝牌」规则下的数据，可以想见其他规则下的三麻数据与此相近（尤其是和打点无关的部分）。</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2020/04/01/XftI9TWBViwnFqo.jpg" alt="0101.jpg" loading="lazy"></figure>
+<p>让我们关注具体数字。首先流局率为四麻16%，三麻15%，并无太大差异。即，流局率不随对局玩家数量减少而上升，代表着原本由四人逐鹿的「和了」总量不变而成三足鼎立。此外，每局场上出现的立直棒的期待值，四麻为0.67根而三麻为0.73根，三麻更多。</p>
+<p>综上可知，三麻中<strong>做牌迟缓的人更少，弃和的人更少，是全员激情互殴的世界</strong>。换言之，三麻可以看做是<strong>四麻中进展最慢的第四人不存在的世界</strong>。三麻是更焦灼的麻将（*三麻は煮詰まった麻雀です）。</p>
+<h3 id="被追立直比率惊人的高">被追立直比率惊人的高</h3>
+<p>接下来看（表1-2）中被追立直的比率（自己立直后再与他家追立直的比率），四麻为16%，三麻为19%，三麻更高。其中又以先制立直（1局之中最开始的立直）的被追立直率为四麻19%，三麻22%。也就是说，比起四麻，<strong>三麻中对立直进行反击的比率更高</strong>。可能执行追立直的玩家数从3人变为了2人，而追立率不减反增，震惊！</p>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2020/04/01/8KnCtpd9vzoiRMS.jpg" alt="0102.jpg" loading="lazy"></figure>
+<p>副露率四麻35%，三麻25%。和了时副露占比，四麻为48%，三麻为34%，副露率降低了。三麻也有<strong>不能「吃」的影响，有门清重视</strong>（*メンゼン志向）<strong>的倾向</strong>。三麻之道在于门清互殴。</p>
+<h3 id="和了中过半大于满贯">和了中过半大于满贯</h3>
+<p>然后我们来看和了净得点（アガリ素点，和了时收入减去本场棒和立直宣言棒后的基本点）。四麻5600点，三麻8000点，三麻更高。尤其是荣和净得点，四麻4900点，三麻8400点，三麻的荣和净得点约是四麻的1.7倍。在此之上，和了时满贯以上占比，四麻约为24%，而三麻约为56%。使三麻和了净得点提高的是拔北宝牌。有拔北宝牌的规则是<strong>和了过半超过满贯</strong>的恐怖游戏。</p>
+<p>此外，我们来看和了时复合断幺的比率，四麻23%，三麻7%。和了时复合染手的比率，四麻5%，三麻10%。**由于不使用1~9万，断幺更难做的同时，染手更容易做了。**三麻也有采用无食断的规则，考虑到三麻断幺九本来就少，无食断规则下对本书的结论没什么太大影响。</p>
+<h3 id="无关打点的数据和四麻没差别">无关打点的数据和四麻没差别？</h3>
+<p>最后，我们聚焦于立直的数据。让我们回到（表1-2）。</p>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2020/04/01/8KnCtpd9vzoiRMS.jpg" alt="0102.jpg" loading="lazy"></figure>
+<p>首先，和了率四麻为48%，三麻为53%。可以说三麻多少更容易和牌一些，差距也不过5%。而放铳率四麻约14%，三麻约16%，可说三麻多少更容易放铳，同样差距并不大。**由于拔北宝牌的存在，点棒相关的数据虽有不同，和了率等数字基本不变。**可以推测关于立直的麻将战术论和四麻不会有太大差别。</p>
+<figure data-type="image" tabindex="4"><img src="https://i.loli.net/2020/04/01/LzxGWUosV2Ouhjd.jpg" alt="0000.jpg" loading="lazy"></figure>
+<h3 id="三麻和四麻是挺类似的游戏">三麻和四麻是挺类似的游戏</h3>
+<p>我感觉三麻和四麻在根本上是一样的。三麻又没有战术书，身边又没有厉害的人，基本上是自学，牌效率之类都是读四麻的书应用到三麻呢。四麻的知识很重要，我认为投入三麻前没有必要否定四麻的打法。</p>
+<p>三麻和四麻的不同之处在于，攻防判断的分界，做牌的方向性，减少鸣牌，读山比较有用，诸如此类细节的地方。打四麻的人在这些方面不做足对策的话，经常会很难打到尽善尽美。攻防判断不同的话的确可以说是另一种游戏了。</p>
+<p>另外对于打点的意识也不一样。早先，一直打三麻的大阪叔叔们真的是从不鸣牌、给人卯足劲做大牌立直的印象，这倒也是一个很强的打法、虽说规则也会有影响，但重视速度基本没错，参照着这类人的打点，在不至于勉强的范围内关注着打点做牌越发重要了。</p>
+<h3 id="自己的权重更大的世界">自己的权重更大的世界</h3>
+<p>[「进展最慢的第四人不存在的世界」这个表达很有趣。三麻的重点是，自己的和了和放铳的价值都很大。较四麻而言，能隔岸观火的时间更少，自己的权重可谓更大。因此，贯彻全局，自己都必须积极参与。如果是在自由雀庄打牌的无自摸损规则下，配牌弃和自不必言，就连弃和都几乎不存在。弃和就会被拉开差距。极端的时候，打半天麻将的话，中途弃和的场数两只手就数的过来。印象而言，总之时刻注意维持能够听牌的牌型。</p>
+<p>就连天凤三麻，要是以为自己有个5万点就稳如17张牌而瞎鸡打的话会惨遭逆转。三麻只有3个人，要是自己放弃了那一局，就只剩2个了。就二分之一的话，庄家连续和个三次也不是不可能。所以即使自己一骑绝尘遥遥领先，也会踏踏实实地向和了努力，和不起来的时候就给别人助攻之类的积极参与吧！</p>
+<p>三麻的追立直率更高是因为，原本三麻立直率就高，也可能多少因为无法通过「吃」来避一发。天风三麻中，别家先制立直的话基本就弃和，自己听牌时候再进攻回去。这一战术与四麻类似。</p>
+<h3 id="鸣牌过多会导致失败">鸣牌过多会导致失败</h3>
+<p>三麻毫无疑问是倾向于门清的。既有无法「吃」的因素，同时像四麻那种不停鸣牌还能赚的局面很少。四麻玩家进入三麻的时候最容易犯的错误是，过度鸣牌和临近流局时过于激进。三麻对局中鸣牌也不会使速度显著提升，只在四麻中的关键场合鸣牌就差不多了。更直接地说，必须3副露鸣牌的手牌还不如不鸣。</p>
+<p>关于打点，我的体感和表中数据相近。大约满贯6成，和了率接近3成。比如，ALL LAST点差满贯的话，大概2~3成会出现翻盘。</p>
+<h3 id="未收录于实体书中福地的感想">未收录于实体书中福地的感想</h3>
+<blockquote>
+<p>我一开始对于直接将三麻和四麻进行比较的方法感到了冲击，毕竟这基本上就是两个游戏，实在过分了。然而，现在看看的确是一个妥当的方式啊。</p>
+<p>实际上得出的结论果然不出所料，断幺更少染手更多，都是不言自明的。</p>
+<p>不过，比四麻少一个看戏的人，这种提法挺有意思的。是说，在三麻全弃=不存在旁观选项。</p>
+</blockquote>
+
+            </div>
+            <hr style="width: 80%;">
+            
+            <div class="sharebtnContainer">
+                <button type="button" class="sharebtn">转载分享</button>
+            </div>
+            <div class="shareContainer">
+                <div class="share" style="height:30px;background: white;">
+                    <a class="qq" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/QQ.png" alt=""></i></a>
+                    <a class="wechat" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/wechat.png" alt=""></i></a>
+                    <a class="weibo" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/weibo.png" alt=""></i></a>
+                    <a class="qzone" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/qzone.png" alt=""></i></a>
+                    <a class="douban" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/douban.png" alt=""></i></a>
+                    <a class="facebook" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/facebook.png" alt=""></i></a>
+                    <a class="twitter" href=""><i><img class="shareicon"
+                                src="https://honeymoe.github.io/media/images/twitter.png" alt=""></i></a>
+                </div>
+            </div>
+            
+            
+            <div class="donateContainer">
+                <img src="https://honeymoe.github.io/media/images/donate.png" alt="" class="donateImg">
+            </div>
+            <div class="donateContainer">
+                <img src="" alt="" class="donate">
+            </div>
+            
+            <div class="postfooter">
+                <ul class="post-copyright">
+                    <li><strong>文章作者：</strong></li>
+            <li><strong>原文链接：</strong>https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-1-you-shu-ju-fen-xi-jie-du-san-ma-he-si-ma-de-qu-bie/</li>
+            <li><strong>版权声明：</strong>本博客所有文章除特别声明外，均采用<i class="fa fa-fw fa-creative-commons"></i>BY-NC-SA
+                许可协议。转载请注明出处！</li>
+            </ul>
+        </div>
+        <div id="otherpost">
+            
+            <div class="prev-post-pc">
+                <div id="ppcontainer" onclick="window.location.href= 'https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/';return false">
+                    
+                    
+                    <img src="" style="width: 100%;" class="opimg">
+                    
+                    
+                    <h4 class="optitle">【不是汉化组】【数据制胜：三人麻将】2　由数据分析胜者的倾向</h4>
+                </div>
+            </div>
+            <div class="prev-post">
+                上一篇 <a href="https://honeymoe.github.io/bu-shi-han-hua-zu-shu-ju-zhi-sheng-san-ren-ma-jiang-2-you-shu-ju-fen-xi-sheng-zhe-de-qing-xiang/">【不是汉化组】【数据制胜：三人麻将】2　由数据分析胜者的倾向</a>
+            </div>
+            
+            
+        </div>
+    </div>
+    </div>
+    </div>
+
+</body>
+<script>
+    //文章阅读热度
+    var pl = $("#pl").html();
+    var rootaddr = $("#rootaddr").html();
+    pl = pl.replace(rootaddr, "");
+    $("#hotnum").attr('id', pl);
+</script>
+                <div id="comment"  class="comment" style="background: white">
+                    <div class="commentcontainer">
+                        
+                        <p>请到客户端“主题--自定义配置--valine”中填入ID和KEY</p>
+                        
+                    </div>
+                </div>
+                </div>
+                <div class="col-md-1 col-lg-2"></div>
+                <div id="bg">
+                </div>
+            </div>
+            
+        
+        <div class="toc-container">
+            <ul class="markdownIt-TOC">
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#%E8%BF%9B%E5%B1%95%E6%9C%80%E6%85%A2%E7%9A%84%E7%AC%AC%E5%9B%9B%E4%BA%BA%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E4%B8%96%E7%95%8C">进展最慢的第四人不存在的世界</a></li>
+<li><a href="#%E8%A2%AB%E8%BF%BD%E7%AB%8B%E7%9B%B4%E6%AF%94%E7%8E%87%E6%83%8A%E4%BA%BA%E7%9A%84%E9%AB%98">被追立直比率惊人的高</a></li>
+<li><a href="#%E5%92%8C%E4%BA%86%E4%B8%AD%E8%BF%87%E5%8D%8A%E5%A4%A7%E4%BA%8E%E6%BB%A1%E8%B4%AF">和了中过半大于满贯</a></li>
+<li><a href="#%E6%97%A0%E5%85%B3%E6%89%93%E7%82%B9%E7%9A%84%E6%95%B0%E6%8D%AE%E5%92%8C%E5%9B%9B%E9%BA%BB%E6%B2%A1%E5%B7%AE%E5%88%AB">无关打点的数据和四麻没差别？</a></li>
+<li><a href="#%E4%B8%89%E9%BA%BB%E5%92%8C%E5%9B%9B%E9%BA%BB%E6%98%AF%E6%8C%BA%E7%B1%BB%E4%BC%BC%E7%9A%84%E6%B8%B8%E6%88%8F">三麻和四麻是挺类似的游戏</a></li>
+<li><a href="#%E8%87%AA%E5%B7%B1%E7%9A%84%E6%9D%83%E9%87%8D%E6%9B%B4%E5%A4%A7%E7%9A%84%E4%B8%96%E7%95%8C">自己的权重更大的世界</a></li>
+<li><a href="#%E9%B8%A3%E7%89%8C%E8%BF%87%E5%A4%9A%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%A4%B1%E8%B4%A5">鸣牌过多会导致失败</a></li>
+<li><a href="#%E6%9C%AA%E6%94%B6%E5%BD%95%E4%BA%8E%E5%AE%9E%E4%BD%93%E4%B9%A6%E4%B8%AD%E7%A6%8F%E5%9C%B0%E7%9A%84%E6%84%9F%E6%83%B3">未收录于实体书中福地的感想</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+    </div>
+    </div>
+    <div class="tog">
+        <div class="toggleContainer">
+            <div class="toggle">
+                <i class="fas fa-angle-double-up"></i>
+            </div>
+        </div>
+    </div>
+    <div id="bgchoice" style="display: none"></div>
+    
+    <div id="bgurl" style="display:none"></div>
+    
+    </div>
+</body>
+<script>
+    var img = $("img");
+    for (var i = 0; i < img.length; i++) {
+        if (img.eq(i).attr("class") == undefined) {
+            img.eq(i).attr("class", "lazyload");
+            var imgsrc = img.eq(i).attr("src");
+            img.eq(i).attr("data-original", imgsrc);
+            img.eq(i).attr("src", "");
+            img.eq(i).hide();
+        }
+    }
+</script>
+<script>
+    hljs.initHighlightingOnLoad();
+</script>
+<script>
+    //寻找所有code标签，加复制按钮鸭！(行内代码除外)
+    var codes = document.getElementsByTagName('code');
+    if (codes.length) {
+        for (var i = 0; i < codes.length; i++) {
+            //高度/行高=文本行数
+            // var rowNum=Math.round(codes[i].height()/parseFloat(codes[i].css('line-height')));
+            // console.log("当前有"+rowNum+"行");
+            var code_id = "code_id_" + i;
+            codes[i].setAttribute("id", code_id);
+            var ci = "#" + code_id;
+            var codedot = $(ci);
+            var rowNum = Math.round(codedot.height() / parseFloat(codedot.css('line-height')));
+            if (rowNum <= 1) continue;
+            var btn = document.createElement("button");
+            btn.setAttribute("class", "copybt");
+            btn.setAttribute("data-clipboard-target", "#" + code_id);
+            btn.innerHTML = '复制代码';
+            codes[i].parentNode.insertBefore(btn, codes[i]);
+        }
+    };
+    var cop = new ClipboardJS('.copybt');
+    var codeCopyText = $("#codeCopyText").html();
+    cop.on('success', function (e) {
+        alert(codeCopyText);
+        e.clearSelection();
+    });
+    cop.on('error', function (e) {
+        alert("矮油，复制失败了...手动复制吧勇士！");
+        e.clearSelection();
+    });
+</script>
+
+<script type="text/javascript">
+    var message_Path = '/live2d/'
+    var home_Path = document.getElementById("domainname").innerHTML + "/"; //此处修改为你的域名，必须带斜杠
+</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/850552586/ericamcdn@0.1/js/live2d.js"></script>
+<script type="text/javascript" src="https://honeymoe.github.io/media/live2d/js/message.js"></script>
+<script type="text/javascript">
+    loadlive2d("live2d", "https://honeymoe.github.io/media/live2d/assets/tororo.model.json");
+</script>
+
+<script>
+    $(function () {
+        $('.toggleContainer').click(function () {
+            $('html,body').animate({
+                scrollTop: '0px'
+            }, 800);
+        });
+        $(window).scroll(function () {
+            var st = $(window).scrollTop();
+            if (st > 30) {
+                $(".toggleContainer").fadeIn(400);
+            } else {
+                $(".toggleContainer").fadeOut(100);
+            }
+        });
+    });
+</script>
+
+<script>
+    var bgchoice = $('#bgchoice').html();
+    var bg = $('#bg');
+    var bgurl = document.getElementById("bgurl").innerHTML;
+    if (bgchoice == 'default')
+        for (var i = 0; i < 3; i++)
+            bgurl = bgurl.replace("\\", "/");
+    bg.css("background", "url('" + bgurl + "')");
+</script>
+
+
+<script src="https://honeymoe.github.io/media/js/index.js"></script>
+
+
+
+<!-- 动态更改上(下)一篇博客图片框长宽 -->
+<script>
+    npcontainer = document.querySelector('#npcontainer');
+    npstyle = window.getComputedStyle(npcontainer, null);
+    npwidth = npstyle.width;
+    npheight = 0.6 * Number(npwidth.replace("px", ""));
+    npheight = npheight.toString() + "px";
+    var op = $(".opimg");
+    op.css("height", npheight);
+</script>
+
+<script src="https://honeymoe.github.io/media/share/dist/Share.js"></script>
+
+<script>
+    var avatarSrc = $(".avatar").attr("src");
+    var dp = document.getElementsByClassName("describtion")[0].innerHTML;
+</script>
+
+
+<script>
+    var title = document.getElementById("texttitle").getElementsByTagName("h2");
+    
+    var share = new Share('.share', {
+        title: title[0].innerHTML,
+        initialized: true,
+        //默认获取网站描述
+        description: dp,
+        //网站图片默认获取的是设置的用户头像
+        image: avatarSrc,
+        //激活的分享网站
+        sites: ["weibo", "qq", "wechat", "douban", "qzone", "facebook", "twitter", "google"],
+        //微信分享PC端会生成二维码分享,移动端如果可以唤起微信最好
+        wechatQrcodeTitle: "微信扫一扫：分享", // 微信二维码提示文字
+        wechatQrcodeHelper: '<p>微信里扫一下二维码</p><p>便可将本文分享至朋友圈。</p>',
+        //关闭的网站分享
+        disabled: ['google', 'linkedin'],
+        wechatQrcodePosition: 'bottom'
+    });
+
+    //点击分享按钮展现出分享icons
+    var sharebtnTag = false;
+    $(".sharebtn").click(function () {
+        if(!sharebtnTag)
+        {
+            $(".share").show();
+            sharebtnTag = true;
+        }
+        else
+        {
+            $(".share").hide();
+            sharebtnTag = false;
+        }
+    })
+
+    var donatebtnTag = false;
+    $(".donateImg").click(function () {
+        if(!donatebtnTag)
+        {
+            $(".donate").show();
+            donatebtnTag = true;
+        }
+        else{
+            $(".donate").hide();
+            donatebtnTag = false;
+        }
+    })
+
+    //加载后的事件同步（阅读量、移动端评论等
+    window.onload=function(){
+        getHotnum();
+        var sharepc = $(".share").eq(0).html();
+        $(".share").eq(1).html(sharepc);
+        document.getElementById("veditor").setAttribute("placeholder", jrsc);
+        aplayerbtnInit();
+    }
+</script>
+
+
+<script>
+    jQuery(document).ready(function ($) {
+        function lazyload() {
+            var oLazyload = $("img.lazyload"),
+                fLazyload = function (hLazyload) {
+                    var nLazyload = $(window).height() + $(document).scrollTop();
+                    oLazyload.each(function () {
+                        $(this).offset().top < nLazyload && ($(this).trigger("appear"), oLazyload =
+                            oLazyload.not(this));
+                    }), 0 == oLazyload.length && $(window).unbind("scroll", fLazyload);
+                };
+            oLazyload.each(function () {
+                $(this).one("appear", function () {
+                    $(this).attr("src", $(this).attr("data-original"));
+                    $(this).fadeIn(500);
+                });
+            }), $(window).bind("scroll", fLazyload), fLazyload();
+        }
+        lazyload();
+    });
+</script>
+
+<!-- <script src="https://honeymoe.github.io/media/js/av-min.js"></script> -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/leancloud-storage@3.13.0/dist/av-min.js"></script> -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/leancloud-storage@4.6.1/dist/av-live-query-min.js"></script> -->
+
+<script>
+    function getHotnum() {
+        //文章阅读热度（重构，利用leancloud原生api）
+        var pl = $("#pl").html();
+        var rootaddr = $("#rootaddr").html();
+        pl = pl.replace(rootaddr, "");
+
+        var appid = '';
+        var appkey = '';
+        console.log(appid, appkey)
+        if(AV==undefined)
+            AV.init({
+                appId: appid,
+                appKey: appkey
+            });
+        const query = new AV.Query('Counter');
+        query.equalTo('url', pl);
+        var time = 'Loading...';
+        query.find().then(function (results) {
+            console.log(results)
+            if (results.length == 0) {
+                console.log("0")
+                var NewCounter = AV.Object.extend('Counter');
+                var nc = new NewCounter();
+                nc.save({
+                    time: 1,
+                    title: "【不是汉化组】【数据制胜：三人麻将】1　由数据分析解读三麻和四麻的区别",
+                    url: pl,
+                    xid: pl,
+                }).then(function (object) {
+                    $(".hotnum").eq(0).html(1);
+                    $(".hotnum").eq(1).html(1);
+                });
+            } else {
+                id = results[0].id;
+                var todo = AV.Object.createWithoutData('Counter', id);
+                time = results[0].attributes.time + 1;
+                todo.set("time", time);
+                todo.save();
+                console.log(todo);
+                $(".hotnum").eq(0).html(time);
+                $(".hotnum").eq(1).html(time);
+            }
+
+        }, function (error) {
+            console.log(error)
+        });
+    }
+</script>
