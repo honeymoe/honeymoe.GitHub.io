@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://honeymoe.github.io</id>
     <title>小透明书屋</title>
-    <updated>2020-11-12T01:54:06.327Z</updated>
+    <updated>2020-11-13T08:16:03.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://honeymoe.github.io"/>
     <link rel="self" href="https://honeymoe.github.io/atom.xml"/>
@@ -10,6 +10,255 @@
     <logo>https://honeymoe.github.io/images/avatar.png</logo>
     <icon>https://honeymoe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小透明书屋</rights>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】22　从一向听开始反击]]></title>
+        <id>https://honeymoe.github.io/data22/</id>
+        <link href="https://honeymoe.github.io/data22/">
+        </link>
+        <updated>2020-11-13T08:15:22.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="不是汉化组数据制胜三人麻将22-从一向听开始反击">【不是汉化组】【数据制胜：三人麻将】22　从一向听开始反击</h1>
+<p>在本专题，将讨论当对手立直后，自己门清两面一向听时的攻防判断。</p>
+<p>一向听与立直不同，数字会因「进攻到何种程度」而有所波动。然而，如果按「进攻到何种程度」各自分别手机数据了，信息会爆发式增加，所以在此并未考虑「进攻到何种程度」而收集了整体的情况。因此，本专题的数据只能粗略作为参考。</p>
+<h3 id="各项数字很严峻">各项数字很严峻</h3>
+<p>首先，我们来确认维持门清2个两面搭子一向听时的和牌率。请看（图22-1）。这张图展示了非先制门清2两面一向听时的和牌率。</p>
+<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197872/picture_pc_ad83cf055241f1aa2595811588850fde.jpg" alt="img" loading="lazy"></figure>
+<p>这一次，我们重点关注先制立直的平均巡目第8巡。首先，<strong>和牌率18%，放铳率16%</strong>。从（表22-2）来看其他各项数值，被自摸率40%，横移动率15%，流局率11%。</p>
+<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197877/picture_pc_c3bdda9dd5cedee043ce848db0a44f85.jpg" alt="img" loading="lazy"></figure>
+<p>当第一切为安全牌时，各数字也可视作上面的表格，第一切若是无筋则数字就不一样了。例如，切危险度10%的牌（第8巡，半筋456的危险度）则和牌率17%，放铳率24%。只是10%的危险度就到这一程度，则切无筋37（危险度15%）的话，和牌率会更低、放铳率会更高，由此，可知从一向听开始切无筋进攻是很困难的。</p>
+<p>另外，为了按进攻程度不同对数据的差异进行分析，分别看庄、闲的数值。闲家和牌率18%，放铳率15%，庄的和牌率20%，放铳率17%，因庄闲不同而产生的差别很小。</p>
+<p>也可能说按自己拔北枚数不同收集数据的话可能就能发现不同，于是便确认了自己是庄家时，各拔北枚数下的数字。拔北0枚和牌率19%，放铳率17%，拔北2枚和牌率21%，放铳率18%，也看不出来打的差距。那么，这一数据虽然没有经过模拟器的仔细检证，但应该也是能作一定参考的。</p>
+<p>另外，就非先制两面听牌后，宣告立直的瞬间放铳率全巡目平均约为11%。（愚形立直约为10%）。那么，<strong>可以认为这一数据中听牌时切出的牌危险度大约有10%</strong>。以下将活用这一前提。</p>
+<h3 id="各种规则下的讨论">各种规则下的讨论</h3>
+<p>那么，让我们来看这种规则下的具体攻防判断。假设第8巡被别人立直时，手牌如下：</p>
+<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197882/picture_pc_d6291afc5751d0b9e612a0b3a9d7c92b.jpg" alt="img" loading="lazy"></figure>
+<p>如果此时抽身，则切1m或9m，若进攻，则需要切23p或56p任一，5p或6p是半筋牌，且听牌时会听1p所以优先考虑。视5p和6p的危险度为10%，考虑切5p6p进攻所需要的打点。</p>
+<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197883/picture_pc_74b169c27c7f70c4fb313480c29eebc7.jpg" alt="img" loading="lazy"></figure>
+<p>让我们先从天凤规则开始。请看表（22-3）、<strong>自己和立直家都是闲家且他拔北0枚时，要求打点为7000点</strong>。dora1还不够，需要dora2枚。可知门清一向听进攻是相当危险的。此外，<strong>拔北2枚要求打点为1万1900点</strong>，区区满贯尚不足回击。</p>
+<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197893/picture_pc_238b64e1976f0a71316d2ec28c819204.jpg" alt="img" loading="lazy"></figure>
+<p>如果对手是庄家又如何呢？对手是庄家且拔北0枚，要求打点9200点，拔北2枚为1万6200点。这么一看，对手拔北0枚而自己有满贯以上才是可以怼回去的条件。就此前的牌型来举例的话，差不多就是1m是宝牌的情况下吧。</p>
+<p>最后，看自己是庄家的情况。<strong>自己是庄时，要求打点为对手拔北0枚6100点，拔北2枚9300点</strong>。前者需要宝牌1枚，后者需要满贯。</p>
+<p>虽说对攻条件稍宽容一些，但这也是很高的要求了。虽说自己是庄家两面一向听，也不能过于强势。</p>
+<p>以上，讨论了对攻的条件。<strong>有自摸损时，从两面一向听开始切2枚无筋对攻，若自己是闲家需要放铳点数的1.25倍，若自己是庄家需要和立直家差不多的打点</strong>。</p>
+<p>这里讨论切的2枚，还仅仅是切无筋中最安全的半筋456，若切的2枚危险牌时别的无筋，条件会更苛刻。</p>
+<figure data-type="image" tabindex="6"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197898/picture_pc_e419f3311895414e045d0bf1aa289992.jpg" alt="img" loading="lazy"></figure>
+<p>なお、ツモ損・抜きドラなしの要求打点を（表２２－４）に掲載しました。抜きドラがない点で天鳳とは異なりますが、考え方としては天鳳の場合と同様です。</p>
+<figure data-type="image" tabindex="7"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197902/picture_pc_a9431615d683da900d895fc79d7f8064.jpg" alt="img" loading="lazy"></figure>
+<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197907/picture_pc_e3b5bb0f87b9d2d5dd6816bfe48d3a52.jpg" alt="img" loading="lazy"></figure>
+<p>次に、ＭＪルールについて考えます。（表２２－５）を見ると、<strong>片筋４５６を2枚押すときの要求打点は、たがいに子なら5500点、相手が親なら6900点、自分が親なら3800点</strong>です。</p>
+<figure data-type="image" tabindex="9"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197908/picture_pc_22b82794a6074dd457b3856b2625b6f6.jpg" alt="img" loading="lazy"></figure>
+<p>ツモ損がないことによってオリのメリットが減るため、押せる条件が緩和されます。たがいに子ならドラ1枚あれば押せますし、相手が親ならドラ2枚あれば押せ、自分が親なら結構押せます。</p>
+<p>ただし、これは切る牌が片筋2枚であることが前提です。その後、ど真ん中の無筋をツモってきた場合に押し続けるのは、むき出しの札束を手に持ちつつヨハネスブルグを丸腰で歩き回るくらい危険極まりない行為となります。</p>
+<figure data-type="image" tabindex="10"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197916/picture_pc_adbba6e86827423062d902efa8c9ce30.jpg" alt="img" loading="lazy"></figure>
+<p>最後に、ツモ損なし・抜きドラありを見てみましょう。要求打点を（表２２－６）に掲載しました。<strong>片筋４５６を2枚押す場合、ツモ損なし</strong>（ＭＪルールを含む）<strong>の場合は、自分が子ならリーチ者の放銃素点と同程度の点数があれば押せて、自分が親なら75％の点数があれば押し返せます</strong>。この基準を補助線として対応していくことになります。</p>
+<figure data-type="image" tabindex="11"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197919/picture_pc_117cd15376cc7e62fd4fe93d52e37303.jpg" alt="img" loading="lazy"></figure>
+<h3 id="令人绝望的两个坎张搭子一向听">令人绝望的两个坎张搭子一向听</h3>
+<p>上面讨论的还是2个两面搭子的一向听。仅供参考，（表22-7）展示了2个坎张搭子一向听的各项数值。</p>
+<figure data-type="image" tabindex="12"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197922/picture_pc_aa81f83039845f8e0bd20bb56e620144.jpg" alt="img" loading="lazy"></figure>
+<p>如您所见，从没有两面搭子的一向听手牌回击是极端苛刻的。8巡目的和牌率仅为7%，到11巡只剩4.3%。</p>
+<p>要不是无法弃和等特殊情况，在这种条件下试图回击，有多少点棒都不够用。虽说求胜在天，但立于不败之地的是技术。</p>
+<figure data-type="image" tabindex="13"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13197926/picture_pc_bf21d7d50f26c056bcb61f93ff478561.jpg" alt="img" loading="lazy"></figure>
+<h3 id="进攻得稍稍暧昧一些">进攻得稍稍暧昧一些</h3>
+<p>基本上，听牌了会攻，而从一向听开始对攻很困难。这一点我想四麻也是一样的。</p>
+<p>只不过，看了正文感觉「哇完全不适合攻啊」，但又觉得实际不是这么回事。就我自己的基准而言，比这边记载的数据还要理想一些，小牌也挺攻的。</p>
+<p>这一数据预设的是「全弃的失败率为0」，「还要再打1枚10%的危险牌是前提」，然而实际上，也有全弃失败的情况和不必切2枚危险牌的情况，实际对局之中可以比这里的数据更积极一些。</p>
+<h3 id="不全弃也别打危险牌">不全弃，也别打危险牌</h3>
+<p>一向听时是攻是弃，在我很少有简单明快的判断办法。序盘安全牌很少所以进攻，到了中途弃和，随局面的不断变化而改变对策。虽然不会全弃，但不切危险度高的牌，时刻准备复活。此时摸到了用不上的危险牌，没有办法了才看情况弃和。</p>
+<p>例如，如果纯按牌效进攻不得不切2~3枚危险牌，或是听牌时不得不切一张天命所归的牌，那么还不如从一向听开始就切安全牌弃和的情况更多些。</p>
+<p>同时，听牌后打的牌不是危险牌则会试图攻一会儿。切走听牌枚数会更少但感觉能通过的牌维持一向听，这种两面（不）讨好的选项也常常采用。</p>
+<h3 id="考虑全弃失败率时">考虑全弃失败率时</h3>
+<p>对细节问题追加补充说明。</p>
+<p>首先，这次给的例子中有充足的安全牌，假定弃和时基本上能够坚持到最后。然而，视情况不同可切的牌也很可能全是无筋。这种情况下也可以一样思考吗？对于这一问题：</p>
+<p>最基本的思路而言，<strong>如果手上只剩无筋，那只有1巡可以选择全攻</strong>。这种情况下，也是没有办法只能进攻，如果出现了能够弃和的迹象，就应该干脆地弃和。</p>
+<p>通过将全弃失败的概率纳入考虑，我们来讨论要求打点会降低多少。<strong>遇拔北1枚立直时自己的全弃失败率（只计算第一次失败，其后不计）视为5%，则局收支降低300~400点</strong>（若视为10%则会提升一倍）</p>
+<p>和牌率约20%，则全弃局收支降低400点，要求打点则下降2000点，番数下降约1番。若能活用这些知识，对攻守判断的理解会更深。</p>
+<p>接下来，考虑要求打点的误差。</p>
+<p>第8巡、第11巡的和牌率约为20%，<strong>若局收支误差假设为500点，要求打点的误差约为2500点</strong>。无法保证能够平安弃和，同时点差情况对进攻有利时，可以考虑这一误差适度进攻。</p>
+<p>然后，考虑14巡。14巡已经将近流局，可能会有因取得流局罚符而有利于进攻的考虑。然而，实际情况是流局听牌率并不那么高。就那么流局的可能性也不是那么高。和牌的概率仅为6%。</p>
+<p>另外，14巡的半筋456的危险度约为15%，而普通的无筋192837更是高达20%，切无筋进攻是一个很大的冒险。考虑到罚符而切无筋进攻，在第14巡而言是应当避免的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】21　切役牌dora的风险]]></title>
+        <id>https://honeymoe.github.io/data21/</id>
+        <link href="https://honeymoe.github.io/data21/">
+        </link>
+        <updated>2020-11-13T08:14:26.000Z</updated>
+        <content type="html"><![CDATA[<p>当这局的役牌是dora，而自己有1枚时，可能不知道什么时候切出去比较好。如果自己的手牌太差，也可以抓到最后不放手，但要是自己的手牌不错，那就不可能捏到流局了。话虽如此，要是打出去被碰了，基本他就满贯起步了。</p>
+<h3 id="役牌dora何时打出">役牌dora何时打出？</h3>
+<p>在四麻中，「役牌越是后切，被鸣牌的概率就越高。因此，只要自己还想和牌，就不需要扣住役牌」。这一逻辑在三麻中是否成立，让我们用数据说话。</p>
+<p>切生张三元牌、场风牌时被两家中某一家碰、荣和的概率如（图21-1）所示。且看役牌dora的被碰率，<strong>自第1巡到第9巡，被碰率逐渐增加</strong>。具体而言，第1巡为9%，而第9巡增加为23%。</p>
+<figure data-type="image" tabindex="1"><a href="https://imgchr.com/i/Dp8eIO"><img src="https://s3.ax1x.com/2020/11/13/Dp8eIO.jpg" alt="Dp8eIO.jpg" loading="lazy"></a></figure>
+<p>据此，可说至<strong>中巡之前，自己的手牌已经差不多的时候，若不及早切走役牌dora，则被碰的可能性就会更高</strong>。</p>
+<p>自己的手牌进展顺利，没有位置留给役牌dora了所以再切，是以自己的时间轴为中心的自然想法。然而与此同时，麻将桌上还有以巡目为单位的公共时间流动，从这一观点出发，迟早要切的话越早切越好。</p>
+<p>同时，切得过于早的话，虽说自己的安全性有所提高，同时意味着放弃了让役牌dora重叠起来使用。手握一枚役牌dora，风险与机会并存。</p>
+<p>役牌dora便是如此让人烦恼的存在。一言蔽之，第9巡被碰的概率为23%，究竟是高是低呢？大约四次里就有一次，这一现实是否比您预想的更低呢？那么，不必担忧被碰的可能性，优先考虑自己的手牌可能更好。</p>
+<p>另外，10巡以后被碰的概率虽然下降了，同时放铳的概率反而增加了，就更难轻易切出了。若<strong>手中的役牌dora捏到了第10巡，若非自己的手牌值得进攻，那还不如留到结束</strong>。与被碰时并不马上送分相比，放铳就会猝死。</p>
+<h3 id="役牌基本上碰第一枚">役牌基本上碰第一枚</h3>
+<p>请看（图21-1）。序巡中，役牌宝牌与非宝牌的碰率几乎一样，由此可以推测大多数玩家遇到役牌应该是碰第一枚的。这些牌谱是天凤凤凰桌的数据，玩家也尽是些猛人，可以说「役牌基本上碰第一枚」才是铁律。</p>
+<figure data-type="image" tabindex="2"><a href="https://imgchr.com/i/Dp8eIO"><img src="https://s3.ax1x.com/2020/11/13/Dp8eIO.jpg" alt="Dp8eIO.jpg" loading="lazy"></a></figure>
+<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13196350/picture_pc_f57a638d35e3d7f059afc73c76260e0c.jpg" alt="img" loading="lazy"></figure>
+<h3 id="牌扣得再好也只能让没拿着的人和了">牌扣得再好也只能让没拿着的人和了</h3>
+<p>关于副露手听牌的攻防判断并无违和感，这么记就行了。</p>
+<blockquote>
+<p><strong>福地</strong>	我说点关于四麻的事，如果和打无赤牌竞技麻将的人打牌，因为没有赤宝牌，不做役打点就高不起来，所以当大家都在目标混一色或对对和的那种序盘，这种役牌就很难打出来，场面就变了。切出的牌会不一样。</p>
+<p>不做出和牌有优势的牌就没意义了，所以当瞄准混一色或对对和的人出现2个，也不知道这种人的手牌进展到什么程度，不能轻易切出的牌拿到了好几种，游戏整个不一样了。</p>
+</blockquote>
+<p>如果打的是三麻，太过扣牌的话会被剩下的一个人和走。打四麻的话还有两个人可能就打起来了，三麻则不然，没被扣牌的人可以悠哉做牌。所以若非扣牌防的那家打点过高，还是不要太执着扣牌了。</p>
+<p>且不说1000点或2000点，就算让他和个4000点左右也没什么大不了的，按这个感觉来打牌应该不错。</p>
+<p>关于役牌dora，我个人是不需要的时候就切出去，大致如此。要是扣牌过深，也只是自己和拿着的人挂了，另外一个人就要和牌了。要说没拿役牌dora的人是不是打点就低，也并非如此。因为还有拔北宝牌，所以高打点的情况也很多。</p>
+<p>那么，应该持有到什么时候呢？就结论而言，很多时候我会一直拿着役牌dora。我算是比其他人更重视役牌dora重叠或19牌dora重叠的那种人了。要是切了宝牌就只剩立直nomi了，就会考虑宝牌的重叠。当然，时至一向听，实在是会让和率下降太多的话就会切走。虽然只是我个人的一个孤例，但我还是建议在这一点上依照自己的感觉寻找正解比较好。</p>
+<h3 id="手牌缺少雀头则役牌2枚现出都不鸣">手牌缺少雀头，则役牌2枚现出都不鸣。</h3>
+<p>话说回来，就算役牌不是dora，也有「役牌基本都鸣第一枚」这一结论。这里应该注意一下，要是手牌乱七八糟，或是没有雀头，就不必急着鸣役牌了。</p>
+<p>我从一开始也说过了，三麻无脑副露是不行的。具体而言，若无雀头，则基本上都不要碰役牌。就算第二枚被舍出都PASS。副露却无法让向听数前进，或是手牌过于散乱，在基本上都不鸣牌为上。若一手牌必须3副露，那不如从一开始就不副露。就算摆出那么一副积极进攻的态势，速度也不会快多少，反而考虑到打点降低和放铳的风险，往往很不合算，不如PASS等立直吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】20　副露手的听牌率]]></title>
+        <id>https://honeymoe.github.io/data20/</id>
+        <link href="https://honeymoe.github.io/data20/">
+        </link>
+        <updated>2020-11-13T08:12:21.000Z</updated>
+        <content type="html"><![CDATA[<p>本章的主题是副露家的听牌率。</p>
+<p>如果遇到他家副露，往往很难确定他是否已经听牌。于是，在判断大致打点范围的同时，还需要判断是否已经听牌。前者已经在专题14讨论过了，接下来我们来看后者。</p>
+<h3 id="3副露基本已经听牌">3副露基本已经听牌</h3>
+<p>（图20-1）展示了3副露鸣牌瞬间・2副露鸣牌瞬间的听牌率。首先，没有其他人立直时，进入<strong>3副露的瞬间，其听牌率在第3巡都超过了60%，6巡超过了80%</strong>。由此，他家三副露时应当视作基本已经听牌了。</p>
+<figure data-type="image" tabindex="1"><a href="https://imgchr.com/i/Dp8Aqx"><img src="https://s3.ax1x.com/2020/11/13/Dp8Aqx.jpg" alt="Dp8Aqx.jpg" loading="lazy"></a></figure>
+<p>另外，<strong>2副露的数据显示，6巡目听牌率超过50%，12巡目超过80%</strong>。因此，进入中巡，就需要戒备2副露的人已经听牌的情况，毫无防备是很危险的。</p>
+<p>此外，1副露的数据请看（图20-2）。<strong>1副露时听牌率在第8巡超过50%，11巡超过70%</strong>。若遇到1副露，中巡过半时应该考虑其已经听牌的可能性。</p>
+<figure data-type="image" tabindex="2"><a href="https://imgchr.com/i/Dp8VZ6"><img src="https://s3.ax1x.com/2020/11/13/Dp8VZ6.jpg" alt="Dp8VZ6.jpg" loading="lazy"></a></figure>
+<p>比起四麻，三麻的听牌相当迅速。若不对副露家及早警戒，会死的很快。</p>
+<h3 id="默听率超过20">默听率超过20%</h3>
+<p>最后是门清时的情况，由（图20-3）可知<strong>11巡以后，默听听牌率超过20%。</strong></p>
+<figure data-type="image" tabindex="3"><a href="https://imgchr.com/i/Dp8ZdK"><img src="https://s3.ax1x.com/2020/11/13/Dp8ZdK.jpg" alt="Dp8ZdK.jpg" loading="lazy"></a></figure>
+<p>这数字是高是低可谓见仁见智，而正如专题14所言，默听手并不小。自己的手牌没什么说法，或者离听牌尚远时，遇到时至终巡却无人立直、无人副露的场况，需要留心有人默听。</p>
+<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13196246/picture_pc_fd7ae842d9b7f39b679f9a60e222a84d.jpg" alt="img" loading="lazy"></figure>
+<h3 id="3~7被舍出的情报很重要">3~7被舍出的情报很重要</h3>
+<p>要说是否会在他家鸣牌的瞬间意识到听牌率，这点视鸣牌后手切的牌种类而定。例如，碰了初见字牌后手切3~7，可以视为手牌已经很整齐了，此后再手切2枚左右，基本是听牌了。</p>
+<p>碰初见字牌后舍出的若是19字牌，说明他还在字牌和端牌整理的阶段，不会太过在意。若继3~7之后，又出了字牌，那听牌率更高了。</p>
+<p>打三麻想要读出对手的速度，不论门清或副露，3<sub>7被舍出的情报都很关键。三麻的数牌比四麻少1个，要用2种数牌构成4个面子，所以3</sub>7的好牌被打出来，往往代表浮牌冗余=搭子已齐。因此，即使是门清，感觉也至少已经两向听，若鸣牌则至少也到了一向听。</p>
+<p>若3~7被舍出，自己也会按此调整自己做牌的方向。例如，配合对手的速度而（会形成副露的）好牌先打。该说是一种相对速度调整吧。</p>
+<p>打四麻的时候碰到切3~7也不会对自己打牌有太大影响，所以打三麻时带着这一感觉挺重要的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】19　愚形听牌副露手可以进攻的基准]]></title>
+        <id>https://honeymoe.github.io/data19/</id>
+        <link href="https://honeymoe.github.io/data19/">
+        </link>
+        <updated>2020-11-13T08:08:51.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="不是汉化组数据制胜三人麻将19-愚形听牌副露手可以进攻的基准">【不是汉化组】【数据制胜：三人麻将】19　愚形听牌副露手可以进攻的基准</h1>
+<h3 id="愚形副露手可以进攻到何种程度">愚形副露手可以进攻到何种程度？</h3>
+<p>前一章节讨论了愚形听牌追立直的基准，本次来讨论愚形副露听牌的攻防判断。</p>
+<p>和率等数据依两面听牌旧例，沿用了立直时的数据。因此，预设前提是「切危险牌之后全攻不弃」。然而实战之中，攻防判断每巡都可以进行，「暂时进攻，之后摸到危险牌则弃和」这一判断也是必须的。此外，一下内容以11巡第一切无筋2p进攻来讨论。</p>
+<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174989/picture_pc_bf0d371d8fc6208799964c9cc59f543e.jpg" alt="img" loading="lazy"></figure>
+<p>首先，在天凤规则中，愚形副露后手对攻的要求打点如（表19-1）所示。查表可知，面对先制立直，闲家<strong>拔北0枚要求打点为3900点</strong>。若有3番则勉强及格。然后，<strong>拔北2枚为8000点</strong>，需要满贯才能平衡损益。</p>
+<figure data-type="image" tabindex="2"><a href="https://imgchr.com/i/Dp8Pz9"><img src="https://s3.ax1x.com/2020/11/13/Dp8Pz9.jpg" alt="Dp8Pz9.jpg" loading="lazy"></a></figure>
+<p>在此之上，<strong>若先制立直者是庄家，拔北0枚要求打点5800点</strong>。此时，3番还不够，需要满贯。最后，<strong>拔北2枚要求打点为1万1700点</strong>。需要跳满水平。</p>
+<p><strong>自己是庄家时，对手拔北0枚要求打点2700点，拔北2枚要求打点为6100点</strong>。前者需要2番，后者需要3番。</p>
+<p>总之，<strong>愚形副露听牌原则上需要3番，自己是庄家且对手拔北0枚则只要2番，自己是闲家切对手高打点（对手是庄家或有拔北宝牌的闲家）则需要4番，对手是庄家且拔北2枚则还是溜吧</strong>。</p>
+<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174996/picture_pc_4be3d6566e01a3b022ae9e722be8f30c.jpg" alt="img" loading="lazy"></figure>
+<p>続いて、ツモ損・抜きドラなしの場合を考えてみます。要求打点を（表１９－２）に示しましたが、これは天鳳ルールの抜きドラ0枚の場合と同じです。</p>
+<figure data-type="image" tabindex="4"><a href="https://imgchr.com/i/Dp8CRJ"><img src="https://s3.ax1x.com/2020/11/13/Dp8CRJ.jpg" alt="Dp8CRJ.jpg" loading="lazy"></a></figure>
+<p><strong>要求打点はたがいに子なら3900点、相手が親なら5800点、自分が親なら2700点</strong>です。ざっくり考えると、<strong>自分が親なら2ハン、たがいに子なら3ハン、相手が親なら4ハン必要</strong>と考えれば無理のない判断が可能になるでしょう。</p>
+<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13175028/picture_pc_0952ea13da78a10d72e2b5526bb62338.jpg" alt="img" loading="lazy"></figure>
+<p>さらに、ＭＪルールについても見てみましょう。（表１９－３）の要求打点の表を見ると、<strong>たがいに子の要求打点が2400点、相手が親の要求打点が3700点、自分が親の要求打点が1200点</strong>です。</p>
+<figure data-type="image" tabindex="6"><a href="https://imgchr.com/i/Dp8FMR"><img src="https://s3.ax1x.com/2020/11/13/Dp8FMR.jpg" alt="Dp8FMR.jpg" loading="lazy"></a></figure>
+<p>とすると、<strong>親ならゼンツ、たがいに子なら2ハンなら押す、相手が親なら3ハン必要</strong>というのが無理のない判断となりそうです。ツモ損がない影響でボーダーラインが下がっています。</p>
+<figure data-type="image" tabindex="7"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13175031/picture_pc_f556511722e0086344d22060074cb42c.jpg" alt="img" loading="lazy"></figure>
+<p>今度は、ツモ損なし・抜きドラありのケースを見てみましょう。（表１９－４）を見ると、<strong>たがいに子であるときの要求打点は抜きドラ0枚なら2400点、抜きドラ2枚なら6100点</strong>です。前者なら2ハンですが、後者なら4ハン必要になります。</p>
+<figure data-type="image" tabindex="8"><a href="https://imgchr.com/i/Dp8ks1"><img src="https://s3.ax1x.com/2020/11/13/Dp8ks1.jpg" alt="Dp8ks1.jpg" loading="lazy"></a></figure>
+<p>また、<strong>相手が親であるときの要求打点は抜きドラ0枚なら3700点、抜きドラ2枚なら8900点</strong>です。前者なら3ハンですが、後者はマンガンが必要になります。</p>
+<p>さらに<strong>自分が親であるときの要求打点は抜きドラ0枚なら1200点、抜きドラ2枚なら4200点</strong>です。前者なら1ハン、後者なら3ハン必要となります。</p>
+<p>以上をまとめると、<strong>ツモ損なしでも原則3ハンは必要</strong>で、<strong>自分が子で相手の抜きドラが多い場合は4ハン、たがいに子で相手が抜きドラ0枚なら2ハン、自分が親で相手が抜きドラ0枚なら1ハン</strong>というのが無理のない判断であると考えられます。</p>
+<figure data-type="image" tabindex="9"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13175008/picture_pc_c3d3f69f4a5082e71e0d6d587082f354.jpg" alt="img" loading="lazy"></figure>
+<h3 id="天鳳とフリー雀荘ではだいぶ違う">天鳳とフリー雀荘ではだいぶ違う</h3>
+<p>これは天鳳での話になりますけど、天鳳では最終順位が良くなるように打つため、戦うメリットが少ない局面ではこれよりも厳しく判断します。</p>
+<p>例えば、自分が勝ってるときに抜きドラ2枚の子リーチに対して2ハンで追っかけると、点数はあまり増えないのに高打点に打つ可能性を産むことになってしまいます。局収支はプラスでも、平均順位的にはあんまりメリットじゃない感じです。もちろん、このテーマの前提は平場なんですが、実戦では平場ではない局面も多いので。</p>
+<p>一方で、フリー雀荘であれば子の低打点愚形であってもテンパイからベタオリするのではなく、ある程度勝負して厳しい牌を引いたらオリる、もしくはメンゼンの場合は最初からリーチするといった戦い方が正解です。</p>
+<p>テーマ17でも言いましたけど、フーロ手の場合は危険牌を切らずに回すという選択ができるんで、押すか回すかといった毎巡の判断が重要だと思ってます。</p>
+<p>ただし、フリーの場合はオリた場合の局収支が悪い、つまり回すことが損になりがちなんで、真っ直ぐ押す方が有利な局面が多いですね。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】18　愚形听牌可以追立直的基准]]></title>
+        <id>https://honeymoe.github.io/data18/</id>
+        <link href="https://honeymoe.github.io/data18/">
+        </link>
+        <updated>2020-11-13T08:08:13.000Z</updated>
+        <content type="html"><![CDATA[<p>本专题将讨论愚形追立直。与专题16同样，考虑对立直进攻所需要的打点即要求打点，和自己的打点比较来决定是攻是守。</p>
+<h3 id="愚形听牌可以进攻吗">愚形听牌可以进攻吗？</h3>
+<p>这里也设定一个具体的情况（4规则共通）。遭遇他家先制立直，11巡自己也愚形听牌了。手牌如下，另外，1s和8p是现物，全弃则无放铳的风险。</p>
+<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174478/picture_pc_d585b0bb96c4c73d30078031eabb4b92.jpg" alt="img" loading="lazy"></figure>
+<p>那么，这一手牌并无役，也几乎没有改良，想上台面就必须立直。立直宣言牌是无筋2p（危险度15%），此时应该立直吗？</p>
+<p>本次也根据规则、庄家归属、对手的拔北宝牌枚数而有所不同，按不同情况确认要求打点，考虑攻守判断。</p>
+<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174481/picture_pc_19b2e404b7f10b63c12480d3981f0f69.jpg" alt="img" loading="lazy"></figure>
+<p>首先，从天凤规则开始考虑。出于从实战出发的考量，都以切无筋2p（危险度15%）能否追立直的视点来看。</p>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2020/11/12/XTnQvdtHS24jJPB.jpg" alt="1801.jpg" loading="lazy"></figure>
+<p>请看（表18-1），对手是闲家拔北0枚的要求打点为6000点。立直dora1的和牌净点数是4700，所以像下面这样的手牌：</p>
+<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174486/picture_pc_df0030a4aae804b0fe14bfd0add5a8cf.jpg" alt="img" loading="lazy"></figure>
+<p>dora1的手牌，包括对手的立直棒在内自己的打点仅有5700点。也就是说，包括立直只有2番会比较辛苦。像下面这手：</p>
+<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174490/picture_pc_c56ad21b3dcb4f8846441e18657244e9.jpg" alt="img" loading="lazy"></figure>
+<p>若非dora2的手牌则很难出场。可知愚形听牌很难追立。</p>
+<p>这次考虑对手有2枚拔北宝牌的情况吧。<strong>拔北2枚的要求打点是1万点</strong>。这一条件下，像下面的手牌：</p>
+<figure data-type="image" tabindex="6"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174493/picture_pc_a29ac2d597536e69ae224795ed042e1a.jpg" alt="img" loading="lazy"></figure>
+<p>立直后有4番的和牌时收入为9400点（和了净点数8400点+先行立直者的供托立直棒1000点），所以4番也很困难。面对闲家拔北2枚的立直，要以愚形追立的话需要跳满以上。</p>
+<p>接下来，我们来看先制立直者是庄家时的情况。<strong>对手是庄家拔北0枚时，要求打点为7900点</strong>。3番都勉强够不到，必须要4番。<strong>拔北2枚时的要求打点更达到了1万3700点</strong>，这时不要强求，只能撤退了。拔北2枚的庄家立直是地球最强，按「龙珠」来说就是弗利沙水平的。</p>
+<p>然后我们考虑自己是庄家时的情况，<strong>先制立直者拔北0枚的要求打点为4800点，拔北2枚则为8100点</strong>。对前者，nomi手勉勉强强（和了时收入4900点），后者2番（和了时收入7700点）略显不足，最好能有3番（和了时收入1万700点）。即使是庄家，想要铁头破开拔北2枚的立直，条件也很严苛。</p>
+<h3 id="第一切是安全牌的场合">第一切是安全牌的场合</h3>
+<p>至此说的都是立直宣言牌2p是无筋危险牌时的情况。这次我们假设2p是现物（危险度0%）。</p>
+<p>**立直宣言牌危险度0%的要求打点，彼此是闲家拔北0枚则为3500点，对手拔北2枚则为5600点。**立直nomi的和了净得点是2800点，加上先制立直者的立直棒3800点，对手是闲家则拔北0枚，第一切是安全牌，像下面这样：</p>
+<figure data-type="image" tabindex="7"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174496/picture_pc_efbe0ba49419bc6b9236980c33375800.jpg" alt="img" loading="lazy"></figure>
+<p>愚形nomi手也勉强可以一决胜负。对手拔北2枚则自己dora1就可以进攻。</p>
+<p>另外，<strong>先制立直者是庄家拔北0枚，要求打点4400点，拔北2枚则为7500点</strong>。前者2番，后者3番就可以勉强对决了。</p>
+<p>而<strong>自己是庄家时，对手拔北0枚2700点，拔北2枚4400点</strong>。拔北0枚的对手可以以nomi手火力全开，对手拔北2枚时，nomi手全攻则难分轩轾。</p>
+<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174499/picture_pc_740e26b40a5b549e928438def226073a.jpg" alt="img" loading="lazy"></figure>
+<p>接下来，看有自摸损・无拔北宝牌的规则。要求打点的表如（表18-2）所示，从天凤规则的（表18-1）中提取拔北0枚的部分而成。</p>
+<figure data-type="image" tabindex="9"><a href="https://imgchr.com/i/Dp8piF"><img src="https://s3.ax1x.com/2020/11/13/Dp8piF.jpg" alt="Dp8piF.jpg" loading="lazy"></a></figure>
+<p>立直宣言牌是无筋2p（危险度15%）的场合，<strong>要求打点彼此是闲家则为6000点，对手是庄家则为7900点，自己是庄家则为4800点</strong>。自己是庄家则1番略勉强，彼此是闲家则3番，对手是庄家则需4番。</p>
+<p>立直宣言牌2p是现物是，<strong>要求打点彼此是闲家3500点，对手是庄家4400点，自己是庄家2700点</strong>。这种情况下要求打点较低，比较偏攻。</p>
+<p>设置一个粗略的基准吧。<strong>闲家，愚形切无筋立直进行对决则需要自己打点超过放铳净失点。另外，第一手切牌是安全牌则有放铳净失点的六成左右就可以对决。</strong></p>
+<p>**庄家，第一手切牌是无筋则自己的打点是放铳净失点的8成以上可以对决，第一切是安全牌则自己的打点有放铳净失点的一半以上就可以对决。**即使这样也足够复杂了，但这是攻防判断的基准，首先请记住这些，可说是三麻这一游戏的技术论的中枢。</p>
+<p>另外，切安全牌愚形立直的情况下，可能有很多人会认为「是不是太攻了？」（连拿出数据的我本人也这么感觉）。但，有以下几个理由，让我觉得这一基准并没有错误。</p>
+<p>​	这些理由是：</p>
+<p>①这一情况下和牌率33%，放铳率21%，放铳率并没有那么高。<br>
+②对1家立直时弃和失分的概率相当高。<br>
+③这只是一个分界线，并不是一个「明显应该选择进攻」，比如说进攻局收支高于弃和局收支500点以上的线。</p>
+<p>如此。</p>
+<p>如何呢？是否可以接受？</p>
+<figure data-type="image" tabindex="10"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174502/picture_pc_405266a6be01cb1152490a817ce21d16.jpg" alt="img" loading="lazy"></figure>
+<p>那么接下来以MJ规则，和刚才同样的情况下讨论攻守判断。查看MJ规则下的要求打点（表18-3），<strong>先制立直者是闲家，宣言牌是无筋时，要求打点是4500点。</strong></p>
+<figure data-type="image" tabindex="11"><a href="https://imgchr.com/i/Dp3vZV"><img src="https://s3.ax1x.com/2020/11/13/Dp3vZV.jpg" alt="Dp3vZV.jpg" loading="lazy"></a></figure>
+<p>また、<strong>先行リーチ者が親なら要求打点は7900点</strong>です。こちらはリーチドラ2（3ハン）が必要になります。</p>
+<p>最後に<strong>自分が親の場合の要求打点は3300点</strong>です。こちらはのみ手でも押せます。</p>
+<p>また、リーチ宣言牌の２ｐが安全牌なら、<strong>要求打点はたがいに子なら2300点、相手が親なら2900点、自分が親なら1500点</strong>です。この場合は全押しでも大丈夫です。ツモられた場合の出費もバカにならないので、テンパイしたら積極的に押すことです。</p>
+<figure data-type="image" tabindex="12"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174507/picture_pc_99de519003699af71a745f3f3520ae2c.jpg" alt="img" loading="lazy"></figure>
+<p>最後に、ツモ損なし・抜きドラありのケースを見てみましょう。（表１８－４）からボーダーラインを見てみます。</p>
+<figure data-type="image" tabindex="13"><a href="https://imgchr.com/i/Dp89G4"><img src="https://s3.ax1x.com/2020/11/13/Dp89G4.jpg" alt="Dp89G4.jpg" loading="lazy"></a></figure>
+<p>まず、リーチ宣言牌２ｐが無筋の場合、<strong>たがいに子の要求打点は相手が抜きドラ0枚なら4500点、抜きドラ2枚なら8200点</strong>です。前者なら2ハン、後者なら4ハン必要になります。ベタオリのコストが上昇した結果、天鳳ルールよりボーダーが下がっています。</p>
+<p>また、<strong>相手が親のときの要求打点は、相手が抜きドラ0枚なら5800点、抜きドラ2枚なら1万900点</strong>です。前者でも3ハン必要で、後者はハネマンが必要です。</p>
+<p>そして、自分が親のときの要求打点は、相手が抜きドラ0枚なら3300点、抜きドラ2枚なら6300点です。前者ならのみ手でも突っ込めますが、後者なら2ハン必要です。ツモ損なしということでボーダーが下がりますが、抜きドラの枚数が多い手はやはり脅威です。</p>
+<p>リーチ宣言牌２ｐが安全牌の場合、<strong>たがいに子の場合の要求打点は相手が抜きドラ0枚なら2300点、抜きドラ2枚なら4200点</strong>です。前者ならのみ手でも大丈夫ですが、後者はのみ手だとぎりぎりです。</p>
+<p>また、<strong>親が相手の要求打点は抜きドラ0枚なら2900点、抜きドラ2枚なら5500点</strong>です。前者なら1ハン、後者なら2ハンでぎりぎり勝負になります。抜きドラ2枚に対して2ハンでとんとんになるのは、ベタオリ時の局収支が大きくマイナスであることが理由でしょう。</p>
+<p>さらに<strong>自分が親のときの要求打点は相手が抜きドラ0枚なら1500点、抜きドラ2枚なら3000点</strong>です。これは全押しで大丈夫です。</p>
+<p>以上、ツモ損なしの押し引きを見てきました。ざっくり基準を作るなら、<strong>子の場合、宣言牌が無筋の端牌のときは自分の打点が放銃素点の8割以上あれば押せますし、宣言牌が安全牌のときは自分の打点が放銃素点の4割以上あれば前に出れます。</strong></p>
+<p>また、**自分が親であれば、宣言牌が無筋の端牌の場合、自分の打点が放銃素点の6割以上あれば押せますし、宣言牌が安全牌のときは自分の打点が放銃素点の3割以上あれば前に出れます。**このあたりが一つの目安となります。</p>
+<h3 id="和牌率如何">和牌率如何？</h3>
+<p>作为补充，为了能够在终前局、ALL LAST也能灵活运用，确认一下愚形追立在多大程度上可以和牌。看（表18-5），**11巡切安全牌愚形追立直的和牌率是31%，放铳率是21%。**切安全牌时，确保了和牌率是放铳率的1.5倍。</p>
+<figure data-type="image" tabindex="14"><a href="https://imgchr.com/i/Dp3xaT"><img src="https://s3.ax1x.com/2020/11/13/Dp3xaT.jpg" alt="Dp3xaT.jpg" loading="lazy"></a></figure>
+<p>与此同时，看（图18-6），<strong>切无筋端牌是和牌率28%，放铳率33%，和牌率和放铳率的关系反转了</strong>。切危险牌对决，需要做好处于相当劣势的准备。</p>
+<figure data-type="image" tabindex="15"><a href="https://imgchr.com/i/Dp3zIU"><img src="https://s3.ax1x.com/2020/11/13/Dp3zIU.jpg" alt="Dp3zIU.jpg" loading="lazy"></a></figure>
+<h3 id="切安全牌愚形还是切危险牌好形">切安全牌愚形，还是切危险牌好形？</h3>
+<p>最后，我们来比较切安全牌愚形立直，和切危险牌两面。</p>
+<p>11巡切无筋安全牌两面立直的和牌率41%，放铳率29%，而切安全牌愚形立直的和牌率32%，放铳率21%，两面立直的放铳率和和牌率都更高。具体应该比较各自的局收支，但如果举棋不定，就取和牌率选择两面立直就好。</p>
+<h3 id="可以维持听牌默听吗">可以维持听牌默听吗？</h3>
+<p>另外，陈述一下对于保持默听的一己之见。由于切无筋有近15%的概率放铳，所以并不推荐「切危险牌却保持默听」（既然不打算立直，那就应该切安全牌撤退）。</p>
+<p>但是，切安全牌立直就要决一死战的情况下，将保持默听纳入考虑并不是错误。尤其是，本专题考虑的是没有荣和的情况，如果自己有役而对手打点很高，则足够作为一个备选项。</p>
+<p>关于保持默听的和牌率，由于难以通过牌谱解析收集数据，目前没有资料，这一块是今后的研究课题。</p>
+<figure data-type="image" tabindex="16"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13174519/picture_pc_629602b2cc3c5b0007a270489571a3ec.jpg" alt="img" loading="lazy"></figure>
+<h3 id="一如正文">一如正文</h3>
+<p>关于愚形的攻防判断，结论并无违和感。记住大致的基准就好了。以这一基准为前提，根据场况适当调整即可。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】17　两面听牌副露手的进攻基准]]></title>
         <id>https://honeymoe.github.io/data17/</id>
@@ -263,286 +512,6 @@
 <h3 id="莫期待立直后的拔北宝牌">莫期待立直后的拔北宝牌</h3>
 <p>打三麻时，立直后也确实有可能摸到拔北宝牌，但还是不要期待拔北。「北」的剩余枚数比愚形听牌枚数还少，要期待立直摸北，还不如拔北之后摸切立直呢。</p>
 <p>七对子中里的概率26%，相当高了。七对里宝可得比拔北宝牌更值得期待。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】12　听宝牌立直]]></title>
-        <id>https://honeymoe.github.io/data12/</id>
-        <link href="https://honeymoe.github.io/data12/">
-        </link>
-        <updated>2020-11-12T01:32:53.000Z</updated>
-        <content type="html"><![CDATA[<p>本专题论述只听宝牌这一种的先制立直。先确认听宝牌立直的和牌情况。</p>
-<h3 id="即使听宝牌也挺能和的">即使听宝牌也挺能和的</h3>
-<p>请看（表12-1）中听宝牌立直的和牌率，可知<strong>和牌率还不低</strong>。例如，<strong>中巡听中张无筋456的先制立直，有35%都能和牌</strong>。</p>
-<figure data-type="image" tabindex="1"><a href="https://imgchr.com/i/BvviDg"><img src="https://s3.ax1x.com/2020/11/12/BvviDg.jpg" alt="BvviDg.jpg" loading="lazy"></a></figure>
-<p>打四麻时，可见0枚时也仅有30%，可见1枚时则只剩23%。在听宝牌时，三麻远比四麻容易和牌。其理由可能是，三麻比四麻牌的种类更少，于是相对地牌山中宝牌（所听牌）还留着的概率更高。</p>
-<p>若所听的是筋牌，则根据其是宝牌与否，和牌率有所不同。即便如此，<strong>可见0枚时和牌率40%，也并不算低</strong>。</p>
-<p>接下来，让我们看可见1枚的单骑听牌。<strong>筋19、字牌约40%，除此之外约30%~35%能和牌</strong>。宝牌单骑是一个蛮有效的选择。</p>
-<p>假设在无自摸损的规则下，ALL LAST倍满自摸则为TOP。立直自摸七对dora2ura2就可以直接逆1。</p>
-<p>拔北2枚的七对子，听无筋456宝牌单骑，这一手牌若立直，满足上述条件的概率为6%（七对里2概率计25%）。如何呢？放在现实中也不是不可能吧？<s>（真诚比骗氪渣游出角色的概率高多了）</s> ALLLAST，即使是中张宝牌单骑，也是一个非常实在的选择。</p>
-<h3 id="字牌宝牌vs两面">字牌宝牌vs两面</h3>
-<p>接下来，我们来看应该选择字牌宝牌单骑，还是选择两面听牌。具体手牌如下：</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13154338/picture_pc_327a9983a455615b345f3509d2e30b51.jpg" alt="img" loading="lazy"></figure>
-<p>由于无役，无论是选择听字牌dora，还是听筒子顺延单骑，都必须立直。那么，应该如何选择呢？</p>
-<p>采用与专题8相同的方法，计算天凤规则下的局收支，顺延单骑为1000点，字牌宝牌单骑为400点。若如此，手牌<strong>已有1枚宝牌（例中为红5s），则应该选择顺延单骑立直</strong>。</p>
-<p>假如我们手上的5s不是赤宝牌，则顺延单骑为-200点，字牌宝牌单骑为-100点。此时其实选哪个都差不多。</p>
-<p>这一倾向不随规则而改变。若无拔北宝牌，则未和牌时的失点也会下降，听字牌宝牌会稍稍有利，但这一差距不足以颠覆本条战术。</p>
-<figure data-type="image" tabindex="3"><a href="https://imgchr.com/i/BvvPKS"><img src="https://s3.ax1x.com/2020/11/12/BvvPKS.jpg" alt="BvvPKS.jpg" loading="lazy"></a></figure>
-<h3 id="字牌中宝牌vs非宝牌">字牌中，宝牌vs非宝牌</h3>
-<p>那么，同样是字牌，听宝牌或听非宝牌，如何选择呢？具体例如以下手牌：</p>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13154340/picture_pc_f0983e12162fe19311613a838b314af2.jpg" alt="img" loading="lazy"></figure>
-<p>试着计算了MJ规则下的局收支，听非宝牌为1200点，听宝牌为1100点。基本差不多。</p>
-<p>此外，当5s不是赤宝牌时，听非宝牌为-100点，听宝牌为400点，此时听宝牌更有利。</p>
-<p>这一情况下的倾向也不会随规则改变而有太大变化。当场况微妙时，请灵活根据自己是想要打点还是和牌率来取舍。</p>
-<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13154344/picture_pc_9543477e6d78fe70e7ebf62f0daed821.jpg" alt="img" loading="lazy"></figure>
-<h3 id="按打点和听牌种类来构建自己的系统化打法吧">按打点和听牌种类来构建自己的系统化打法吧</h3>
-<p>大致和我想的一样。基本没什么违和感。我也常听单骑。</p>
-<p>我自己对这一部分的内容相当系统化了，就让我一陈私见吧。拔北0枚时，中张宝牌单骑也会立直。比起立直7对，立直7对dora2会更舒服。说得更细一点，若宝牌是字牌或者1、2，默听则别家会一不留心就切出来，若先立直则会被戒备而扣住，所以选择默听。若是数字3~7，还是立直。</p>
-<p>如果有1枚拔北宝牌，立直七对有6400点，所以会听非宝牌的字牌立直。拔北2枚以上，我觉得也是听字牌立直比较好。</p>
-<p>听字牌超强的，如果打点加立直确定有跳满水平，常常选择立直。</p>
-<p>要是自己的舍牌实在过分像七对，那还是不立了，但有时看上去很像七对，别人往往还是愿意切字牌，所以听字牌的话基本上都是立直比较好。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】11　听字牌vs听两面]]></title>
-        <id>https://honeymoe.github.io/data11/</id>
-        <link href="https://honeymoe.github.io/data11/">
-        </link>
-        <updated>2020-11-12T01:23:41.000Z</updated>
-        <content type="html"><![CDATA[<p>本专题将进行听字牌与听两面的比较。由于不同规则的区别很小，就不做区分了。</p>
-<p>在专题6的愚形听牌的各项分类中，听字牌并没有包含在愚形之中。其理由是，听字牌有着可以媲美两面听牌的高和牌率，是事实上的好形立直。这在四麻是一项常识，那么三麻如何呢？</p>
-<h3 id="两面更容易和牌">两面更容易和牌</h3>
-<p>请看（图11-1），可知<strong>听两面与听字牌的立直之中，听两面的和牌率更高</strong>。</p>
-<figure data-type="image" tabindex="1"><a href="https://imgchr.com/i/Bvvpgf"><img src="https://s3.ax1x.com/2020/11/12/Bvvpgf.jpg" alt="Bvvpgf.jpg" loading="lazy"></a></figure>
-<p>例如，第8巡听字牌立直的和牌率为56%，逊色于两面立直的61%。此外，第12巡听字牌立直的和牌率为40%，同样逊色于两面立直的和牌率47%。</p>
-<p>导致这一现象的理由比如，四麻除自己外还有3家，而三麻只有2家，以至于相比别人用不上的牌，枚数更多的牌会是更好的待牌。这一点和四麻有所区别。</p>
-<p>由此，如果面临字牌双碰和两面之间的抉择，**若选择两面能附加平和，应当选择两面。**若手牌是不存在高目的客风双碰，则两面平和更优。比起狙击客风，还是优先选择枚数吧。</p>
-<p><strong>即使是场上1枚都看不到的字牌和数牌双碰，第8巡的和率59%，第12巡的和率43%</strong>，和刚才所说的听字牌的和率区别不大。狙击客服的效果低于预期。</p>
-<h3 id="比较局收支则几乎相等">比较局收支则几乎相等</h3>
-<p>那么闲家第8巡面临如下手牌，需在役牌双碰和两面之间进行选择，如何应对呢？</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153468/picture_pc_3ac947011509aa1e4bd65ecc7ef0f0b5.jpg" alt="img" loading="lazy"></figure>
-<p>当听字牌有高低目的区别时，对高目和低目的局收支进行了求和平均。结果显示，其局收支和两面听牌之间仅有微差。</p>
-<p>以天凤规则给出局收支的具体例子如下。</p>
-<p>像下面这样的宝牌0枚的手牌，切2p听两面立直为-400点，切3p听字牌双碰立直为-250点。</p>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153473/picture_pc_d85d98673cbddf79cbbd265ffe820b7f.jpg" alt="img" loading="lazy"></figure>
-<p>像下面这样的宝牌1枚的手牌，切2p听两面立直为800点，切3p听字牌双碰立直为900点。</p>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153475/picture_pc_1dd520446ff09e89be696f3ab73f7cc7.jpg" alt="img" loading="lazy"></figure>
-<p>像下面这样的宝牌2枚的手牌，切2p听两面立直为2100点，切3p听字牌双碰立直为1900点。</p>
-<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153477/picture_pc_b1083381b5d6acb21d0e8bcf92e8937b.jpg" alt="img" loading="lazy"></figure>
-<p>由于上述都只有微差，所以任选哪个都可以。但是，若是5巡以内，则选役牌双碰更有利。</p>
-<p>这是视场况不同而调整的选择。另外，越是宝牌数量较多的规则，则选择枚数多的那种会更倾向于有利。</p>
-<figure data-type="image" tabindex="6"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153479/picture_pc_d539207382d4d01cf8a643ae40f65392.jpg" alt="img" loading="lazy"></figure>
-<h3 id="三麻90都选两面">三麻90%都选两面</h3>
-<p>比如我们的手牌长这样：</p>
-<figure data-type="image" tabindex="7"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153544/picture_pc_741d38bc4b42d7922dee80144b01bd13.jpg" alt="img" loading="lazy"></figure>
-<p>不管是切4s听两面立直，还是切5s听双碰立直，和牌率都一样，那就选打点较高的字牌双碰立直更好，这是四麻的普遍想法。然而，打三麻的时候这样就会很别扭。我基本上都是两面，重视枚数。</p>
-<p>即使局收支说字牌双碰更赚的情况也只是些微的差距吧？比较只有一点点差距，那就算是降低放铳率这一意义上，也应该优先枚数。尤其是天凤三麻的放铳会很大程度上直接导致成绩落后，如果自己的手牌乏善可陈，与其赚取聊胜于无的点数，比如让和牌率最大化，这才是基本的打法吧。</p>
-<p>数据展示的情况是平均后的结果把。即使平均上字牌双碰更赚一些，但就算1300点的牌升级成2600点，来几次也对提高平均顺位没什么帮助。相反地，一旦铳个大的，垫底率上去了就让人郁愤了。这种情况下只论平均的话，未免过于简单粗暴了。</p>
-<blockquote>
-<p><strong>みーにん</strong>　作为提供数据的人，明明局收支是字牌双碰更有利，哪来的勇气写「啊虽然数字上比较亏的但我们选两面吧」嘛。</p>
-<p>姑且局收支在500点的误差范围之内，往往写上「选哪个都可以」，我也没说虽然差别很小但也很有意义啊。</p>
-<p>不过三麻的确如アバンテス所言比较重视两面。</p>
-</blockquote>
-<h3 id="例外情况">例外情况</h3>
-<p>这样啊，那我就能理解了。</p>
-<p>嗯……不过也有一些例外的情况。</p>
-<p>首先，序盘时，别家还没挑拣字牌丢出来的时候。这时听字牌很强。字牌双碰也是一个很好的选择，我也是这么做的。</p>
-<p>双东、双南叠起来的时候，由于打点差距很大，也会选择字牌双碰。</p>
-<p>然后，下面这样的手牌：</p>
-<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153545/picture_pc_d9c32cff6fa9a5a256b089ddd8b5377d.jpg" alt="img" loading="lazy"></figure>
-<p>是应该选择宝牌和字牌双碰，还是切宝牌选择两面。这也基本上选择双碰。</p>
-<p>反过来，这种情况：</p>
-<figure data-type="image" tabindex="9"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153548/picture_pc_cbb0eb25c862b500040e299e70c56740.jpg" alt="img" loading="lazy"></figure>
-<p>此时绝对选择切4s立直。</p>
-<p>比较微妙的是这种情况：</p>
-<figure data-type="image" tabindex="10"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153552/picture_pc_25e83e9fa4da079f2401c94691099212.jpg" alt="img" loading="lazy"></figure>
-<p>这我也比较倾向于双碰。听3s6s比较弱，尤其是索子较强的场况时，我选择双碰。若什么信息都没有…。但什么信息都没有也就是序盘了，果然还是双碰。</p>
-<p>由于附加了诸多条件，也有选择字牌双碰的时候，但基本上都是两面呢。三麻基本上都是两面。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】10　平和vs一气贯通]]></title>
-        <id>https://honeymoe.github.io/data10/</id>
-        <link href="https://honeymoe.github.io/data10/">
-        </link>
-        <updated>2020-11-12T01:22:37.000Z</updated>
-        <content type="html"><![CDATA[<p>本章和下一章将讨论听牌选择的问题，本章将比较低打点两面和高打点愚形。此外，由于不同规则都具有同样的倾向，因此不会区分规则进行讨论。</p>
-<h3 id="是平和立直还是一气嵌张">是平和立直还是一气嵌张？</h3>
-<p>闲家第8巡有如下先制听牌：</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153203/picture_pc_a11dfe4e96495588d07f37262cf7a90d.jpg" alt="img" loading="lazy"></figure>
-<p>尽管三麻也有5p5s全部算作宝牌、或有2枚红5p红5s的规则，但这里我们只考虑红5p红5s各一枚，无祝仪的规则。</p>
-<p>上面这一手牌，切9s则立直平和，切6s则立直一气愚形听牌，应当切哪张立直（默听）呢？</p>
-<p>让我们用（表5-1）和（表6-1）来比较一下局收支吧。天凤规则、闲家第8巡的局收支如下所示。</p>
-<figure data-type="image" tabindex="2"><a href="https://imgchr.com/i/BvjI9x"><img src="https://s3.ax1x.com/2020/11/12/BvjI9x.jpg" alt="BvjI9x.jpg" loading="lazy"></a></figure>
-<figure data-type="image" tabindex="3"><a href="https://imgchr.com/i/Bvj441"><img src="https://s3.ax1x.com/2020/11/12/Bvj441.jpg" alt="Bvj441.jpg" loading="lazy"></a></figure>
-<p>对于没有宝牌的以下手牌，切9s立直200点，切6s默听-100点，切6s立直400点。</p>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153216/picture_pc_6caaef586672cff671de63f3d1ea5d1c.jpg" alt="img" loading="lazy"></figure>
-<p>若手牌有1枚宝牌，切9s立直1500点，切6s默听1500点，切6s立直1100点。</p>
-<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153222/picture_pc_73098985c5d718c71e1fd5da643545f4.jpg" alt="img" loading="lazy"></figure>
-<p>手牌现在有2枚宝牌，切9s立直3000点，切6s默听2500点，切6s立直1900点。</p>
-<figure data-type="image" tabindex="6"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153230/picture_pc_0ca030a3a3d015d59e243ec72903b8e3.jpg" alt="img" loading="lazy"></figure>
-<p>得出结论，<strong>宝牌0枚则愚形立直，宝牌1枚则两面立直和愚形默听皆可，宝牌2枚则两面立直</strong>。</p>
-<p>另外，如下面这样的手牌，<strong>听两面也不会有平和时，应当选择一气立直（宝牌1枚以上则默听）</strong>。</p>
-<figure data-type="image" tabindex="7"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153233/picture_pc_1f2bef3b8ef78975a7acf178a98cb84c.jpg" alt="img" loading="lazy"></figure>
-<h3 id="选两面还是选宝牌">选两面还是选宝牌？</h3>
-<p>那么，这次我们来看不涉及一气的手牌，选一个更简单的，无宝牌平和立直，还是有宝牌嵌张立直的比较。比如下面这样的手牌：</p>
-<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153239/picture_pc_265b086e237b9684a3c3744d1ec8430e.jpg" alt="img" loading="lazy"></figure>
-<p>以MJ规则，闲家第8巡的局收支为例。</p>
-<p>宝牌1枚，切5p立直900点，切8p立直300点。</p>
-<figure data-type="image" tabindex="9"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153242/picture_pc_7ba0b94dc59f8e2350290925c3b64e63.jpg" alt="img" loading="lazy"></figure>
-<p>宝牌2枚，切5p立直2400点，切8p立直1400点。</p>
-<figure data-type="image" tabindex="10"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153244/picture_pc_30769b7b9feabde9554af03f235c5ba0.jpg" alt="img" loading="lazy"></figure>
-<p>宝牌3枚，切5p立直4200点，切8p立直2200点。</p>
-<figure data-type="image" tabindex="11"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153248/picture_pc_92a25a3d4c9d1c021fb90555c8cc540a.jpg" alt="img" loading="lazy"></figure>
-<p>由此得出结论，<strong>上面种种情况正解都是选择平和两面</strong>。三麻的和牌点数很高，所以提升和牌率可以降低放铳失点。好形比四麻更重要。若有举棋不定时，只管选择好形，不会犯大错。</p>
-<p>这一倾向，在形如以下手牌，<strong>不能附加平和时亦同</strong>。</p>
-<figure data-type="image" tabindex="12"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153252/picture_pc_92911f966251b2256de7859c7dc59fdf.jpg" alt="img" loading="lazy"></figure>
-<p>另外，在比较立直平和与立直一杯口时，听愚形的同时还因少一枚而导致和率多少下降，听愚形更是不利。具体手牌如下：</p>
-<figure data-type="image" tabindex="13"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153256/picture_pc_b8c54ef4200e7aeb5d1d8e41dbbd0ec6.jpg" alt="img" loading="lazy"></figure>
-<h3 id="立直棒支出的重要性">立直棒支出的重要性</h3>
-<p>那么，我们就认为三麻的大原则是选择好形……然而也不是那么简单粗暴的，因为当我们比较默听愚形和两面立直的和牌率，如（图10-1）所示。</p>
-<figure data-type="image" tabindex="14"><a href="https://imgchr.com/i/Bvj2B4"><img src="https://s3.ax1x.com/2020/11/12/Bvj2B4.jpg" alt="Bvj2B4.jpg" loading="lazy"></a></figure>
-<p>第8巡两面立直的和牌率61%，第8巡愚形默听的和牌率61%，几乎一样。那么，当和了即一位的时，无需立直棒支出的愚形默听不失为一条良策。</p>
-<p>固然基本上都是好型有利，但愚形微妙占优的例子也因当时情况而可能发生。</p>
-<figure data-type="image" tabindex="15"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13153260/picture_pc_2996da68c80242931a010dbfe2da31cd.jpg" alt="img" loading="lazy"></figure>
-<h3 id="一气vs两面">一气vs两面</h3>
-<p>我们直接上具体例子。下面这种手牌，切1p则立直平和，切4p则立直一气。</p>
-<figure data-type="image" tabindex="16"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13171138/picture_pc_afeee4abef77bf8f7477f02b4338fa8f.jpg" alt="img" loading="lazy"></figure>
-<p>这里打1p立直。有1枚宝牌也是一样，再说还有红5p，这一选择于我而言是绝对的。</p>
-<p>数据上说，有1枚宝牌则切1p立直和切4p默听两者皆可，但切4p默听是绝对做不出来的，太半吊子了。要选的话宁愿立直。</p>
-<p>例如，宝牌是1p的话：</p>
-<figure data-type="image" tabindex="17"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13171144/picture_pc_f6dc74d28009ac0220733d3b13b78ca4.jpg" alt="img" loading="lazy"></figure>
-<p>那果然还是选择一气贯通。可能会烦恼是立直还是默听，多半还是默听吧。靠近两端的听牌，默听不时就能捡到漏了。</p>
-<p>然后，下面这手牌：</p>
-<figure data-type="image" tabindex="18"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13171153/picture_pc_de0bdbf3d4306473cd3ad71e616af6e7.jpg" alt="img" loading="lazy"></figure>
-<p>切1p则立直平和，切5p则立直一气。刚才比较了听4枚和听7枚的比较，这次是听4枚和听6枚的比较，差距越来越小了。</p>
-<p>这里切5p立直。但是若手里有1枚宝牌，则微差打1p立直。不会选择打5p默听。</p>
-<p>这一手牌可说是很微妙，打1p和打5p的差距很小。若大家的牌河都是从两端的牌切起像是纯牌效的样子，那靠中间的牌基本上都被用上了。被用上的牌则不会被切出，那么听两端的牌就有着很大的意义。嵌张听牌和两面听牌之间，嵌2p靠近两端，比较有利。遇到这种场况时，从牌山摸到中张牌的概率也不高，其他人手里拿着的可能性很大。</p>
-<h3 id="全带幺vs两面">全带幺vs两面</h3>
-<p>接下来是全带幺和两面的比较。立直平和dora1和全带dora1的比较。</p>
-<figure data-type="image" tabindex="19"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13171167/picture_pc_5cf7764ba92bb4b057636f734819a3f4.jpg" alt="img" loading="lazy"></figure>
-<p>此处切1p立直则听牌面更广。</p>
-<p>若不能附加平和，如下：</p>
-<figure data-type="image" tabindex="20"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13171173/picture_pc_89dc70c3a2466a826e0269e520d2ca4e.jpg" alt="img" loading="lazy"></figure>
-<p>虽说是8000点（默听5200点）和2600点的比较，但即使如此还是切1p立直。</p>
-<p>三麻远比四麻更重视好形。由于牌的种类更少，听牌枚数越多则和牌率上升的权重也更大，再加上之后还可能拔北提升打点。三麻放铳的失点也很高，很难接受愚形听牌啊。</p>
-<h3 id="自摸四暗刻vs两面">自摸四暗刻vs两面</h3>
-<p>若是如自摸四暗刻的以下手牌：</p>
-<figure data-type="image" tabindex="21"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13171182/picture_pc_1db8faf89f9e4390dee55a36196eefbd.jpg" alt="img" loading="lazy"></figure>
-<p>这时就打4p默听吧。虽然听牌面更小，但要是能自摸四暗刻，那一位率就提升很多了。</p>
-<p>下面这手牌也一样，打2p默听。我才不要断幺一杯口的两面呢。</p>
-<figure data-type="image" tabindex="22"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13171186/picture_pc_ccaefdc76441c209dccc60389beef9d6.jpg" alt="img" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】9　听字牌]]></title>
-        <id>https://honeymoe.github.io/data09/</id>
-        <link href="https://honeymoe.github.io/data09/">
-        </link>
-        <updated>2020-11-10T07:47:46.000Z</updated>
-        <content type="html"><![CDATA[<p>本专题讨论听字牌是否立直的判断。此外，「听字牌」是指双碰中包含字牌，以及单骑听字牌，这两类。（1万9万视同字牌客风）。</p>
-<p>以具体例子来说，南家第8巡，手牌如下已听牌。</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13145297/picture_pc_f098cd8f20be9ca37d9c199fa4b2440c.jpg" alt="img" loading="lazy"></figure>
-<p>西是客风，无高低目差别。手牌有一杯口，默听也可荣和。这一场面，应当立直吗？</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13145300/picture_pc_11ae4f1a59365bb7ce6e1e7fc2b95d55.jpg" alt="img" loading="lazy"></figure>
-<p>首先考虑天凤规则。查阅（表9-1）可知这种情况下的局收支，立直2番时立直300点，默听-600点。因此，此时<strong>立直有利</strong>。</p>
-<figure data-type="image" tabindex="3"><a href="https://imgchr.com/i/Bvj0Nn"><img src="https://s3.ax1x.com/2020/11/12/Bvj0Nn.jpg" alt="Bvj0Nn.jpg" loading="lazy"></a></figure>
-<p>那么，有一枚宝牌，具体手牌如下是又如何呢？</p>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13145304/picture_pc_76a4e6664f877f25eed7cb838c5e8a28.jpg" alt="img" loading="lazy"></figure>
-<p>此时，立直1500点，默听400点。因此，此时也<strong>应当立直</strong>。</p>
-<p>而当宝牌有2枚时，具体手牌如下，又当如何呢？</p>
-<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13145308/picture_pc_9ffb906847c72885bdf7eca5eb1f8d23.jpg" alt="img" loading="lazy"></figure>
-<p>此时，立直2300点，默听2200点。<strong>算是两者皆可</strong>。然而，考虑到默听的数值存在比实际更有利的偏误，还是应当偏向立直。</p>
-<figure data-type="image" tabindex="6"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13145316/picture_pc_3a2a685e9b4540c90114c56a53f88e8a.jpg" alt="img" loading="lazy"></figure>
-<p>ツモ損・抜きドラなしの局収支は（表９－２）にあります。<strong>天鳳ルールと比較してややリーチ有利</strong>となっていますが、<strong>天鳳ルール準拠で考えてもよさそう</strong>です。具体的には、<strong>ダマ3 ～ 5ハンの場合はどちらかといえばリーチ寄り、ダマ2ハン以下はリーチ</strong>となります。</p>
-<figure data-type="image" tabindex="7"><a href="https://imgchr.com/i/BvjwAs"><img src="https://s3.ax1x.com/2020/11/12/BvjwAs.jpg" alt="BvjwAs.jpg" loading="lazy"></a></figure>
-<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13145322/picture_pc_846c0f6ed75ef8524eb62356db9812eb.jpg" alt="img" loading="lazy"></figure>
-<p>今度はＭＪルールの局収支を見てみます。具体的な手牌は天鳳ルールの場合と同じです。局収支は（表９－３）の通りで、<strong>ドラ0枚の局収支はリーチが1100点、ダマが－200点</strong>です。また<strong>ドラ1の局収支はリーチが2500点、ダマが800点</strong>です。そして、<strong>ドラ2の局収支はリーチが3500点、ダマが2500点</strong>です。</p>
-<figure data-type="image" tabindex="9"><a href="https://imgchr.com/i/BvjUBQ"><img src="https://s3.ax1x.com/2020/11/12/BvjUBQ.jpg" alt="BvjUBQ.jpg" loading="lazy"></a></figure>
-<p>ドラ0枚、ドラ1枚でリーチすべきなのは天鳳ルールと同様ですが、ドラ2枚のケースでも天鳳ルールとは違ってリーチをかけるべきです。ツモ損なしはそれくらいリーチ優位のルールです。</p>
-<figure data-type="image" tabindex="10"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13145331/picture_pc_39f156d44b94b27bed0cb0dc37e64398.jpg" alt="img" loading="lazy"></figure>
-<p>また、ツモ損なし・抜きドラなしの局収支を（表９－４）に掲載しました。このルールはＭＪルールと同じに考えてOKです。具体的には<strong>ダマでハネマンあればダマで、それ以外はリーチ</strong>です。ツモ損なしのメリットを最大限生かしましょう。</p>
-<figure data-type="image" tabindex="11"><a href="https://imgchr.com/i/Bvja7j"><img src="https://s3.ax1x.com/2020/11/12/Bvja7j.jpg" alt="Bvja7j.jpg" loading="lazy"></a></figure>
-<p>最后，（图9-5）整理了立直和默听的和牌率、放铳率，（表9-6）整理了计算局收支所必要的和牌率等数据。想要知道具体和牌率的时候请看（图9-5），想计算庄家局收支的时候请查表（9-6）。</p>
-<figure data-type="image" tabindex="12"><a href="https://imgchr.com/i/BvjNng"><img src="https://s3.ax1x.com/2020/11/12/BvjNng.jpg" alt="BvjNng.jpg" loading="lazy"></a></figure>
-<figure data-type="image" tabindex="13"><a href="https://imgchr.com/i/BvjBhq"><img src="https://s3.ax1x.com/2020/11/12/BvjBhq.jpg" alt="BvjBhq.jpg" loading="lazy"></a></figure>
-<figure data-type="image" tabindex="14"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13152823/picture_pc_c19a9fa43f1e70e2b594dadc2949ccfd.jpg" alt="img" loading="lazy"></figure>
-<h3 id="听字牌相当偏向于立直">听字牌相当偏向于立直</h3>
-<p>考虑到听字牌媲美听两面，我觉得就算手牌5番时也会立直以确定跳满。</p>
-<p>默听字牌固然强，然而立直了也很容易出来，所以倾向立直即可。别人手握字牌的时候，只有切字牌或者放弃做牌弃和的两个选项，往往都愿意舍身就义。</p>
-<p>若是那种难出字牌的局面，例如有像是在鼓捣役牌后付的，或是有人在染手的情况下，反正切不出来，还是选择立直。</p>
-<h3 id="不立直的情况">不立直的情况</h3>
-<p>然而若是已经临近终盘，则立直了就非常难出，默听就比较容易咬钩。或者自己拔北2枚的时候，立直后别人连字牌都不敢打了，有役则会选择默听。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】8　拒听的情况]]></title>
-        <id>https://honeymoe.github.io/data08/</id>
-        <link href="https://honeymoe.github.io/data08/">
-        </link>
-        <updated>2020-11-10T07:29:25.000Z</updated>
-        <content type="html"><![CDATA[<p>专题6讨论了先制愚形听牌的立直判断。在此之上，先制愚形听牌时，在「立直或默听」的选项之外，还有「是立直还是拒听」的问题。那么，本次我们来考虑拒听以期手牌改良的利弊。</p>
-<h3 id="第几巡应该拒听">第几巡应该拒听？</h3>
-<p>以具体例子考虑，第5巡、第8巡，闲家有以下嵌张听牌。</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13144003/picture_pc_6bed56249c73b3ea51d69831f761ecde.jpg" alt="img" loading="lazy"></figure>
-<p>手牌中有4567s这样一个四连形，值得期待形成两面。此时应该切1p拒听吗？</p>
-<p>首先，我们来确认手牌包括四连形的靠张一向听，总体而言和牌率如何。（图8-1）提供了靠张一向听的和牌率。</p>
-<figure data-type="image" tabindex="2"><a href="https://imgchr.com/i/BLSkQg"><img src="https://s1.ax1x.com/2020/11/10/BLSkQg.jpg" alt="BLSkQg.jpg" loading="lazy"></a></figure>
-<p>看第5巡的数字，四连形一向听的和牌率为44%，即立的和牌率为53%，减少了将近一成半。</p>
-<p>接下来看第8巡的数字，四连形一向听的和牌率为31%，即立的和牌率为44%，减少了将近三成。随着巡目推进，改组好形手牌就越发不利。</p>
-<p>结果导致了，若无法期待打点的提升，则边张、嵌张应当即立。</p>
-<p>就算手牌有四连形也是这样的结果，向下面手牌这样，改良进张也不多、打点上升的期望也没有，更应该即刻立直了。</p>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13144013/picture_pc_148d3f73ce41a6ca232a458a01706edf.jpg" alt="img" loading="lazy"></figure>
-<p><strong>三麻中，嵌张即立的打法也有效。<strong>虽说是</strong>愚形听牌，选择听牌也更强</strong>。这一结论全规则共通。</p>
-<p>虽说结论上，嵌张应该即立，但有拔北宝牌规则下，第8巡，闲家2600点愚形听牌的局收支为负。可能会有人感到疑惑「局收支都是负数了，即立真的没问题吗？」。</p>
-<p>对这一问题的回答，是这手破牌下横竖局收支都是负的，那至少两害相权取其轻，选一个负少一点的。即使自己只和出一个1000点破牌，也有着「阻止和他人和牌」这一意义，实际上其价值大于1000点。</p>
-<h3 id="各规则下的场代是">各规则下的「场代」是？</h3>
-<p>那么，我们来估算阻止对手和牌这一效果换算成点棒大概处在什么水平。其计算方式为（式8-2），具体数字因规则不同如下。</p>
-<figure data-type="image" tabindex="4"><a href="https://imgchr.com/i/BLSAyQ"><img src="https://s1.ax1x.com/2020/11/10/BLSAyQ.jpg" alt="BLSAyQ.jpg" loading="lazy"></a></figure>
-<p>有自摸损、有拔北宝牌	3200点（天凤规则）</p>
-<p>有自摸损、无拔北宝牌	2500点</p>
-<p>无自摸损、无拔北宝牌	 3100点（ＭＪ规则）</p>
-<p>无自摸损、有拔北宝牌	 3900点</p>
-<p>这一数字是未能和牌的情况下，每局损失的平均点棒数。要说就是场代一样的东西，所谓三麻就是每局要支付2500<sub>4000点的陪跑茶水钱，自己和牌时则免除这部分。也就是说，和牌1000点时，在1000点的收入之外，还具有免除2500</sub>4000点的场代免除效果。</p>
-<p>考虑到这一因素，有拔北宝牌规则下的2600点立直，在没有提升打点的改良余地是，即立也不坏。</p>
-<p>然而，立直也只有1300点时，若非自己的听牌时筋1928、或者无论如何都必须登台较量时，则总之先默听（或者拒听），遭遇对手进攻时全弃，这一选项完全可以考虑。</p>
-<figure data-type="image" tabindex="5"><a href="https://imgchr.com/i/BLSFSS"><img src="https://s1.ax1x.com/2020/11/10/BLSFSS.jpg" alt="BLSFSS.jpg" loading="lazy"></a></figure>
-<p>以上是比较和牌率后的讨论内容。然而，现实中，也有像以下手牌这般，期待变化则很容易附加断幺的例子。</p>
-<figure data-type="image" tabindex="6"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13144047/picture_pc_e7dea0b961e8f1744952d64fd820b024.jpg" alt="img" loading="lazy"></figure>
-<p>此时，判断时不能只看和牌率，也要考虑到和牌净得点。此时又如何呢？</p>
-<p>关于这一点，假设拒听的和牌率视为即立和牌率的一半，而和牌净得点翻倍，则两者平衡……这样的想法是错误的。究其原因，是因为未能和牌的情况多是因放铳、被自摸而失点，必须考虑这一负数项。为了计算这一数值，以这个在某种程度上简化的方法，（式8-3）来计算局收支比较。</p>
-<figure data-type="image" tabindex="7"><a href="https://imgchr.com/i/BLSPW8"><img src="https://s1.ax1x.com/2020/11/10/BLSPW8.jpg" alt="BLSPW8.jpg" loading="lazy"></a></figure>
-<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13143883/picture_pc_a53b4b99d8682d1d048378f96d088910.jpg" alt="img" loading="lazy"></figure>
-<p>使用上式，计算先前的手牌即立与拒听时的局收支。以天凤规则计算时，5巡拒听的局收支为1100点，即立的局收支为300点。另外，8巡拒听的局收支为-200点，即立的局收支为-500点。拒听比较有利呢。因此，<strong>手牌中有四连形，且可以因断幺等提高1番时，至中巡为止都应该拒听以求改良。</strong></p>
-<p>那么，如果不是四连形，而是这种手牌又如何呢？</p>
-<figure data-type="image" tabindex="9"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13144050/picture_pc_f61d5330619adbda67159a8675288df0.jpg" alt="img" loading="lazy"></figure>
-<p>天凤规则下，第5巡拒听的局收支为400点，即立的局收支为300点。另外，第8巡拒听的局收支为-900点，即立的局收支为-500点。也就是说，若还在序巡，则也可以拒听以求改良（两者皆可），中巡则应该即立。</p>
-<p>这次讨论的固然是宝牌1枚时的情况，宝牌0枚则也有类似的倾向。（略微倾向于拒听有利，但不至于颠覆这一结论。）</p>
-<figure data-type="image" tabindex="10"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13143885/picture_pc_b10e84dca335717f2697b1fc2fcda820.jpg" alt="img" loading="lazy"></figure>
-<p>つぎにツモ損・抜きドラなしルールはどうでしょうか？　これは局収支の差が天鳳ルールと似た関係になります。つまり結論は変わりません。</p>
-<p><strong>タンヤオなどの1ハンアップができる場合、4連形があるなら中巡まではテンパイ外しして手替わりを目指すべき</strong>ですし、4連形がないなら序巡はテンパイ外しして手替わりを目指すことも可能（どちらでもいい）で、中巡なら即リーチとなります。</p>
-<figure data-type="image" tabindex="11"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13143891/picture_pc_000ce3f6985fcc1f963bac6ba36a7427.jpg" alt="img" loading="lazy"></figure>
-<p>では、ＭＪルールの場合はどうでしょうか？<br>
-まず、1ハンアップの見込みがある手で4連形がある場合、5目のテンパイ外しの局収支は1700点、即リーチの局収支は800点です。また、8巡目のテンパイ外しの局収支は200点、即リーチの局収支は0点となります。</p>
-<p>また、4連形がない場合、5巡目のテンパイ外しの局収支は1000点、即リーチの局収支は800点です。8巡目のテンパイ外しの局収支は－500点、即リーチの局収支は0点となりました。</p>
-<p>よって、ざっくり基準を作るのであれば、<strong>4連形があり1ハンアップの変化がある場合は中巡まで、4連形がないけど1ハンアップの変化がある場合は序巡まではテンパイ外しした方がよい</strong>ことになります。局収支の数値は多少違いますが、結論は天鳳ルールと変わりません。</p>
-<figure data-type="image" tabindex="12"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13143894/picture_pc_3f9858db30fed922ab474c80f856a3e0.jpg" alt="img" loading="lazy"></figure>
-<p>それでは、ツモ損なし・抜きドラありルールはどうでしょうか？　これは局収支の差がＭＪルールと似た関係になります。つまり結論は変わりません。</p>
-<p>すなわち、<strong>タンヤオなどの1ハンアップができる場合、4連形があるなら中巡まではテンパイ外しして手替わりを目指すべきですし、4連形がないなら序巡まではテンパイ外しして手替わりを目指すべき</strong>です。</p>
-<p>4つのルールを比較してみると、どのルールでも結論はほぼ変わらないのですが、ツモ損なしだと序巡はややテンパイ外し寄りになります。</p>
-<h3 id="有平和改良时">有平和改良时</h3>
-<p>最后，考虑可以期待因平和而提升打点的情况。平和虽然也是1番，但其提升打点的效果并不如断幺显著。那么，其判断基准也应比之前更加严格。</p>
-<p>一个大概的基准，<strong>只限于序巡且有四连形的情况下容许拒听。</strong></p>
-<h3 id="听愚形的剩余枚数影响很大">听愚形的剩余枚数影响很大</h3>
-<p>此前进行了听一种无筋37和拒听的比较，然而听愚形的和牌率会随着枚数而显著变化。其变化程度如专题7所示，听2378时，可见1枚和可见0枚之间就有5%以上的和牌率差距。基准的考虑方式如（式8-2）（式8-3）所示。若所听牌太差，则更倾向于拒听。</p>
-<figure data-type="image" tabindex="13"><a href="https://imgchr.com/i/BLSAyQ"><img src="https://s1.ax1x.com/2020/11/10/BLSAyQ.jpg" alt="BLSAyQ.jpg" loading="lazy"></a></figure>
-<figure data-type="image" tabindex="14"><a href="https://imgchr.com/i/BLSPW8"><img src="https://s1.ax1x.com/2020/11/10/BLSPW8.jpg" alt="BLSPW8.jpg" loading="lazy"></a></figure>
-<figure data-type="image" tabindex="15"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13143904/picture_pc_6271309ccb09e9790a3df18b425a6e1f.jpg" alt="img" loading="lazy"></figure>
-<h3 id="配合对手的速度">配合对手的速度</h3>
-<p>正文所记述的判断内容，包括手牌牌型，都诚如みーにん所言。此时，在实战中展现水平差距的，是关于「现在是否已到中巡」的判断。</p>
-<p>这里聚焦于第5巡、第8巡进行了比较验证，然而实战中即使同样是第5巡、第8巡，也会因对手的舍牌、鸣牌情况不同，而影响自己是否还有拒听的余地。若对手舍牌中有复数3~7，或者鸣了2次，则可想而知其手牌已经进展迅速，自己往往就优先选择听牌。依据自己和对方的打点而改变打牌方式，固然很难，但具备这一意识而进行柔软的判断很重要。</p>
-<h3 id="无自摸损则重视好形">无自摸损则重视好形</h3>
-<p>另外，在无自摸损的规则下，会比有自摸损时更重视好形。然而，不是说从听牌退回一向听，而是从进入一向听之前就有意识地去做成好形。</p>
 ]]></content>
     </entry>
 </feed>
