@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://honeymoe.github.io</id>
     <title>小透明书屋</title>
-    <updated>2020-11-16T01:00:33.529Z</updated>
+    <updated>2020-11-16T01:25:24.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://honeymoe.github.io"/>
     <link rel="self" href="https://honeymoe.github.io/atom.xml"/>
@@ -11,371 +11,498 @@
     <icon>https://honeymoe.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小透明书屋</rights>
     <entry>
-        <title type="html"><![CDATA[【不是汉化组】《数据制胜：三人麻将》前言+规则+使用方式]]></title>
-        <id>https://honeymoe.github.io/data00/</id>
-        <link href="https://honeymoe.github.io/data00/">
+        <title type="html"><![CDATA[【不是汉化组】【现代麻将之路】10　全铳制的诞生]]></title>
+        <id>https://honeymoe.github.io/mjway10/</id>
+        <link href="https://honeymoe.github.io/mjway10/">
         </link>
-        <updated>2020-11-16T01:00:12.000Z</updated>
-        <content type="html"><![CDATA[<h4 id="三人麻将的第一本数据书">三人麻将的第一本数据书</h4>
-<p>本书是全世界第一本基于数据的三人麻将战术书。</p>
-<p>如您开卷所见的那样，通篇充满了数据。就一本麻将书而言，定价1800日元+税，价格稍稍（并不，非常）高了点，但考虑到数据量，也是没办法的事情…（大概吧？）。怎么说也聚集了103张图、表和算式，怎么读都读不完嘛。</p>
-<h4 id="此后三麻的水平将急剧提升">此后，三麻的水平将急剧提升</h4>
-<p>好消息是，这些数据都不是掉书袋，完全是为了取胜而获取的。全都能派上用场。量实在是过多以至于完全掌握是不可能的，但能感受到「这的确能派上用处」。</p>
-<p>高水平玩家abantes（三麻9代目天凤位）为本书的内容作出评价。他在114~115页上说，「三麻也终于进入按数据考战术的时代了，让人感慨。」后之视今，三麻水平的进化应该会以本书的诞生为分水岭吧。受益于本书的出版，按理说三麻整体水平会迅速开始提高。就算不是所有人都会看这本书，但从读过的人会自然开始传播。这也是四人麻将约15年前发生过的事，这阵浪潮终于也轮到三麻了。（译注：とつげき東北著作《科学する麻雀》出版于2002年，大量使用数学论证，科学麻将由此肇始）</p>
-<h4 id="完美应对4种规则">完美应对4种规则</h4>
-<p>本书更厉害之处在于，应对了自摸损（有／无）、拔北宝牌（有／无）的规则。三人麻将的规则多种多样，这种（照顾全规则的）麻将书可说是前无古人，想必也会后无来者吧。这一点也是划时代的。</p>
-<p>这本书里写的战术，恐怕对沉浸于打三麻的人来说很多都是不言自明的。然而，这类「不言自明」在何种程度上「不言自明」，经过定量化和可视化，结果就是从长远的眼光来看，这本书一定会改变你的麻将观。理论依据明确的话，实力自然水涨船高。</p>
-<h4 id="难以承受的枯燥">难以承受的枯燥</h4>
-<p>那么，写了这么多本书的优点，现在也说说本书的缺点。本书固然优势巨大，其不足也难以小觑、</p>
-<p>本书最大的缺点，在于实在太枯燥了。如同教科书一般枯燥乏味的文章连绵不绝，过目即忘。想通过本书学习三麻是一番苦修，在学会三麻技术之前首先能修炼精神力。且不只是枯燥，实在太过细枝末节的文字也有一大堆。在误差水平为多少的时候如何如何，尽是研究性的文字。（闲话：明贬暗褒，可谓极矣。是的我显然是懒得读书而沉迷打牌的，所以才会有两件快乐事情重合在一起啊。）</p>
-<p>要说为什么这本书成了这个样子，明明应该是一本三麻的战术书，而著者みーにん先生却是抱着撰写信息科学论文的心态完成的。就算别人说「啊有这种追求的读者千里挑一都不到吧」也不能丝毫动摇其意志。这种态度反映在文章中，论及战术的文字平淡如应付事务工作，一旦涉及到计算的条件、误差的估计等等研究性的话题，文章突然就开始饱含热忱了。</p>
-<p>因此，读者需要自我保护。研究性质的字句我已尽可能缩小塞进框里了，千万别去读。那都是所见即梦乡的速效安眠药。本书在满载奥妙的同时，也有大量来自深渊美杜莎的凝视。</p>
-<h4 id="作为寻求后继者的工具">作为寻求后继者的工具</h4>
-<p>恕我直言，对作者而言，本书真正的目标读者是未来会可能出现的自己的后继者。15年前，我本人与《科学麻将》一书邂逅，开始研究数据麻将。如此一般，正在阅读这本书的诸位之中，也许会出现继承自己事业的人，他的写作证实抱着这样的期待。抱歉的是拿着这本书的99%的人并不在他的视线之内。</p>
-<p>麻将数据的研究者，在日本也不过寥寥几位。而外国则是零。花费莫大的时间，却几乎无法变现，有志于此者皆为弃世之人。因此，みーにん先生正竭力寻找自己的继承人，避免麻将数据研究在自己这一代灭绝。</p>
-<p>毕业于东京大学理科，其后通过了旧司法考试的天才头脑，由何因缘而沉迷于麻将的数据研究，其结果便是本书。且并非四人麻将，而是三人麻将。啊这个领域应该是没人来竞争的。</p>
-<h4 id="逻辑性强的大阪人强者">逻辑性强的大阪人强者</h4>
-<p>三才ブックス的担当编辑，梅田先生评价这本书「真是一本奇书啊」。虽然本书是这般不可思议的存在，内容也是划时代的。每一章节都有三麻强者Abante的评论，同时具备实战性，不能更棒。</p>
-<p>尽管Abante出身于大阪，思考却十分合理，所有的说明都充满逻辑。同时，又不像我和みーにん那样有纸上谈兵的感觉。读者便是从Abante的评论开始肚脐，也能把握三人麻将应该怎么思考、采用什么打法才能得到好的对局。</p>
-<p>适度Passみーにん的研究者之魂，同时阅读Abante的评论。这便是本书的正确使用方式。</p>
-<p>（福地　誠）</p>
+        <updated>2020-11-16T01:24:41.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="点炮完全就是你一个人的锅">点炮完全就是你一个人的锅！！</h3>
+<p>本章的主题是「点炮」的历史。</p>
+<p>感觉会被吐槽「什么鬼啊？」，不过本章要讲的其实是点炮的人负全责支付所有点数，这一机制的历史。</p>
+<p>卧槽，这不是自然之理吗？估摸着在座的各位都会这么觉得，但仔细一想其实也并非如此。</p>
+<p>笔者在中学时代的闲暇时，打七桥（一种扑克游戏）的时候，有曾说过「打麻将的话放铳要全付，太tm可怕了谁敢打啊」的记忆。有言道七桥是扑克版的麻将，但七桥有人放铳也是三家付分。</p>
+<p>原本在中国麻将里，即使谁给谁放铳了，也和自摸一样都是三家支付。和我打七桥的时候一样。</p>
+<p>当然，这一规则也传到了日本。</p>
+<p>但是明明是别人放铳却要牵连自己也不得不支付点棒，这显然让日本人意难平。这也算是日本人的国民性了吧。（译：我不说话。）</p>
+<p>扯远一点，三人支付的规则下甚至听说还有这样的作弊。</p>
+<p>AB二人组队和CD打麻将，不论AB哪家听牌，小伙伴都马上给对方送和。在彼此轮流放铳的时候，这一阵营的点棒就只会不断增加。</p>
+<p>但被坑的两位点棒就只能不停减少……</p>
+<p>为了防止这一作弊行为，就有新的规则被构思出来。</p>
+<p>就是所谓「放家摊牌」。</p>
+<p>那么，比如B给A铳了个大的，B就必须公开自己的手牌，让CD二人能够确认「这一放铳并非我有意瞄准送和，而是我手牌如此迫不得已为之」。</p>
+<p>但是，不论再怎么公开手牌，表示「我这一手牌上得了台面可以日赢」，别人也不可能释怀的。</p>
+<p>更何况也有暧昧不明的例子，以至于关于应该切什么牌而吵起来也是难免的。</p>
+<p>想必有很多人在内心深处都呐喊着「我日这个智障哦」吧。</p>
+<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/11205521/picture_pc_c1e079acee808394ce6557831be6bee5.jpg" alt="img" loading="lazy"></figure>
+<h3 id="瞬间风靡日本的一人全付制">瞬间风靡日本的一人全付制</h3>
+<p>时至昭和6年（1931），某地尝试采用了放铳者一人全付的规则。这一下子就流行开来，1年后就只剩下一人全付规则了。</p>
+<p>果然大家都在内心认同「你放铳就得好好负起责任」啊。</p>
+<p>当时，自认是麻将界权威的日本麻将联盟，自然是采用来自中国的三人支付规则的。</p>
+<p>然而实在不可能忽视天下大势，自昭和7年（1932）开始日本麻将联盟内部也将一人全付作为B规则而采用。那么，紧接着连联盟内部，也变得只打B规则了。</p>
+<p>事已至此，代表传统与权威最后的阵地——日本麻将联盟亦不可能逆时代之大势。</p>
+<p>昭和8年（1933），反而是三人支付规则难觅踪影，而一人全铳制则作为正式规则被采用，一直到今天。</p>
+<p>顺便一提，除日本以外的一切国家，至今都是三人支付。（译：我印象里地方麻将有铳1摸3）</p>
+<p>以昭和6年（1931）为分界线，日本麻将与中国麻将走上了各自不同的道路。其中最大的变化可说就是放铳者全付的制度吧。</p>
+<h3 id="如今再回顾">如今再回顾</h3>
+<p>作为专业名词，放铳一家支付称作一家包，三家支付称作三家包。</p>
+<p>所谓的包，和大三元被鸣第三个副露时的包一样，是指负责支付的意思。</p>
+<p>全世界的麻将之中，一家全付的只有日本麻将，其他各国都是三家支付。</p>
+<p>本章的内容，各位不觉得很厉害吗？</p>
+<p>在日本可谓天经地义的事，放在全世界却独此一家。</p>
+<p>为什么会变成这样呢……我感到十分不可思议。</p>
+<p>我以前写过「攻防判断」一书（译：估计是我没买到且没在图书馆借到的那本），在开篇有一篇「为何攻防判断如此重要？」的文章。</p>
+<p>就是下面这篇：</p>
+<p><a href="http://fukuchi.cocolog-nifty.com/blog/2016/12/post-4ad2.html">【麻雀】なぜ押し引きが重要なのか？</a></p>
+<p>将其背景更详尽展开的便是本章的内容了。</p>
+<p>不过还真是神奇啊。</p>
+<p>只有日本采用的特殊规则在麻将以外的领域还有吗？（译：软网球、敏感词等）</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【不是汉化组】《数据制胜：三人麻将》杂谈+目录]]></title>
-        <id>https://honeymoe.github.io/data_index/</id>
-        <link href="https://honeymoe.github.io/data_index/">
+        <title type="html"><![CDATA[【不是汉化组】【现代麻将之路】1　麻将的诞生]]></title>
+        <id>https://honeymoe.github.io/mjway01/</id>
+        <link href="https://honeymoe.github.io/mjway01/">
         </link>
-        <updated>2020-11-16T00:54:33.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://s2.ax1x.com/2019/10/28/KgFxV1.jpg" alt="KgFxV1.jpg" loading="lazy"><br>
-（封面）</p>
-<h3 id="一-声明">一、声明</h3>
-<p>本系列文章绝大部分内容来源于『データで勝つ三人麻雀』（著：みーにん，编： 福地誠），仅供国内的日麻爱好者学习、研究使用，严禁用于商业目的。原书一切权利属于出版社和作者，受日本法律保护。本人翻译、整理的中文版本，暂时保留著作权，未经允许请勿修改、传播。如有疏漏不足之处，或一切未尽事宜，望诸位不吝赐教。<br>
-本系列文章发布于<a href="https://shikkaku.com/data_sanma_00">文字屋@失格</a>：shikkaku.com，转载请保留出处。</p>
-<h3 id="二-杂谈">二、杂谈</h3>
-<p>值此多事之秋，前路不知何处。终日沉湎日麻，不免遭牌姬歧视，又被三家轮番凌辱。另辟蹊径，征战于雀魂银三东，兼刷好感礼物。星间飞行似人生沉浮，常有起落落落。适逢2019年8月3日，『データで勝つ三人麻雀』（暂译「数据制胜：三人麻将」，以下简称本书）出版，整顿心情、学习理论知识，对本书做一个翻译整理，算是对自己施加的一个约束，同时期待能对诸位日麻爱好者有所助益。</p>
-<p>本书由みーにん撰写，其另一代表作为『「統計学」のマージャン戦術』(「统计学麻雀战术」，有B站茶杯君翻译，<a href="https://www.bilibili.com/read/cv2841976/">点我</a>)，特征为分析天凤的百万数量级实战牌谱，在统计意义上对决策和其收益期望进行判断。本书编者为福地誠，是一位东京大学（教育学部）毕业（留级）的畅销麻将书编著者，参与编著的麻将书有「现代麻雀技术论」、「何切300」、「おしえて!科学する麻雀」等。</p>
-<h3 id="三-目录">三、目录</h3>
-<p>前言</p>
-<p>作为本书前提的三麻规则／本书的使用方式</p>
-<h4 id="第1章-由数字可知的三麻整体印象">第１章  由数字可知的三麻整体印象</h4>
-<p>专题1	 由数据分析解读三麻和四麻的区别</p>
-<p>专题2	 由数据分析胜者组的决策倾向</p>
-<p>专题3　 把握三麻中偶然性对成绩顺位的影响大小</p>
-<p>专题4 　关于局收支理论</p>
-<h4 id="第2章-先制攻击">第２章  先制攻击</h4>
-<p>专题5  　先制两面听牌</p>
-<p>专题6  　先制愚形听牌</p>
-<p>专题7  　待牌枚数与和了率的关系</p>
-<p>专题8  　放弃听牌维持一向听的情况</p>
-<p>专题9　  听字牌</p>
-<p>专题10  平和vs一气通贯</p>
-<p>专题11  听字牌vs听两面</p>
-<p>专题12  听dora立直</p>
-<p>专题13  振听立直</p>
-<h4 id="第3章-攻防判断">第３章  攻防判断</h4>
-<p>专题14  什么情况下应该提起警戒</p>
-<p>专题15  完全弃和的局收支</p>
-<p>专题16  门清听两面时追立直的判断基准</p>
-<p>专题17  副露听两面时进攻的判断基准</p>
-<p>专题18  听愚形时追立直的判断基准</p>
-<p>专题19  副露听愚形时进攻的判断基准</p>
-<p>专题20  副露手牌的听牌率</p>
-<p>专题21  切役牌dora的风险</p>
-<p>专题22  从1向听开始对攻</p>
-<p>专题23  针对两家立直的弃和</p>
-<p>专题24  两家立直、自己两面听牌想进攻时</p>
-<p>专题25  超越局收支理论</p>
-<h4 id="第4章-弃和与读牌">第４章  弃和与读牌</h4>
-<p>专题26  弃和的基本手顺</p>
-<p>专题27  好牌先打时的安全度</p>
-<p>专题28  被引挂（骗筋）的危险度</p>
-<p>专题29  舍牌切5</p>
-<p>专题30  听牌时舍牌两侧的危险度</p>
-<p>专题31  里筋的危险度</p>
-<p>专题32  暗刻的危险度</p>
-<p>专题33  One Chance的危险度</p>
-<p>专题34  宝牌的危险度</p>
-<p>结尾</p>
+        <updated>2020-11-16T01:23:19.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="麻将如今160岁">麻将如今160岁？</h3>
+<p>本篇连载既然用了『现代麻将之路』这一宏大命题，那么为了讲述现代麻将演变至今的漫漫长路，则不免要从麻将诞生那破晓的初啼开始。</p>
+<p>地点位于中国，上溯约1200年，成于唐代的叶子戏被认为是麻将的起源。然而，我们并不知道这究竟是一种什么样的游戏。玩法既已散佚，就连用的是什么牌都无资料可查。就像尘封在破庙的旧账本中苟延残喘的爷爷奶奶那样难见真容。</p>
+<p>稍微更具体一些，直到麻将的母亲出现是在大明（约400年前）。有所谓的马吊牌，已经具备了万子、饼子和索子。然而，也存在着二十万～百万等如今已经消失的牌，每种牌也都只有1张。（现在每张牌都各有4张了。）</p>
+<p>马吊牌可说是麻将牌的母亲，那么父亲又是谁呢？便不止一位了：同一时期的纸牌、游湖、骨牌等，都包含着被日后的麻将牌所继承的元素。</p>
+<p>也就可以说，母亲马吊牌和几个老爹在一段时间内同居，在这一片狼藉之中诞生了麻将。</p>
+<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/11122759/picture_pc_3f84d828f250c2128dd0f0bff07ba097.jpg" alt="img" loading="lazy"></figure>
+<h3 id="血海中诞生的游戏">血海中诞生的游戏</h3>
+<p>麻将诞生于至今约160年前，大约在1860年。当时的中国正处在太平天国运动的巨大动荡之中。面对清政府的苛捐杂税，农民们团结抗争，试图建立一个新国家。</p>
+<p>战乱持续了14年，而说到军队中的乐趣便是饮酒和赌博了。一如太平天国这一名称所表现得，他们想建立的是一个理想国家。全面禁止了掠夺等暴行，也没个姑娘，那么士兵们当然就只能沉浸在各种赌博（当时所有的游戏都是赌博）之中了。</p>
+<p>士兵们从全中国各地聚集而来，语言不通却要赌大钱，那么自然就会催生统一的规则。那自不必提，若规则不严密，免不了起争执，还怎么赌下去呢。想必也有在军旅生涯中弄出「麻雀放浪记」的ドサ健和出目徳一流的人物，但他们为了赚钱想必也需要一个共通的规则。</p>
+<p>那便是「麻将的诞生」了。便从此时开始，下面这些基本要素就齐备了。</p>
+<p>・有风牌<br>
+・有三元牌。<br>
+・使用象牙或牛骨制成的牌。<br>
+・每种牌各有4枚。<br>
+・由万子、饼子、索子、字牌这四类构成。</p>
+<p>一言以蔽之，将此前存在的多种游戏，经太平天国这一聚赌合宿而融会贯通的，便是麻将的原型。固然战争使文明发达，而麻将也正是孕育于战争之中。就自己总是站在「卧槽脸疼」的立场上而言，是否能够接受了呢。</p>
+<h3 id="如今再回顾">如今再回顾</h3>
+<p>事实上，麻将诞生于太平天国运动之中，这也不过是有影响力的说法之一。</p>
+<p>关于场所和时代，有各种说法，由于缺少决定性的证据，目前处于诸说林立状态。</p>
+<p>麻将博物馆采取了陈鱼门此人发明的说法，这也只是因为彼重视了和中国浙江省之间的关系，真的是选了一个。</p>
+<p>浅见老师持太平天国说，我也觉得太平天国说是最有说服力的。</p>
+<p>除此之外，也有成都起源说。</p>
+<p>中国各地为了宣传自己，都卯足劲说「是我家的！」这种感觉。</p>
+<p>几年前出版的书籍『麻将的诞生』中，应该是没有明确指定时间地点的……（隐约记忆）</p>
+<p>我看了中国制作的麻将纪录片，某地的麻雀的鸣叫声啥的所以麻将就诞生了…这种显然扯皮的话，完全没有历史的一惯性啊……（*：译：未能查证）</p>
+<p>电视节目主要还是视觉情报，拍到好的镜头就像真相一样播放出去，但那个老人也是20世纪才出生的，怎么会知道以前的事情嘛（笑）。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】34　宝牌的危险度]]></title>
-        <id>https://honeymoe.github.io/data34/</id>
-        <link href="https://honeymoe.github.io/data34/">
+        <title type="html"><![CDATA[【不是汉化组】【雀愉麻将讲座】三麻讲座第2回　立直判断]]></title>
+        <id>https://honeymoe.github.io/janyu_sanma02/</id>
+        <link href="https://honeymoe.github.io/janyu_sanma02/">
         </link>
-        <updated>2020-11-16T00:53:30.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="宝牌的危险度在什么水平">宝牌的危险度在什么水平？</h3>
-<p>危险度一章我们以宝牌作结。</p>
-<p>若是打宝牌放铳了，就确定送了别人一番。因此，关于宝牌的危险度，不仅仅需要比较其危险度（概率），同时也必须考虑其提升打点的效果。在把两者纳入考虑的基础上，我们来分析切宝牌的风险。</p>
-<p>首先，（表34-1）和（表34-2）展示了当某张牌是宝牌时其危险度。粗略考虑，当**某张无筋是宝牌时，其危险度提升为1.1<sub>1.2倍，筋123p和字牌（除地狱单骑）提升为1.2</sub>1.5倍。**普遍来说，越是筋、字，危险度提升幅度越大。尽管如此，也只有两筋45p和地狱单骑的放铳率才会突然翻倍，其他都没这么夸张。</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13443718/picture_pc_5b5f7d85ad2e6629c779ac423583290c.jpg" alt="img" loading="lazy"></figure>
-<p>那么，我们来看当宝牌放铳时，放铳净失点会提高多少。（表34-3）展示了以宝牌・非宝牌和牌时的和牌净得点。</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13443721/picture_pc_a4bfd694b38ae22e3c1090f4332011a5.jpg" alt="img" loading="lazy"></figure>
-<p>只要不是两家和了，那和牌净得点就等于放铳净失点，以这一数字就可以获知宝牌放铳时的失点情况。另外，虽然没有按拔北宝牌区分的数据，但粗略当作拔北宝牌1枚的数据应该没有问题。</p>
-<p>比较（表34-3）中全体的数值，<strong>视是否为宝牌而定，闲家有2700点、庄家有4000点的不同</strong>。尤其是我们可以看到，筋1p和字牌的荣和净得点达到跳满等级。这是因为，如果筋1p或役牌放铳，往往都是「立直役牌dora3+北」「立直七对宝牌2+北」之类的大牌。切筋1p和役牌dora时需要做好觉悟。</p>
-<p>我们已经完成了对宝牌危险度和放铳净失点的估计，那么我们来估算考虑打点后宝牌的危险程度。定义（牌的危险度）×（放铳净失点）为「危险指数」，对照危险指数我们来思考宝牌的危险度。由于从客风一路讨论到无筋5p则信息量太大，因此我们暂时只讨论役牌和2p和5p的安全度。</p>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13443729/picture_pc_66995963b2132a335b5b7b9059ce8acf.jpg" alt="img" loading="lazy"></figure>
-<p>（表34-4）罗列了这些数据。从表中我们可以摘要得出的结论如下：</p>
+        <updated>2020-11-16T01:22:28.000Z</updated>
+        <content type="html"><![CDATA[<p>原文：https://jantama.sinoa.ws/blog/?p=1209</p>
+<h1 id="三麻讲座第2回-立直判断">三麻讲座第2回　立直判断</h1>
+<p>这是第二回。因为我在奇怪的时间睡醒，凑巧齐了一桌王座，就打了一局。由于三麻的雀圣各服务器加起来仅有21人，就不避其名讳了。绝对不是嫌麻烦哦，真就酱。</p>
+<figure data-type="image" tabindex="1"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>第12巡，庄家立直而我方听牌，此时选择切4s听牌。由于1-4s已经被否定，而4-7也是OneChance，可以判断比较安全。（固然，三麻让人有OneChance也没多安全的印象。其实庄家和3s。）而且，我听的牌还是庄家的现物，摸进必和，而且还剩6枚。由于是王座，下家恐怕是不会切的，50符3番所以先默听了（*：三暗刻，6400点）。为了1600打点的提升而掏出立直棒是不值的。更何况是这样的牌形，既不容易喜中里宝牌，甚至能期待四暗刻单骑。</p>
+<figure data-type="image" tabindex="2"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-1.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-1.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>然后就荣和了庄家。七对子也有4番选择立直的情况，但一般形的牌默听才是基本。</p>
+<figure data-type="image" tabindex="3"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-2.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-2.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>第10巡，由于上家在染手，我选择了听牌山中可能较多的嵌2p。</p>
+<figure data-type="image" tabindex="4"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-3.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-3.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>尽管遭遇了庄家追立，但好歹日赢了。一转形势，岂不美哉＾ｑ＾。</p>
+<figure data-type="image" tabindex="5"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-4.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-4.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>第8巡，下家是位国士，而我期待庄家弃和所以立直。如果是在玉之间，这手牌被对攻我就死了。恐怕所剩的白板有一枚被牌山吃了吧。4s是手切，只要诸位认真观察手摸切，就知道100%是没威胁的啦……</p>
+<figure data-type="image" tabindex="6"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-5.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-5.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>有一枚白在王牌堆里。当然我是想和牌，但只要如规划的那样庄家弃和便没问题。顺便一提，立直当时2s也在牌山里。</p>
+<figure data-type="image" tabindex="7"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-6.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-6.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>第7巡，上家在染手，所以摸进发便弃和。由于他甚至切出了所染的饼，不巧甚至可能放铳。此后，上家惨遭扣牌，未能听牌而流局。简直太棒了。</p>
+<p><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-7.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-7.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a>展示手牌</p>
+<p>第11巡，已经无需说明了吧。但出于解说需要还是容我赘述。由于我扔出了立直棒，若铳上家则会西入（3本场），但由于是听三面还是选择立直了。由于他们肯定都会对攻，所以我赢面还挺大。输了骂牌姬，请。<img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-8.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></p>
+<p>我赢啦！那么有请。（1位）</p>
+<figure data-type="image" tabindex="8"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-9.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/11/7dd4c3f74f006b34bb1d70d7adebd54e-9.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>三麻王座比四麻好吃。</p>
+<h4 id="~总结~">～总结～</h4>
+<p>50符3番则默听</p>
+<p>若有人染手，听不要的一色容易赢</p>
+<p>听三面大多可以决胜</p>
+<p>由于只是个牌谱，多少感到有些不足。</p>
+<p>感谢各位陪到最后。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【雀愉麻将讲座】三麻讲座第0回　雀愉成员介绍]]></title>
+        <id>https://honeymoe.github.io/janyu_sanma00/</id>
+        <link href="https://honeymoe.github.io/janyu_sanma00/">
+        </link>
+        <updated>2020-11-16T01:21:43.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好，我是哈皮莉特。</p>
+<p>毕竟是第一堂课，我们来介绍一下雀愉Discord里的三麻打者（榜上有名）们。</p>
+<p>那么，有请。↓</p>
+<p>首先是，我，哈皮莉特</p>
 <ul>
-<li><strong>无筋2p宝牌和无筋5p非宝牌同样危险</strong></li>
-<li><strong>役牌生张宝牌比无筋更危险</strong></li>
-<li><strong>筋牌2p宝牌和半筋5p非宝牌同样危险</strong></li>
-<li><strong>可见1枚的役牌宝牌比筋牌2p非宝牌更危险</strong></li>
+<li><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-1.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-1.png?ssl=1" alt="img" loading="lazy"></a></li>
 </ul>
-<p>这么一看，我们知道宝牌的危险度比平时上升一个等级。把用不到的宝牌攥在手里固然打不成麻将，但喜铳宝牌猝死的也正是麻将。</p>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13443738/picture_pc_b682cdf74f5374183fac4ea071b62a3d.jpg" alt="img" loading="lazy"></figure>
-<h3 id="可见1枚字牌vs筋牌">可见1枚字牌vs筋牌</h3>
-<p>有一点我稍微有点在意，就是「19字牌dora放铳是跳满等级」。在危险指数的表中，我们也能看到比起筋28，可见2枚的字牌dora更危险，但平时我在因安全牌不足而困扰时，比起筋牌我还是切可见1枚的字牌dora。如果是生张的话我只敢在序巡切，但可见一枚的时候即使到了中巡也还是比筋牌更敢切。我当然知道一旦放铳就是个大的，但放铳的概率不会太高，我总会偏向于降低铳率。</p>
-<p>切数牌放铳反正横竖也是个满贯级别，既然字牌dora是跳满等级，两害相权反正放铳很烦，那在我而言还是切字牌吧。尤其是可见1枚的役牌dora，如果在别人手上成对子那早就被碰了，所以铳单骑我还能接受，铳双碰那就真的是脸黑了。</p>
-<blockquote>
-<p><strong>みーにん</strong>　请别看顺序，而是看具体数字。差距并不那么大，所以根据场况很容易就逆转。危险指数的单位是（点），把它当做切牌放铳时负的局收支就好了。</p>
-</blockquote>
-<p>啊，原来如此，数值的差很小啊。没什么差别那我能够理解。由于役牌dora往往都会被鸣牌，反而我觉得客风更危险，只看数字倒也不是这么回事啊……</p>
-<h3 id="宝牌在中间这局的打点会很高">宝牌在中间，这局的打点会很高</h3>
-<p>和宝牌有关的还有一点。要是这局宝牌是4~6，当对手立直时我就带着当他已经拔北1枚的感觉在打牌。反正他的手牌已经用上宝牌了吧。</p>
-<blockquote>
-<p><strong>みーにん</strong>　虽然这本书上没写，但我有数据。立直的荣和净得点，当宝牌是三元牌时为7500点，宝牌是1的时候为8100点，宝牌是4的时候为8500点（不考虑拔北宝牌时的数据）。</p>
-</blockquote>
-<p>也就是说，4~6是宝牌的时候相当于拔北宝牌0.5枚多一点。我觉得这条是对立直时的攻防判断来说相当可用的指标之一。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】33　One Chance的安全度]]></title>
-        <id>https://honeymoe.github.io/data33/</id>
-        <link href="https://honeymoe.github.io/data33/">
-        </link>
-        <updated>2020-11-16T00:49:00.000Z</updated>
-        <content type="html"><![CDATA[<p>在此，我们来关心一下One Chance（3枚壁）。四麻中，有「One Chance比无筋安全，但比筋牌危险」的说法，我们来看看三麻是如何。顺便也看No Chance（4枚壁）的情况。</p>
-<h3 id="半筋45p的one-chance可信">半筋45p的One Chance可信</h3>
-<p>首先，将One Chance（排除其同时也是外侧牌的情况，以下同）的危险度普遍一般化可得：</p>
-<p><strong>Double Two Chance＞One Chance＞Double One Chance＞筋牌</strong></p>
-<p>如上，具体数字可查（表33-1），OC无筋123p的危险度为10%~11%，比起不是One Chance时略微安全一点。然而，并没有低到筋牌水平，依赖One Chance是很危险的。搏One Chance应该等到筋牌切完以后。</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13443483/picture_pc_1075c26c0e534c1f93e403cdf474de8c.jpg" alt="img" loading="lazy"></figure>
-<p>事实上，比预想中还要实用的，是半筋4p5p的One Chance。<strong>其危险度大幅下降至6%~7%，已达筋牌水平</strong>。同时，Double Two Chance的危险度也下降了。</p>
-<p>半筋45p的危险度从一开始就不高，因为愚形听45p的毕竟少。实战中，可能很少注意到半筋45p的One Chance，但注意到这一点是续命的生命线。为了弃和，需要寻找筋牌，和半筋45p的One Chance。</p>
-<h3 id="私有和公有没有太大区别">私有和公有没有太大区别</h3>
-<p>细节上，3枚壁的形成方式（自己手牌有3枚，自己手牌1枚都没有而别的地方可以确定3枚）是否会导致危险度如何变化，让我们来做个确认。</p>
-<p>事实上，私有One Chance和非外侧公有One Chance的比较之中，无法发现明确的不同。也只有<strong>无筋1p是私有One Chance时危险度会降低（9%）</strong>。从总体来看，3枚壁不论如何形成，是否是立直家立直宣言前的舍牌，都不重要。甚至反过来说，立直家立直宣言前的舍牌外侧，其安全性明确上升。</p>
-<h3 id="no-chance比筋更安全">No Chance比筋更安全</h3>
-<p>最后我们来看No Chance。由（表33-1）可知无筋No Chance比筋牌更安全。尤其是，<strong>无筋23p的No Chance比筋牌23p更安全</strong>。这是由于，No Chance成立时，不仅消除了两面的可能性，同时也消除了嵌张的可能性（当这枚牌紧贴璧时，例如4444p时的3p不可能铳24p嵌）。**「No Chance比筋牌安全」**这一理论也希望各位记住。</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13443232/picture_pc_ede339541bfcaecf2540cb348097378b.jpg" alt="img" loading="lazy"></figure>
-<h3 id="和其他要素组合起来读">和其他要素组合起来读</h3>
-<p>首先，有人会觉得One Chance和筋牌差不多安全。对这些人而言，首先要记住无筋＞One Chance＞筋牌，这一危险度顺序。</p>
-<p>在此之上，就我本人的感觉而言，「因为是One Chance所以应该侥幸能过吧」这样单独使用是很糟糕的。不论是结合筋牌，还是结合切牌手顺，必须复合诸多要素一起使用。由于三麻只有2个颜色，所以通过看手切和One Chance，就可以限定危险区域。若是自己能看到3枚同样的牌，那么想包含这张牌构成面子就很困难了。以上种种，可以作为读牌时的工具。</p>
-<p>举个例子，3p和7p各自可见3枚时，中巡左右对手立直了。由于完全不使用饼子的中部牌而立直的牌型非常少，所以可以推测他听牌时至少使用了某种形状的饼子。目前3p7p是One Chance，代表着3p7p最多只能用一枚，饼子的自由度很低，那么危险度很高的就是36p或47p，亦或者是索子。那么，索子的形状又如何呢？是两边都有吗？类似这样不断思考。像这种可以判断纯粹以索子构成3组面子比较困难的场合，即使是饼子的One Chance也不可信。原因在于，此时需要以饼子构成2组面子。</p>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13443466/picture_pc_f03f49270733197c91f85abd4b4d93f2.jpg" alt="img" loading="lazy"></figure>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】32　暗刻的危险度]]></title>
-        <id>https://honeymoe.github.io/data32/</id>
-        <link href="https://honeymoe.github.io/data32/">
-        </link>
-        <updated>2020-11-16T00:48:16.000Z</updated>
-        <content type="html"><![CDATA[<p>这次我们讨论暗刻。弃和时若手持1p暗刻，切1p则能撑过3巡。此时我们来看一下这张1p有多少危险度。</p>
-<h3 id="无筋1p暗刻并不危险">无筋1p暗刻并不危险</h3>
-<p>查阅（表32-1），<strong>自己持有3枚（以上）时的无筋1p危险度为13%，和全体数字的差别不大</strong>。由此事实可知，由于手持暗刻而导致的容易被两面听牌捕获（危险度的提升）和不容易被双碰或单骑听牌捕获（危险度的下降）彼此相互抵消。对于19牌而言，持有暗刻并不会导致放铳的概率提高。自信拆暗刻便可撑过3巡。就算放铳，那也只是时运不济。</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13442840/picture_pc_ce73781b71f01e707ce1e3d68d3d4bd5.jpg" alt="img" loading="lazy"></figure>
-<h3 id="中张牌暗刻的危险度上升2~3">中张牌暗刻的危险度上升2~3%</h3>
-<p>那么，若是中张牌暗刻又如何呢？直接说结论，<strong>无筋2p的危险度为15%</strong>，相比全体的13%高了2%。</p>
-<p>只看这个数字，可能认为切其他无筋会更好，但是下一巡也不一定就能摸到安全牌。那也就是说，只是2%程度的话不如闭眼睛拆暗刻更好。</p>
-<p>无筋3p、4p、5p亦然。虽说比全体危险了约2%~3%，但反过来说，危险度只提高这点程度，比切多枚无筋要好得多。</p>
-<h3 id="暗刻的筋牌与暗刻危险度相同">暗刻的筋牌与暗刻危险度相同</h3>
-<p>与此同时，**自己所持有的暗刻，其筋牌（例如持有4p暗刻时的1p）的危险度也会更高。**例如，持有4p暗刻时的1p的危险度16%，7p的危险度17%，比全体的数字更高。由于「1巡安全则3巡安全」的法则不能适用，非常危险，所以只能切无筋的情况下不切这些牌会比较好。</p>
-<p>现代流的牌理论，可说**「切暗刻，但不切暗刻的筋」**。其意义在于，暗刻和暗刻筋牌的危险度相仿，然而博1回撑过3巡有其意义，但只切1枚就很危险，要切还是成套切比较好。</p>
-<p>最后是筋1p。自己可见3枚的筋1p，其危险度不足1%。因为只输单骑，只比现物稍逊一筹。**「筋牌1p暗刻绝安」**这也是牌理论。</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13442854/picture_pc_9d4bdbc85258f10e6a960e5d10635a70.jpg" alt="img" loading="lazy"></figure>
-<h3 id="暗刻是读牌的钥匙">暗刻是读牌的钥匙</h3>
-<p>自己手里的暗刻可以帮助我们在某种程度上确定对手的手牌构成，在决定是攻是守时非常可作为参考。果然我也觉得暗刻和暗刻的筋牌比平时更危险，这倒是没错。</p>
-<p>例如，手持4p暗刻，对手切2p或3p立直时，14p比较危险啊。这种时候，会觉得啊反正就是14p了吧，此外的牌都切得挺多的。当然也有可能手上摸到的是对子，读牌也不是百发百中，但其他筋牌的危险度大大降低了，考虑到这一点，知道切1枚其他牌进攻的危险度有限时，打法会比较偏进攻。</p>
-<h3 id="拆暗刻是非常手段">拆暗刻是非常手段</h3>
-<p>拆中张暗刻这种行为不论序盘还是中盘终盘都不会去做。就算不想切2、3种类的牌，但切中张暗刻我认为是相当危险的。在手牌构成上，正中间的牌会切断对手的手牌，对手持有跨过暗刻的两面搭子的可能性很小，也就是说，相对而言这之外的筋牌更加危险了。因此，应该加油寻找其他看起来比较安全的牌。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】31　里筋的危险度]]></title>
-        <id>https://honeymoe.github.io/data31/</id>
-        <link href="https://honeymoe.github.io/data31/">
-        </link>
-        <updated>2020-11-16T00:47:44.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="尝试怀疑里筋神话">尝试怀疑里筋神话</h3>
-<p>本专题来讨论序巡所切牌其里筋的危险度。四麻中「序巡所切牌的里筋」的危险度有诸多论述，让我们来看看三麻是如何。</p>
-<p>我们来看（表31-1），可知当对手第一切的牌所近的里筋变成筋牌时，危险度会急剧降低。例如，第一切为1p，而其后又切出5p，那么筋牌2p的危险度为1%。另外，<strong>第一切为2p，而舍牌中有2p时，筋3p的危险度为1%</strong>。另外，<strong>第一切为2p，而其后舍牌有6p时，筋3p的危险度为1%</strong>，和字牌地狱听的危险度相仿。</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13442412/picture_pc_6aefbe14448f6ce7464de5a826a51cb0.jpg" alt="img" loading="lazy"></figure>
-<p>这可以用「往往不持有包含序盘所切牌的愚形搭子。例如切出1p的时候往往不持有13p这一搭子。因此，只可能是愚形听牌的筋牌危险度会下降」来解释。</p>
-<h3 id="近里筋不危险">近里筋不危险</h3>
-<p>然后，关于无筋中第一切的里筋的危险度，按近里筋（切过1p时的2p），原里筋（切过1p时的5p）区分做一个考察。</p>
-<p>首先从近里筋开始。第一切是1p时，无筋2p的危险度为10%，第一切是2p时无筋3p的危险度为12%。比全体的数值更低。第一切是异色的1（1s）时无筋2（2p）的危险度是14%，第一切是异色的2（2s）时无筋3（3p）的危险度是15%，比这两个数字稍小。由此我们可以认为，「134p则会从1p开始切，因此切过1p的2p更危险」这一假说有误。当然这种模式也是存在的，但愚形听牌减少的影响更大。</p>
-<p>再说，原本第一切3p时半筋4p的危险度为12%，比全体的10%更高。那是因为，半筋4p是指1p能安全通过时的4p，切过3p后1p能通过，而若手持1356p则以3p→1p的顺序切出会更普遍，因此可能导致了半筋4p的危险度上升。作为证据，事前切过3p，而宣言牌是1p的时候，半筋4p的危险度为15%，和无筋3p、7p的危险度相仿。这一结论可以活用于读所听牌。</p>
-<h3 id="远里筋危险吗">远里筋危险吗？</h3>
-<p>那么，远里筋（切过6p时的2p）又是如何呢。首先，<strong>第一切是5p时的远里筋（无筋1p）的危险度为20%</strong>，和无筋4p5p的危险程度同级。第一切就是5p，也就代表这染手牌相当齐整了。此时，相当于远里筋的无筋1p是必须警戒的。</p>
-<p>此外又是如何呢？第一切是6p时的无筋2p，第一切是7p是的无筋3p，与全体比较起来并不是那么危险。「远里筋容易中奖」可能不适用于5p之外的情况。</p>
-<p>第一切是3p~7p时，往往多是染手或对子手，可能听那种颜色的两面会更少一些。然而，第一切是8p时的半筋47p，危险度会更高。</p>
-<p>以上，从各方面讨论了里筋。可堪一用的信息有：</p>
+<p>好辣鸡哦w就这成色也敢来开三麻讲座耶www</p>
+<p>啊……你等下嘛……这里面有很深的内情……</p>
+<p>我忘记了以前（天凤三麻原九段）的打法，打了大概2000把……所以说诶！小号的成绩如下！</p>
 <ul>
-<li><strong>近里筋的愚形听牌会急剧减少。</strong></li>
-<li><strong>第一切5p时无筋1p危险。</strong></li>
-<li>**第一切3p8p9p时，半筋4p7p危险。（<strong>初打127,半筋36危）</strong></li>
+<li><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-2.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-2.png?ssl=1" alt="img" loading="lazy"></a></li>
 </ul>
-<p>大致如此。</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13442418/picture_pc_125884e5778cf77fa1d0b9dd35e4c4b7.jpg" alt="img" loading="lazy"></figure>
-<h3 id="三麻是一个可以读手牌-读山的游戏">三麻是一个可以读手牌、读山的游戏</h3>
-<p>关于筋牌诚如所言。第一切是1p，而此后切出5p是的筋2p很大概率安全，而接近立直宣言牌的1p则即使不是1p也能适用。1p和5p之间若还有手切的字牌，则更安全。</p>
-<p>三麻只能用索子和筒子两种颜色来构成四组面子，所以不仅134这样的形，连浮牌19都应该作为面子候补而比字牌优先留下。第一切是1p，也就是说不打算在1p附近形成面子，1p附近大概率不在他手上，可说附近的牌会比较容易过。</p>
-<p>尤其是第一切3~7是非常强的信号。要不是这一颜色已经凑够了，要不就是满心在染另一色。若第一切是3p，可以限定为这一色听牌为47p、58p、69p，这些听牌的危险度会增加。由于统计上，染手和对子手较多，所以危险度也不会增加太多就是了……</p>
-<p>我认为三麻可以从第一切开始读手牌、读山。例如，第一切若是4p，则可以知道此人并不持有太多筒子。这是自己以外两家的二分之一没有筒子，这一情报非常之强，可以知道比起索子，饼子在牌山的存量更多。因此，自己就会积极留下筒子牌。若自己第一切本打算染索子而切走了筒子，而同巡之中他家手切了4p，那自己往往采取立刻中断染索子而进行应对。</p>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13442420/picture_pc_7a080b6772975078233a95b47893fcac.jpg" alt="img" loading="lazy"></figure>
+<p>显然这属于发挥超常的，但满打满算平均顺位误差0.05也有1.81,0.10也有1.86，这样就可以了呗……？</p>
+<p>行了，下一位！</p>
+<figure data-type="image" tabindex="3"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-3.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-3.png?ssl=1" alt="img" loading="lazy"></a></figure>
+<p>没错，ネマタ先生。因现代麻将技术论而享有盛名的那位。</p>
+<p>值得赞叹的门清守备型成绩。</p>
+<p>毕竟只是做个介绍，我们赶紧来看下一位吧。</p>
+<figure data-type="image" tabindex="4"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-8.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-8.png?ssl=1" alt="img" loading="lazy"></a></figure>
+<p>デュー先生。</p>
+<p>一开始自称是天凤三麻七段，后来露馅其实是九段。</p>
+<p>打法是攻击型（副露率、立直率双偏高）。下一位。</p>
+<figure data-type="image" tabindex="5"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-4.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-4.png?ssl=1" alt="img" loading="lazy"></a></figure>
+<p>其人乃三麻最初的雀圣也。</p>
+<p>（称号）左右的两条鱼真可爱呀。</p>
+<p>好棒棒～羡慕诶～……下一位。</p>
+<figure data-type="image" tabindex="6"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-5.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-5.png?ssl=1" alt="img" loading="lazy"></a></figure>
+<p>小姐姐带带我。国服的雀圣。</p>
+<p>雀圣就上面这些，接下来。</p>
+<figure data-type="image" tabindex="7"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/IMG_20191018_174511.jpg?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/IMG_20191018_174511.jpg?ssl=1" alt="img" loading="lazy"></a></figure>
+<p>雀魂昵称不明，Discord里以「成。」这一名义活动的天凤十段聚聚。</p>
+<p>雀魂中虽然不是雀圣，仍是位居排行榜之上。</p>
+<p>（擅自隐藏了这位的ID）下一位</p>
+<figure data-type="image" tabindex="8"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-6.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-6.png?ssl=1" alt="img" loading="lazy"></a></figure>
+<p>しろもふ先生</p>
+<p>和一开始我自己的天凤成绩相似，我感到很亲切。下一位</p>
+<figure data-type="image" tabindex="9"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-7.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-7.png?ssl=1" alt="img" loading="lazy"></a></figure>
+<p>櫻下六妖城先生。</p>
+<p>和我的大号成绩相似啊。当然六妖城的打点完全比我高就是了！</p>
+<p>～写在最后～</p>
+<p>在成为雀圣之后，我不推荐打玉之间。</p>
+<p>很可能像我一样从雀圣1掉到雀豪2哦！（殷鉴不远）</p>
+<p>若君有意，欢迎加入雀魂的愉快小伙伴哦～？</p>
+<p>（译者个人判断隐去了日服Discord链接，请见谅）<br>
+那么～</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】30　立直宣言两侧的危险度]]></title>
-        <id>https://honeymoe.github.io/data30/</id>
-        <link href="https://honeymoe.github.io/data30/">
+        <title type="html"><![CDATA[【不是汉化组】【雀愉麻将讲座】三麻讲座第1回　门清的行牌]]></title>
+        <id>https://honeymoe.github.io/janyu_sanma01/</id>
+        <link href="https://honeymoe.github.io/janyu_sanma01/">
         </link>
-        <updated>2020-11-16T00:47:05.000Z</updated>
-        <content type="html"><![CDATA[<p>上一章，我们重点关注了立直家的「切5p」。本次我们着眼于立直宣言牌，讨论所谓宣言两侧（侧听，ソバテン，天妇罗荞麦面）的危险度。</p>
-<h3 id="立直宣言两侧并不更危险">立直宣言两侧并不更危险</h3>
-<p>首先，我们直接大致考虑「宣言两侧更危险吗」。具体来说，就是紧贴立直宣言牌，以及相隔1的牌，这两者的危险度表示为「宣言两侧的危险度」，按是否宣言两侧来比较牌的危险度。</p>
-<p>查阅（表30-1），可知除1p外，<strong>位于宣言牌两侧时反而比并非如此时更安全</strong>。例如，宣言两侧的无筋3p危险度为12%，比并非两侧时的15%反而更低。由于并不降低到筋牌水平，因此也不能说宣言两侧更安全，但就总体而言不能说「宣言两侧牌更危险」。由此可以推论，实战中「完全一向听」也并不是那么多。（*：<s>再说完全一向听视进张也可能听另一侧</s>）</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13337257/picture_pc_6e82df490db81b48526a50bd1389dc27.jpg" alt="img" loading="lazy"></figure>
-<h3 id="更危险的模式">更危险的模式</h3>
-<p>话虽如此，也有反而更危险的情况。让我们来关注具体宣言两侧更加危险的情况。尤其更危险的是，<strong>切3p立直时的1p，切2p立直时的1p，切1p立直时的2p</strong>。例如，切2p立直时1p的危险度为10%，比全体的4.5%更高。尤其是当2p还是筋时，危险度更高。宣言牌两侧不适用筋牌理论。</p>
-<p>其理由在于，112p、113p、112p这样的复合搭子并不那么容易形成面子而留到最后，听牌时不外乎切2p听1p，听3p听1p，切1p听2p。</p>
-<p>然而，仅仅如此则浮光掠影浅尝辄止。因而在此，不仅仅只看宣言牌两侧，而是回溯此前所切的牌来看。</p>
-<h3 id="宣言两侧牌更危险的形成机制">宣言两侧牌更危险的形成机制</h3>
-<p>接下来以饼子1~9按顺序排列展开，但索子也是一样的，并且以5中轴对称依然成立。整理成列表将近（表30-1）的10倍，因而在此进列举危险形。</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13337264/picture_pc_58c6b3599f54005d3c6fb8987207efcf.jpg" alt="img" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13337267/picture_pc_cd44220b1519d364310d819caa656b8f.jpg" alt="img" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13337273/picture_pc_e6f8318b2f687cec94fb11ef7d34f7bf.jpg" alt="img" loading="lazy"></figure>
-<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13337324/picture_pc_9438716e67e45d031db2d4a678aab07e.jpg" alt="img" loading="lazy"></figure>
-<figure data-type="image" tabindex="6"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13337280/picture_pc_0f698ef6fd2123a5793da9de9112ebe5.jpg" alt="img" loading="lazy"></figure>
-<figure data-type="image" tabindex="7"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13337288/picture_pc_8a9bfac8437aaa2a34561c2081857648.jpg" alt="img" loading="lazy"></figure>
-<p>如何？是否感到酒足饭饱？数量实在过多，死记硬背不现实，但「卧槽这谁看得下去啊」然后随便看几眼跳过并不是端正的态度。</p>
-<p>当对手的舍牌是上述模式，则保留有这些牌型的可能性很高。只要脑内反复处理，则实力就会有所提升。三麻比四麻的枚数更少，而危险牌放铳的可能性也就随之增加。三麻是牌效率的游戏，换言之也是读舍牌的游戏。劝君莫囫囵吞枣，劝君常温故知新。</p>
-<p>例如，切过4p2p再立直则1p的危险度升高，但若此时场上1p已经可见2枚，则此时就不再危险，而所听牌在不在其附近的可能性亦上升了。如此，对很可能出现的模式，以及看起来很像的模式，做一个列举并消除，并以熟练运用这一技巧为目标吧。</p>
-<h3 id="危险的宣言两侧总结">危险的宣言两侧总结</h3>
-<p>那么，总结上述，则两侧更危险的情形如下：</p>
-<ul>
-<li><strong>拆两面搭子的情况（仅限无筋）</strong></li>
-<li><strong>事前切过距离4的牌，而宣言牌是距离2的牌时（例如，切6p→4p，此时的无筋2p）</strong></li>
-<li><strong>此前切过骗筋牌时，切1p后的筋2p，切2p后的筋1p，切3p后的筋1p，切1p后的筋3p</strong></li>
-<li><strong>宣言牌骗筋时，事前切过同一张牌</strong></li>
-</ul>
-<p>对重要的情形我给出了具体数值。尤其是筋牌更危险的情况需要注意！再重复一次，宣言两侧和不适用于筋牌理论。筋牌理论仅能让大家不铳两面好形，当有强力证据显示很可能是愚形听牌则危险度大幅提升。</p>
-<h3 id="切字牌立直则无骗筋">切字牌立直则无骗筋</h3>
-<p>最后，关于切字牌立直。<strong>切字牌立直时，筋23p的危险度会下降</strong>。因为此时听好形的比例上升了。我想这也是大家普遍爱用的一条知识。「切字牌立直则无关骗筋」这一短句还请记住。</p>
-<figure data-type="image" tabindex="8"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13335119/picture_pc_2c0bda63f6577d2f9a2973f526901b2c.jpg" alt="img" loading="lazy"></figure>
-<h3 id="对手舍牌反牌效则怀疑听宣言两侧">对手舍牌反牌效，则怀疑听宣言两侧</h3>
-<p>文章一开始不是写「宣言两侧不危险」吗。如果没有任何额外信息，那当然会变成这样啦。</p>
-<p>然而，先切出了3~7的数字，而立直宣言牌确是1或者2，考虑到从牌的功能上越靠近中间越能有效利用而往往保留到之后，那这个例子就和原本应该有的顺序相违背。此时，可以认为他手中必然有宣言附近的牌，尽管不能确定听的是不是附近牌。</p>
-<p>这就是答案。如果舍牌纯牌效，就不必在意听宣言两侧。舍牌反牌效时，保留这张牌后切必然有其意义，那么听宣言侧的比例就会提高。此时，记住本专题中给出的各种模式会很有帮助。</p>
-<h3 id="为了防止被读牌而反牌效打牌可行吗">为了防止被读牌而反牌效打牌可行吗？</h3>
-<p>可能算扯点闲话，反过来利用这种「读牌」，纯为误导对手而故意保留无用牌的事情我偶尔也做。最典型的就是原本留作七对子听牌的风故意留到最后，再作为宣言牌立直，由于也不能排除七对可能，对方没法切的牌就更多了。</p>
-<p>天凤上有个人的ID是神速★.com，他是三麻对局数第一的怪人，打法也非常奇怪。第一切固定两面、而到第3巡为止连续切中张牌走纯牌效。像我会从第一切开始根据对手的舍牌而调整打法，这人让我非常头疼。和他同桌难分胜负，真是被骗了个惨。</p>
-<p>以不合常理的顺序打牌，在和不特定多数的玩家对局时一定是吃亏的，但当对手固定时倒也亦无不可。由于三麻中读牌还是很重要的，我觉得也会有奇效。</p>
-<p>在是否染手很微妙时，若留下其他颜色则很难判读。又时也会喜铳染手高打点，意外强力。默听时打点也不不容小觑。</p>
-<p>无自摸损那就纯是自摸的游戏了，默听狙击荣和的好处很小，老老实实以最大枚数的两面自摸比较强。同时，有自摸损的规则荣和也很重要，默听诈一手应该都是可行的。</p>
+        <updated>2020-11-16T01:20:31.000Z</updated>
+        <content type="html"><![CDATA[<p>原文：https://jantama.sinoa.ws/blog/?p=1120</p>
+<h1 id="三麻讲座第1回-门清的行牌">三麻讲座第1回　门清的行牌</h1>
+<p><strong>第1节课。直入主题吧。</strong></p>
+<figure data-type="image" tabindex="1"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-9.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-9.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>现在是东1局0本场，第2巡，下家切出了役牌东。那么我们是鸣牌还是不鸣呢？这牌鸣了也赢不了。为什么不鸣牌呢？我这手牌充满了（1）鸣牌了牌也非常小 （2）距离和牌尚远 （3）有2个愚形搭子 这些蛋疼要素。也就是说，「三麻的基础是以门清推进，而后立直。」</strong></p>
+<figure data-type="image" tabindex="2"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-10.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-10.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>第8巡，上家庄打出了东，但这也得PASS。若碰了这一枚东，则针对拔北2枚的庄家，自己手上就没有安牌；需要拆两面对子这一强搭子；不仅手牌小，还可能沦落到愚形听宝牌的地步，因此也不能鸣牌。</strong></p>
+<figure data-type="image" tabindex="3"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-11.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-11.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>14巡，遭遇下家立直后，自己147s（剩8枚）三面听牌，自己剩下的摸牌只剩2~3回，尽管7p可见4枚但宝牌8p完全看不到。再加上下家手切9p，几乎可以确定他拿着8p的暗刻或对子。那么此时是否立直呢，我是选立直的。至于何以做出这一判断，思路如下：（1）临近终局却还留有8枚的三面张听牌，且下家不是听147s，因此必可以期待荣和。（2）由于他是拆78s立直，且场上可见字牌7种，因此几乎可以确定他是好形听牌（则我摸切宝牌放铳的可能性非常低）(3)正面对攻一决胜负切的是绝对安牌9p，自己和下家都是闲家拔北0枚需要的要求打点是3000点，而此时我们假定下家拔北2枚，要求打点为5200点。若我不是三面以上的听牌，那还是弃和为妙。</p>
+<figure data-type="image" tabindex="4"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-12.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-12.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<h5 id="结果拔北岭上自摸-就开局那破牌来说真是给力了">结果拔北岭上自摸。就开局那破牌来说真是给力了！</h5>
+<figure data-type="image" tabindex="5"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-13.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-13.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>东3局0本场，第5巡，役牌副露对攻。此时拔北3枚的上家打出了白……当然PASS。理由是，这哥俩手牌速度快打点高已是昭然若揭。我要是碰白进攻，那就没安牌了，此时还是不鸣为妙。</p>
+<p>若是摸进56p，3s或白，则立直决胜。摸进9p则默听，若不幸摸进4s则只能忍痛弃和。但至少手里有4枚安牌，弃和防守应该难出纰缪。</p>
+<figure data-type="image" tabindex="6"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-14.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-14.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>下一巡，摸进6p，是可以追求最高目打点的听牌。我个人此时会即立。首先其他家也不可能弃和，壁牌9p和白是相当强力的听牌。</p>
+<figure data-type="image" tabindex="7"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-15.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-15.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>喜闻乐见，下家很快就摸进白板送了我一个满贯。<s>（要是我摸进1p那这一把就可直通结局，趁早谢幕了。）</s></p>
+<figure data-type="image" tabindex="8"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-16.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-16.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>南1局1本场，第12巡 庄家先制立直，虽说我手上有4张宝牌，但还是切中迂回。（中是下家打出之后摸进的）</p>
+<figure data-type="image" tabindex="9"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-17.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-17.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>行吧。现在两家立直了。弃和啦弃和。若庄家喜铳末位下家，岂不美哉！老实弃和就好啦。</p>
+<figure data-type="image" tabindex="10"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-18.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-18.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>末位下家倍满自摸。比我想的要大不少，但就这样也比庄家连庄好得多，那也没什么可抱怨的。</p>
+<figure data-type="image" tabindex="11"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-19.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-19.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>南2局0本场，第5巡听牌。可选的有，嵌张5p默听，嵌张5p立直，14s立直，69s立直，这样4个。不过嘛，基本上大家都会……</p>
+<figure data-type="image" tabindex="12"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-20.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-20.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>这么做的吧。</p>
+<figure data-type="image" tabindex="13"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-21.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-21.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>荣和下家，并喜中里3。</p>
+<figure data-type="image" tabindex="14"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-23.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-23.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>南2局1本场，第7巡。若有人打出宝牌东，则铁碰。由于两位看起来都挺快的，所以我选择最大进张的打法，不打9p而是打1p。</p>
+<figure data-type="image" tabindex="15"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-24.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-24.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>第9巡，摸进红5s。考虑门清和牌的可能性，选择打9p。</p>
+<figure data-type="image" tabindex="16"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-25.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-25.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>要是先摸进47s则应该默听，我倒是想做这么一番解说啦，但已经有人捷足先登和牌了。唯我一人领先的状态冲进了ALL LAST。</p>
+<figure data-type="image" tabindex="17"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-26.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/10/7dd4c3f74f006b34bb1d70d7adebd54e-26.png?fit=1000%2C563&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>纯牌效和牌了，ALL LAST没什么可说的。</p>
+<p>就这样，平安1位结束。我的感想也就只有运气不错。是，杂七杂八说了一堆可能搞不清我想表达的内容了，那我做一个总结。</p>
+<h4 id="~总结~">～总结～</h4>
+<p>若是集齐了以下要素：</p>
+<p>1.鸣完牌很小</p>
+<p>2.距离和牌尚远</p>
+<p>3.愚形搭子很多</p>
+<p>则「哎呀发现役牌！咱碰！」会很难赢。请以「三麻基本上都以门清推进，追求立直」为基础来行牌吧。只不过，也必然存在很多不立直更优的局面。（我会做一些解说的）要是找出了合适的牌谱我会再写一篇文章。顺便，这个牌谱我一次就搞到了。啊真是运气不错从啊。感谢诸位相伴到最后。那么，再会～</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】29　舍牌切5p]]></title>
-        <id>https://honeymoe.github.io/data29/</id>
-        <link href="https://honeymoe.github.io/data29/">
+        <title type="html"><![CDATA[【不是汉化组】【雀愉麻将讲座】默听制胜麻将讲座 第1回]]></title>
+        <id>https://honeymoe.github.io/janyu_dama01/</id>
+        <link href="https://honeymoe.github.io/janyu_dama01/">
         </link>
-        <updated>2020-11-16T00:45:31.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="难以归纳至里筋普遍理论中的切5p">难以归纳至里筋普遍理论中的切5p</h3>
-<p>接下来，我们来看所谓的「读铳牌」在何种程度上有效。由于数据分类过于细碎，在此只以第9巡的危险度为例。</p>
-<p>首先，我们关注一下「切5p」。四麻中也有「切5p则1p危险」的理论，和提供理论支持的数据。那么，三麻如何呢？</p>
-<p>虽说多少显得复杂，但出于说明的需要，我们将半筋4p分为半筋4pA和半筋4pB。半筋4pA是指，切过1p的半筋47p。半筋4pB是指，切过7p的半筋14p。手牌覆盖5p的是A（*切1,以56听47时的4），而不覆盖5p（*切7以23听14时的4）的则是B。请在理解这一定义的基础上，阅读以下内容。（*译注：切1时的4视为半筋，而切1时的7应该是被视为无筋，参考无筋3p的一栏）</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13328355/picture_pc_5d64a9b85e38a090d84cea3ff6561eda.jpg" alt="img" loading="lazy"></figure>
-<h3 id="切出5p的1p相当危险">切出5p的1p相当危险</h3>
-<p>且看（表29-1），**事前切出过5p的话，无筋1p的危险度为18%，半筋4pB的危险度为14%。**由于全体无筋1p的危险度为13%，半筋4pB的危险度为11%，因此相比而言，此时的危险度提升了不少。</p>
-<p>当所切的是红5p时，这一倾向更为显著。<strong>事前切出过红5p时，无筋1p的危险度为20%，半筋4pB的危险度为17%</strong>，比平时的数字高出不少。</p>
-<p>以上这么多也就是说，舍牌切出5p是，有可观的概率手中捏着2p3p（或7p8p）。当这是红5p时，这一概率更高。</p>
-<h3 id="56听47反而更少">56听47反而更少</h3>
-<p>与之相对的现象同时也发生了。事前切出过5p的话，<strong>半筋4pA的危险度仅为6%，和普通筋牌差不多安全。同时，事前切过红5p时，无筋3p的危险度为6%，半筋4pA的危险度为1%</strong>，后者的安全度与地狱听相同。与此同时，切<strong>红5p立直的无筋3p危险度为9%，半筋4pA的危险度为3%</strong>，前者是筋2p、3p水平，后者是筋1p水平的安全度。</p>
-<p>换句话说，事前切过5p而听36p或47p的情况很少。若不是手牌已经非常规整，则几乎不会有445p、556p中先切5p的事发生。</p>
-<p>当这是红5p时更明显。切红5p而把普通45p、56p拿在手里、不按常理出牌的人的人还是很稀有的。（*欢迎加入神仙局）</p>
-<p>我们来看一个更有趣的数据。事前切过5p和1p时，<strong>筋2p的危险度4%，筋3p的危险度3%</strong>，比平时的数值更低。由于普遍很少先固定边张嵌张，筋牌放铳就会比较少。（/*译：筋2p，只铳13p听2p，按牌效往往保留135p两嵌。筋3p，只铳12p、24p，按牌效往往保留112p，或45p。）</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13328368/picture_pc_e53ee25f56e887b6ced2b3f9dd3151ca.jpg" alt="img" loading="lazy"></figure>
-<p>假设我们碰到了立直家有这样的舍牌牌河，2s的危险度为3.8%，8s的危险度为6.4%，有近1倍的差距。</p>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13328294/picture_pc_483f3dd9287ad8a35fb56c2ea50f2d93.jpg" alt="img" loading="lazy"></figure>
-<h3 id="早巡切5p是关键情报">早巡切5p是关键情报</h3>
-<p>三麻只有2色数牌，不管怎么想，早打其中一色的5p都和其手牌有很大关联性。三麻中若缺一色，就只剩另一种颜色了。要是不用这个5，却能组成4面子1雀头，这一颜色和另一颜色的危险度都会高不少。（*译：一共2色，他在说啥理所当然的呢？）</p>
-<p>三麻的筋牌对，索子筒子各有6组、加起来一共12组。消去早早打出中张的那4组，只剩8组了。这8组里，中奖的可能性就可期了。</p>
-<h3 id="更加极端的切红5p">更加极端的切红5p</h3>
-<p>切了红5p，这一色的1p（4p）和6p（9p）要是能通过的话，基本上这一颜色全都能通过了。所以说，要是把红5拍在牌河里，这种牌河就太弱了。毕竟是宝牌当然想要尽其用武之地，切走红5会导致牌河过弱，所以我常常会选择留住红5。</p>
-<p>虽说切5p容易骗到3p或2p，但打三麻的时候，切出红5则一大片牌都能通过。当对手实力很强的时候，也可能会遇到做手牌边张听3p7p，从而不打出，这么类情况。</p>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13328423/picture_pc_ab8603a4016b02d14ab627e7f18e07d3.jpg" alt="img" loading="lazy"></figure>
+        <updated>2020-11-16T01:19:22.000Z</updated>
+        <content type="html"><![CDATA[<p>原文：https://jantama.sinoa.ws/blog/?p=814</p>
+<h1 id="ダマで勝つ麻雀講座-第1回">ダマで勝つ麻雀講座 第1回</h1>
+<p><strong>１．本稿的目的</strong></p>
+<p>现如今，数据表明在多数情况下都是立直铁强。</p>
+<p>然而也会遇到「不想掏出立直棒」「不想立直让手牌固定死」的局面。</p>
+<p>本稿中，希望能够让意识到这类局面的各位，</p>
+<p>得到我关于「<strong>不立直却能赢（和牌）的打牌方式</strong>」的一些经验。</p>
+<p>亦即，本稿会注重于比听牌时立直判断更早的巡目的着墨。</p>
+<p>若本文正在阅读的诸位得到一些启发，则幸甚。</p>
+<p>＜目标人群＞</p>
+<p>在面临不想立直的局面时，自配牌时起烦恼应该如何打牌的诸位</p>
+<p></p>
+<p><strong>２．简单的自我介绍</strong>战绩请参考以下：<br>
+https://jantama.sinoa.ws/blog/?p=443</p>
+<figure data-type="image" tabindex="1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/06/7dd4c3f74f006b34bb1d70d7adebd54e-6.png?resize=1024%2C105&amp;ssl=1" alt="img" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/06/7dd4c3f74f006b34bb1d70d7adebd54e-7.png?ssl=1" alt="img" loading="lazy"></figure>
+<p>根据三人麻将：数据制胜（著：みーにん），天凤四麻凤凰卓东南战的立直率平均为16.7%。我的立直率之所以低于平均，可以考虑有如下3点因素，本稿中主要讨论涉及①的对应。</p>
+<p><strong>①判断此时不应该立直的局面多于平均。</strong></p>
+<p>②即使不立直打点也充足的情况多于平均。</p>
+<p>③不立直而选择副露以求和牌的场合多于平均。</p>
+<p><strong>３．配牌时应当思考的内容</strong></p>
+<p>以下面这些情报为依据，可以判断此时并非应当立直的局面。</p>
+<p>也就是说，立直与否是由<strong>本局的目标</strong>决定的。</p>
+<p>●自家、各家的点数情况</p>
+<p>●当前的局数进展（译：东1or南4）</p>
+<p>以上两点是弄清楚本局若自己需要和牌则应该以多少点为目标，相对地放铳则可以容忍的最大点数是多少，所需要的必要情报。</p>
+<p>※「在怎样的情况下还是不立直为妙」的解说在此割爱。</p>
+<p>当自己不想立直的时候，拿到配牌时应该考虑的事情如下：</p>
+<p><strong>●确定本局目标打点，确保所需要的役种，缩小和牌形可能的范围。</strong></p>
+<p>【具体例】</p>
+<figure data-type="image" tabindex="3"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_0.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_0.png?resize=1024%2C576&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p>这一幕发生在南4局。整理一下场况：</p>
+<p>●若我掏出立直棒，则和4位（上家）的点差会不足8000。</p>
+<p>●和2位的点差不足7700，且我一个满贯自摸就能拿到1位。</p>
+<p>●若上家满贯自摸，则我就会4位西入。</p>
+<p>由于雀魂也存在避4倾向，那么本局的目标可设定为「<strong>不被上家4100点以上直击或满贯自摸，不放铳对家12000点以上，不放铳下家9600点以上。</strong>」和牌目标可以是「最速」「直击对家3900」「满贯自摸」之一。</p>
+<p>根据这一手配牌，可以按「234、678、789的三色平和」，「宝牌9s的重叠」「摸进赤宝牌」的和牌形为轴进行。</p>
+<p><strong>４．序盘应该考虑的事</strong></p>
+<p>自拿到配牌后经过几巡，我们得到了一些新的情报：</p>
+<p>●拿到配牌时我们所设想的和牌形中，实现可能性较高的是哪些役。</p>
+<p>●本局中，别家目标的大致印象</p>
+<p>也就是说，一边确认别家的牌河、进攻态势，想象他打算通过什么役和牌，判断自己和牌的可能性的高低。</p>
+<p>当不想立直时，从序盘开始应当考虑的事项如下：</p>
+<p><strong>●如上所述对「实现可能性较高的役」而言所必要的牌形，固定构成其所需的各牌团。</strong></p>
+<p>想必在座已有人发现了，这就是所谓的「定型打（決め打ち）」。</p>
+<p>【具体例】</p>
+<figure data-type="image" tabindex="4"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_3.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_3.png?resize=1024%2C576&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>此时第3巡</strong></p>
+<p>此时，若不立直则很难满贯自摸。</p>
+<p>下家切出宝牌9s，对家看起来手牌可怕的快or染索子or七对・全带（都可能用上宝牌9s），所以我做出上述结论。</p>
+<p>因此，应当重视「最速」和牌，而放弃678的三色，更期待摸进宝牌。</p>
+<figure data-type="image" tabindex="5"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_4.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_4.png?resize=1024%2C576&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>此时第4巡。</strong></p>
+<p>摸进5p，导致234三色的实现可能性变低，因此放手2m。</p>
+<figure data-type="image" tabindex="6"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_5.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_5.png?resize=1024%2C576&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>此时第5巡。</strong></p>
+<p>对家打7m后打9m，开始拆搭子，下家打5p后打4p（摸切）。</p>
+<p>受此影响，选择更容易好形听牌的打9s。</p>
+<p>※再次检讨时发现，若此时摸进9s则3900点听牌，而摸进红5s自摸和牌又太难受，此时考虑到速度和打点的平衡，不应该打9s而是打6s更好。</p>
+<p></p>
+<p><strong>５．中巡・尾巡应当考虑的</strong></p>
+<p>自序盘起又经过几巡，又得到了以下新情报。</p>
+<p>●配牌、序盘时被弃置的役种候补，是否在中盘时实现的可能性有所提高。</p>
+<p>●宝牌的分布位置（只是推想，随巡目渐深会更加明了）</p>
+<p>●对别家目标之印象会更加鲜明</p>
+<p>虽然这要看每回合摸进牌的情况，但也存在配牌或早巡时看不出来的役种有实现的可能。</p>
+<p>此时，请勿忘记最初的目标，而以更容易形成好形听牌的役为目标前进吧。</p>
+<p>同时，对别家牌形更加鲜明的印象可推测，</p>
+<p><strong>「谁手上有几枚宝牌（牌山里有几枚）」</strong></p>
+<p>也是隐约可以推知的。</p>
+<p>想定宝牌之所在，则也会较容易确定别家的打点。</p>
+<p>一直到这一章节才第一次说起这个话题，我感到十分抱歉，那就是：</p>
+<p><strong>不想立直，其实往往是一种「形势已经如此之严峻」的情况</strong></p>
+<p>为了达成本局的目标，哪怕显得一意孤行，也应当想象别家的打点，并<strong>灵活利用别家</strong>。</p>
+<p>【具体例】</p>
+<figure data-type="image" tabindex="7"><a href="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_9.png?ssl=1"><img src="https://i1.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_9.png?resize=1024%2C576&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>目前第9巡</strong>。</p>
+<p>8s已经可见3枚，为了保证听牌时有役，此时选择打6s。</p>
+<p>※这次选择从内侧开始切。若选择切7s，则摸进3s也能听牌，但这样会变成听嵌5s，由于上家和对家都还没切过索子，我们判断如此听牌的价值较低。</p>
+<figure data-type="image" tabindex="8"><a href="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_12.png?ssl=1"><img src="https://i0.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_12.png?resize=1024%2C576&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>此时第12巡</strong></p>
+<p>先前上家切出了宝牌9s，此后手切了8p。</p>
+<p>看得出上家的目标很可能要不是直击我，就是打算满贯自摸。</p>
+<p>可以推想的是，他至少有1枚赤宝牌，手上染成了索子（他切南相当早，所以可能性较低），数字偏小的三色同顺（多半是234）吧。</p>
+<p>※那时的我甚至觉得他莫不是把8p作为临时安牌留在了手上。</p>
+<p>我摸到的是生张的中，考虑到以下这些要素，我选择了切中。</p>
+<p>■如果上家鸣牌：</p>
+<p>​	那么他想要达到4500以上的打点，则需要杠或2枚赤宝牌、对对或白。</p>
+<p>​	若我被上家鸣牌，则此后再也不切任何对上家有利的牌，并尽可能切对对家・下家有利的牌以求结束这一局。</p>
+<p>■如果上家和牌：<br>
+　则可以想见为七对dora2，或中三色（恐怕多半是234这样偏小数字的三色）。</p>
+<p>​	那么上一巡打8p则是七对子的换听（8p→中）的可能性也不容否定，无论哪种情况都是立直可达到跳满的一手牌（若有跳满，则商家不论荣谁都能避四），那他默听的可能性就不高。我做出了如此的判断。</p>
+<p>■如果对家或下家鸣牌：<br>
+　那么则可以期待这两位积极进攻破坏上家的和牌。<br>
+尤其是对家、下家目前正处在争夺1800点差的局面中，可以判断他们两位正在竭力抢和，我们甚至可以考虑电报喂牌。</p>
+<p>​	<strong>※实际上，若对家放铳上家7700或8000点，则我就能2位。</strong><br>
+　<strong>为此，我们也希望能够让对家的手牌变短，以期隔岸观火、挑拨上家和对家的竞争。</strong></p>
+<p>■如果对家或下家和牌：</p>
+<p>​	宝牌9s已经4枚全可见，又由于上家应该持有1枚以上的赤宝牌，对家・下家应该是在拼速度，我想打点应该比较有限。</p>
+<p>​	（若下家是万子混一色而我喜铳中，则我只能漂亮去世。喜铳双响亦然。）</p>
+<p>■如果我扣中不放：<br>
+　则我可以妨碍上家，同时可能会形成对对家・下家的扣牌防御。</p>
+<p>​	有役的和牌是123p，234p的一杯口，然而显然很难打万子或索子和万子向他家进攻，那么实质上自己的手牌就和死透了一样。</p>
+<figure data-type="image" tabindex="9"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_13.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_13.png?resize=1024%2C576&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>此时第13巡。</strong></p>
+<p>对家碰中打4s，只要不是索子混一色对对中再加点什么，那么送和也是OK的。</p>
+<p>再加上，上家手切7p立直。</p>
+<p>考虑到前一巡的8p，可能是为了消除振听而切搭子后马上立直，所以难以判断是好形还是愚形。</p>
+<p>我偶然摸进7s，听牌了。</p>
+<p>我考虑到下家很可能持有大量的万子（若侥幸能得助消除一发），切9m维持听牌。</p>
+<figure data-type="image" tabindex="10"><a href="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_14.png?ssl=1"><img src="https://i2.wp.com/jantama.sinoa.ws/blog/wp-content/uploads/2019/08/20190810_14.png?resize=1024%2C576&amp;ssl=1" alt="img" loading="lazy"></a></figure>
+<p><strong>此时第14巡。</strong></p>
+<p>对家切1s铳上家7700点，于是我平安吃2。</p>
+<p>达成当初的目标的同时，得到了与直击对家3900点几乎相同的结果。</p>
+<p></p>
+<p><strong>６．总结</strong></p>
+<p>配牌时决定应当达成的役种之候补。</p>
+<p>序盘限定实现可能性较高的役的范围。</p>
+<p>中巡、晚巡一边推测宝牌的分布位置，一边考虑助攻其他家以达成目的。</p>
+<p>通过以上种种操作，可以突破让人不想立直的困难场合。</p>
+<p>本稿中，未能提供大量的具体实例。但想必有很多人会对逆重视效率的「5牌团理论」「最速听牌先制立直」的大势而上，反而选择让听牌更遥远的切牌感到犹豫不决。</p>
+<p>我在此想传达给诸位的，是「<strong>每一局，都要有自己设定的目标</strong>」。</p>
+<p>（也就是说，本局所应该追求的是高打点，还是最快结束一局，还是让别家和牌亦无不可的手牌）</p>
+<p>若这是一个不宜立直的局面，则应该极力避免若不立直则无法达成目标的窘境。希望大家在意识的一隅能够留有这样的想法，那么就不枉我一席话语。</p>
+<p>感谢大家阅读到这里，谢谢。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】28　立直骗筋的危险度]]></title>
-        <id>https://honeymoe.github.io/data28/</id>
-        <link href="https://honeymoe.github.io/data28/">
+        <title type="html"><![CDATA[【不是汉化组】【现代麻将技术论】讲座27　全弃的思路]]></title>
+        <id>https://honeymoe.github.io/genma27/</id>
+        <link href="https://honeymoe.github.io/genma27/">
         </link>
-        <updated>2020-11-13T08:20:29.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="危险度介于筋牌和无筋中间">危险度介于筋牌和无筋中间</h3>
-<p>三麻中，立直宣言牌的筋牌，所谓的立直骗筋的危险度如何呢？立直引挂的危险度如（图28-1）（图28-2）（图28-3）所示。让我们以第9巡为中心看各项数据。</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13303423/picture_pc_673acc260026a66eabb13c5aed3d1193.jpg" alt="img" loading="lazy"></figure>
-<p>首先立直骗筋3p的危险度为11%。比无筋3p（危险度14%）更安全，但比筋牌3p（危险度8%）更危险，和半筋4p5p（11%）在同一水平。另外，立直骗筋2p的危险度为9%，和3p一样处在无筋（13%）和筋牌（6%）的中间位置。</p>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13303425/picture_pc_7074ef92e40d84a9721c92d02d6f4d5e.jpg" alt="img" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13303426/picture_pc_e6596b5e2d5fcd29058746602fde6698.jpg" alt="img" loading="lazy"></figure>
-<p>再重复一遍，结论而言立直宣言牌的筋比普通筋牌危险，但比无筋更安全，危险度恰在其中间。</p>
-<p>立直宣言筋比普通筋牌更危险的机理是，两嵌搭子尚堪一用便总之留在手上，而留到听牌时便成为了立直骗筋。例如以下有1枚拔北宝牌的时候：</p>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13303428/picture_pc_885003f6c2da2db78e7e1633fc02f409.jpg" alt="img" loading="lazy"></figure>
-<p>这样的手牌，往往前者切5p，后者切6p立直。这种选择由牌谱解析的结果可以得知。</p>
-<p>那么，不符合这一前提的筋1p，其被立直骗筋的危险度就降低了。看（图28-3）可知，立直宣言筋1p的危险度为5%，与筋牌全体的数字并无大差别。筋1p没有必要担心被立直骗筋。</p>
-<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13303421/picture_pc_db601fbd896fbf381c92ccda6c81751b.jpg" alt="img" loading="lazy"></figure>
-<h3 id="危险度会随巡目而大幅改变">危险度会随巡目而大幅改变</h3>
-<p>若立直后无筋陆陆续续地通过，那剩余的无筋自不必言，立直骗筋的危险度也会提升。此时，视立直筋为无筋，弃和。由于危险度会随巡目而改变，所以关键是意识着巡目和未现筋牌对来思考危险度。</p>
-<p>试着比较无筋1p和立直宣言筋2p3p，立直宣言筋的2p3p稍安全一点。但果然还是比较未现，当做无筋来打也完全没有问题。</p>
+        <updated>2020-11-16T01:17:26.000Z</updated>
+        <content type="html"><![CDATA[<p>正确的弃和技术，甚至会比做牌更频繁地被运用，且容易对结果造成影响。</p>
+<h4 id="不是去寻找危险牌而是去寻找安全牌">不是去寻找危险牌，而是去寻找安全牌</h4>
+<p>所谓全弃（ベタオリ），是指完全不考虑自己的和牌，而以极力降低自己的放铳失分为目的，切最安全牌的选择。</p>
+<p>面对别家的攻击，首先应当判断此时是应当进攻还是应当防守。若是应该进攻，则即使将要切的牌略有危险度的差别，也应该以最大程度的和牌为目标做出选择。若是应该防守，则选择切最安全的牌在多数情况下都是有利的。因此，相较于「寻找危险牌」的技术，「寻找安全牌」的技术更加重要。（→表A）</p>
+<table>
+<thead>
+<tr>
+<th>——</th>
+<th>现物</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A级</td>
+<td>3枚现字牌</td>
+</tr>
+<tr>
+<td>B级</td>
+<td>筋牌19</td>
+</tr>
+<tr>
+<td>C级</td>
+<td>2枚现字牌、两筋456、1枚现字牌</td>
+</tr>
+<tr>
+<td>D级</td>
+<td>筋牌28、筋牌37</td>
+</tr>
+<tr>
+<td>E级</td>
+<td>无筋19、半筋456、无筋28、无筋37</td>
+</tr>
+<tr>
+<td>F级</td>
+<td>两无筋456</td>
+</tr>
+</tbody>
+</table>
+<p>排在上面则更安全（基本上靠左的更安全，但总体在同一水平所以也会有倒过来的情况）。此表尤其重要，请务必记住。</p>
+<p>要点：<em><strong>若应当弃和，则彻底全弃。</strong></em></p>
+<p>再说一次，若应当弃和，则即使要放弃和牌、拆开面子，选择切最安全的一枚也是基础，选择「比较安全的牌」的同时以和牌为目标往往会吃亏。当然，若能一边切安全牌的同时还向着和牌或听牌前进则再好不过，但相比面对应当弃和的手牌时贯彻彻底弃和的技术而言，重要度还是稍逊一筹。</p>
+<p>要点：比起「读牌」更应当重视牌的组合</p>
+<p>在做牌时，比起牌手的主观意志，统计上而言面子的构成难度所存在的客观差别占据更大的因素。同样地，在寻找安全牌这一点上，比起读手牌，由牌的组合可推知其成为他家所听牌的困难程度，作为依据更为可靠。</p>
+<p>然而，「读牌」仅仅只是重要度更低，并不是说完全无用。尤其是，当仅靠牌的组合判断两种选择的放铳率相仿时，或对方是成形的副露手，在某种程度上可以推断限定时，全弃或攻防的判断上可以考虑「读牌」的情形会多一些。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【不是汉化组】【数据制胜：三人麻将】27　早外的安全度]]></title>
-        <id>https://honeymoe.github.io/data27/</id>
-        <link href="https://honeymoe.github.io/data27/">
+        <title type="html"><![CDATA[【不是汉化组】【多面张理论】１．顺子的法则（手牌无暗刻）]]></title>
+        <id>https://honeymoe.github.io/tamen02/</id>
+        <link href="https://honeymoe.github.io/tamen02/">
         </link>
-        <updated>2020-11-13T08:19:58.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="背离普遍结论的是">背离普遍结论的是？</h3>
-<p>接下来我们讨论颠覆了专题26所统计的各牌危险度顺序的各种情况，让我们以数据检验，这一部分也还挺重要的。</p>
-<p>我们来设想这样的情况。自己有5万点一位，拔北2枚的闲家立直了。自己的手牌还是两向听，只好弃和了，但现物和筋牌都已经切完，只剩无筋。这时怎么办才好呢？</p>
-<p>固然也能如专题26的顺序，选择依次切半筋4p5p。但这里有一点希望大家注意，那便是立直家在立直宣言前所切牌的外侧。例如立直者切4p时的3p和2p，这些牌的危险度远比平时更低，可以切这些牌渡过难关。</p>
-<p>介绍一下作为根据的数据。请看（图27-1），（图27-2），（图27-3）。这些数据展示了无筋1p、2p、3p各自作为立直家宣告立直前所切牌外侧时的危险度。</p>
-<figure data-type="image" tabindex="1"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13218917/picture_pc_21753accdb82730d6a4666802be5421f.jpg" alt="img" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13218919/picture_pc_f798db6925b9845607a6445c41a39cea.jpg" alt="img" loading="lazy"></figure>
-<figure data-type="image" tabindex="3"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13218922/picture_pc_266f2ec84843d8f431940e7a0d6324b3.jpg" alt="img" loading="lazy"></figure>
-<h3 id="危险度与筋牌同级">危险度与筋牌同级</h3>
-<p>先制立直的平均巡目在8~9巡，我们来看第9巡的数据吧。立直者在宣告立直前切4p的情况下，3p的危险度为9%，和筋牌3p的8%在同一水平。另外，立直者切过3s或4s时，2s的危险度为7%，和筋牌2p的6%在同一水平。是否是早外，会大幅改变此牌的危险度。可以认为，<strong>9巡之前的外侧无筋2p3p和筋牌相仿</strong>。</p>
-<p>我们来看1p。立直者切过7p或8p时，9p的危险度为7%，比筋牌1p的5￥更危险，但相比非外侧的情况相差超过5%。</p>
-<p>从以上数据可知，切舍牌外侧以求渡过难关是十分合理的选择。但是，这里的舍牌不包括立直宣言牌。</p>
-<p>为何会出现这种现象，其理由大致为「立直宣言之前切出的牌，很少有拿着附近搭子的。」例如序盘时，有如下手牌：</p>
-<figure data-type="image" tabindex="4"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13218925/picture_pc_170093ed2dd62db35c6860388cec1f93.jpg" alt="img" loading="lazy"></figure>
-<p>则我们不会切2p或3s，而是先从1m或者中开始切。容易被切出的数牌，更多的是孤立的浮牌，换言之往往并不持有其附近的搭子，所以其外侧更加安全。因此，随着巡目渐深，外侧牌会比筋牌更加危险。</p>
-<h3 id="半筋外侧也很好用">半筋+外侧也很好用</h3>
-<p>运用上述结论，考虑半筋1p4p比较安全的例子。例如，<strong>7p是现物时，4p的危险度，事前切过2p时为5%，切过3p时为6%，仅为无筋全体的数字11%的一半左右</strong>。这也是可堪一用的一条规则，实战中有必要习惯迅速找出半筋+外侧。由于实战中往往容易看丢，这也是容易拉开差距的部分。</p>
-<h3 id="立直前一巡的舍牌也不影响">立直前一巡的舍牌也不影响</h3>
-<p>将这一舍牌外侧更安全的理论（在四麻上）发表时，零散可见「不考虑具体巡目的舍牌外侧数据没有意义。不如说立直前所切牌外侧的危险度反而更高。」的批判。</p>
-<p>对此，我的感想是，「外侧全体而言如本次所提示的数据那样，更安全，而侧听（**ソバテン，指所听牌是所切牌的临近牌）的危险度也仅仅和普通无筋持平。尽管如此，还能让近立直时所手切牌的外侧反而突兀地高吗？」</p>
-<p>证据胜于主张，我试着计算了三麻中立直宣言牌前一巡的手切牌（摸切立直时则为立直宣言牌前2巡的手切牌）的危险度。若取其第9巡的数据刊录于此：</p>
-<figure data-type="image" tabindex="5"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13218927/picture_pc_30f4b305f2028d06ff4bfaffb9864ac5.jpg" alt="img" loading="lazy"></figure>
-<p>（括号内为外侧全体的数据）</p>
-<p>如上，结果与外侧牌全体的数据没有太大差距。即使是**「临近立直宣言时手切的牌的外侧」也和普通外侧一样具备一定的安全度。**</p>
-<p>从全局推断其理由，可能是1种麻将牌仅有4枚，其中2枚都集中到1个人手上是比较少见的。像是提前把手上的344s中的4s切出来以待25s听牌，这么奢侈的搭子扎堆情况也比较少见，诸如此类。</p>
-<p>同时，在比较彼此都是外侧牌时，<strong>相邻2比相邻1更危险</strong>。这是因为113p切3p立直，这类<strong>听双碰的可能性更高</strong>了。</p>
-<figure data-type="image" tabindex="6"><img src="https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/13218704/picture_pc_8d7425a4c7bf678b841b7de542267039.jpg" alt="img" loading="lazy"></figure>
-<h3 id="外侧不可尽信">外侧不可尽信</h3>
-<p>舍牌的外侧在统计上会稍稍安全一点，倒也就真是这样，但你要说是不是就可以切，也并不是。我是觉得临近立直的外侧没那么安全。</p>
-<p>比起四麻，三麻里喜欢先切的人更多。即使好牌先切了，往往也能听牌，再说牌种类也比四麻少所以听牌可能性也很高。所以我并不那么相信这一套。</p>
-<p>舍牌外侧的使用方式，比起「啊这牌安全所以我切」，更像是「啊这一手牌我还想再攻一下，是外侧所以还行吧」的感觉。</p>
-<p>此外，对手手牌中切出3、7的数牌，感觉对手像是已经一向听了，那我好牌先打留安的情况还挺多的。配合对手的速度，自己也会倾向于选择安全。类似这种情况，外侧的安全性也不那么高了，我本人不是那么相信外侧牌。</p>
-<p>一概说是舍牌外侧，但我想也有非常安全的，和普通危险的，平均而言和筋牌相仿。我觉得把各种情况都视同筋牌的危险度不太好。</p>
-<h3 id="从切牌手顺可以判断安全的外侧">从切牌手顺可以判断安全的外侧</h3>
-<p>我比较在意的是切牌手顺。例如切过8p后切5s立直时，8p的外侧我估计和普通无筋不会有太大变化。但要是切过8s后切5s立直，那么8s外侧的9s应该还算安全。那之后若是再切8s、切字牌，那8s的外侧很安全。毫无根据则外侧不怎么可信，而由切牌手顺可知安全的情况有很多，我感觉只在那种时候才好用。</p>
-<p>打三麻的时候，有人啪啪啪地连切同一色立直，即使在同一颜色中也有危险的筋牌和不那么危险的筋牌，常常弄不清楚。这种读牌的有一点就是，考虑外侧可能会更好。</p>
-<p>可以使用的情况是，外侧牌是筋牌时。例如舍牌中有7p，8p和9p是其外侧，之后他们又成了筋牌，则基本上都能通过。这种用法挺有效的。</p>
+        <updated>2020-11-16T01:16:28.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="顺子沿着筋扩展待牌">【顺子沿着筋扩展待牌】</h3>
+<p>麻将听牌的种类分为单骑、两面、双碰的三类。（除国士无双和七对子）</p>
+<p>给这些待牌以特定的关系接上顺子后，有『顺子沿着筋扩展待牌』的法则。</p>
+<p>例如，有一个听5的手牌：</p>
+<p>5+567=5567（听5、8）</p>
+<p>1134+567=1134567（听2、5、8）</p>
+<p>1146+567=1145667（听5、8）</p>
+<p>1155+567=1155567（听1、5、8）</p>
+<p>对于任意听5的牌，加上567的顺子后，追加听8的两面。<strong><u>（顺子的法则1）</u></strong></p>
+<p>5+567=5567（听5、8）</p>
+<p>5+678=5678（听5、8）</p>
+<p>听5单骑时加上678的顺子，追加听8的单骑。<strong><u>（顺子的法则2）</u></strong></p>
+<p>1155+567=1155567（听1、5、8）</p>
+<p>1155+667788=1155667788（听1、5、8）</p>
+<p>听5双碰时加上667788的顺子（一杯口形），追加听8的双碰。<strong><u>（顺子的法则3）</u></strong></p>
+<p>※更严密而理论化的说明亦可，然而目前这样应该更容易记忆。</p>
+<h3 id="没有暗刻的手牌">【没有暗刻的手牌】</h3>
+<p>若手牌没有暗刻，则『将顺子从两端开始固定、遇到听牌则确认是否能按筋牌扩展』，就可以找出手牌全体的听牌了。<strong><u>（顺子的法则4）</u></strong></p>
+<p>例如，手牌为『1233456677889』时，将顺子从左端开始固定，为</p>
+<p>123	345	667788	9</p>
+<p>找到了听9单骑，678的顺子又将其扩展至听6单骑，345的顺子再将其扩展至听3单骑。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【多面张理论】１．写在前面]]></title>
+        <id>https://honeymoe.github.io/tamen01/</id>
+        <link href="https://honeymoe.github.io/tamen01/">
+        </link>
+        <updated>2020-11-16T01:15:35.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="多面张理论是什么">【多面张理论是什么？】</h3>
+<p>以往的多面张技术的中心是记忆基本型的手牌、或不断排列组合手牌来判断待牌。</p>
+<p>对此，多面张理论通过建立规则，将记忆量减小至最低，通过构建一系列步骤，使寻找待牌变得如行云流水。</p>
+<p>另外，多面张的何切问题几乎都是选择听什么牌的问题，只需弄清13张手牌的待牌便也能对应何切问题。</p>
+<h3 id="多面张的构造">【多面张的构造】</h3>
+<p>除国士无双和七对子以外，麻将的听牌可以归类为『单骑』『两面（边张・坎张）』『双碰』的三种之一。</p>
+<p>※多面张理论定义『边张・坎张也包含在两面之中』。</p>
+<p>那么，一切多面张都是这三种类的待牌与顺子或暗刻组合后形成，视其组合方式不同而形成的新的待牌也有其规律可寻。</p>
+<p>※多面张理论定义多面张为『单骑・两面・双碰的待牌与顺子或暗刻组合后导致待牌增加的牌形』。</p>
+<p>多面张理论的法则，解说时将按『顺子的法则（手牌无暗刻）』『暗刻的法则（手牌有一个暗刻）』『暗刻的法则（手牌有复数暗刻）』的顺序进行。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【不是汉化组】【多面张理论】目录]]></title>
+        <id>https://honeymoe.github.io/tamen00/</id>
+        <link href="https://honeymoe.github.io/tamen00/">
+        </link>
+        <updated>2020-11-16T01:14:34.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="多面張理論">多⾯張理論</h2>
+<p>０１・著　https://ameblo.jp/010101/</p>
+<p>萌Q・譯	https://shikkaku.com</p>
+<p>【⽬次】<br>
+１．写在前面<br>
+・多面张理论是什么？<br>
+・多面张的构造<br>
+２．顺子的法则（手牌无暗刻）<br>
+・顺子沿着筋扩展待牌<br>
+・没有暗刻的手牌<br>
+・进入下一章之前<br>
+３．暗刻的法则（手牌有一个暗刻）<br>
+・总之先把暗刻隔离出来<br>
+・暗刻形成了复合型<br>
+・未听牌的场合<br>
+・单骑的复合型<br>
+・两面的复合型<br>
+・双碰的复合型<br>
+・进入下一章之前<br>
+４．暗刻的法则（手牌有复数暗刻）<br>
+・总之先把暗刻隔离出来<br>
+・复数暗刻形成复合型的场合<br>
+・复合型另外和暗刻形成复合型的场合<br>
+・特殊的复合型<br>
+・例外行组合顺子或暗刻后的形<br>
+５．写在最后<br>
+・后记<br>
+・法则&amp;需要记忆的手牌</p>
 ]]></content>
     </entry>
 </feed>
